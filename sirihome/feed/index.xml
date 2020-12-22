@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: SiriHome	</title>
+	<atom:link href="/sirihome/feed/" rel="self" type="application/rss+xml" />
+	<link>/sirihome/</link>
+	<description></description>
+	<lastBuildDate>Sun, 08 Mar 2020 08:45:44 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>
+		By: Sushruth		</title>
+		<link>/sirihome/#comment-14063</link>
+
+		<dc:creator><![CDATA[Sushruth]]></dc:creator>
+		<pubDate>Fri, 13 Apr 2012 12:01:46 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1207#comment-14063</guid>
+
+					<description><![CDATA[A diaphragm can be used both ways to generate magnetic impulses that could be later converted to sound - but you definitely need to get an amplifier if you want it to work the other way round. Try plugging in a microphone into the headphone jack and blasting on the volume - it works, but is VERY WEAK.
+
+I wonder how Jobs managed it with just speakers, you know...]]></description>
+			<content:encoded><![CDATA[<p>A diaphragm can be used both ways to generate magnetic impulses that could be later converted to sound &#8211; but you definitely need to get an amplifier if you want it to work the other way round. Try plugging in a microphone into the headphone jack and blasting on the volume &#8211; it works, but is VERY WEAK.</p>
+<p>I wonder how Jobs managed it with just speakers, you know&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Samridh Kudesia		</title>
+		<link>/sirihome/#comment-13237</link>
+
+		<dc:creator><![CDATA[Samridh Kudesia]]></dc:creator>
+		<pubDate>Wed, 14 Mar 2012 17:24:13 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1207#comment-13237</guid>
+
+					<description><![CDATA[I think this &quot;music system in the whole house&quot; thing was with Wozniak, not Jobs....I read the biography too....I really can&#039;t remember any such thing about Jobs.]]></description>
+			<content:encoded><![CDATA[<p>I think this &#8220;music system in the whole house&#8221; thing was with Wozniak, not Jobs&#8230;.I read the biography too&#8230;.I really can&#8217;t remember any such thing about Jobs.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: gaut.am @ 2020-12-21 18:45:07 by W3 Total Cache
+-->

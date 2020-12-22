@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Gautam Gupta</title>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sun, 08 Mar 2020 08:45:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>Hello, the World of Android!</title>
+		<link>/hello-the-world-of-android/</link>
+					<comments>/hello-the-world-of-android/#comments</comments>
+		
+		<dc:creator><![CDATA[Gautam]]></dc:creator>
+		<pubDate>Sat, 24 Mar 2012 03:39:56 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=1334</guid>
+
+					<description><![CDATA[<p>I have finally bought an Android phone &#8211; Samsung Galaxy Nexus, was thinking to buy one since long. And here it is! 😉 This would help me go on with my plans of Android App development, so look forward to see some Android hacking from me. 😉</p>
+<p>The post <a rel="nofollow" href="/hello-the-world-of-android/">Hello, the World of Android!</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p style="text-align: left;">I have finally bought an Android phone &#8211; Samsung Galaxy Nexus, was thinking to buy one since long. And here it is! <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /><span id="more-1334"></span></p>
+<p style="text-align: center;"><a href="/wp-content/uploads/2012/03/DSC00005.jpg"><img loading="lazy" class="aligncenter  wp-image-1338" title="Samsung Galaxy Nexus" src="/wp-content/uploads/2012/03/DSC00005-768x1024.jpg" alt="Samsung Galaxy Nexus" width="538" height="717" srcset="/wp-content/uploads/2012/03/DSC00005-768x1024.jpg 768w, /wp-content/uploads/2012/03/DSC00005-225x300.jpg 225w, /wp-content/uploads/2012/03/DSC00005.jpg 1536w" sizes="(max-width: 538px) 100vw, 538px" /></a></p>
+<p style="text-align: left;">This would help me go on with my plans of Android App development, so look forward to see some Android hacking from me. <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>The post <a rel="nofollow" href="/hello-the-world-of-android/">Hello, the World of Android!</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/hello-the-world-of-android/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Translating WordPress/bbPress Plugins</title>
+		<link>/translating-wordpress-or-bbpress-plugins/</link>
+					<comments>/translating-wordpress-or-bbpress-plugins/#comments</comments>
+		
+		<dc:creator><![CDATA[Gautam]]></dc:creator>
+		<pubDate>Mon, 18 Jan 2010 02:52:18 +0000</pubDate>
+				<category><![CDATA[Open Source]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?page_id=391</guid>
+
+					<description><![CDATA[<p>This is a short tutorial with screenshots showing how a user can translate a WordPress or bbPress plugin (which has a POT file, most generally do) in his or her own language. Here, I have taken my bbPress plugin After the Deadline as an example to show how to translate with a software named Poedit.&#8230; <a class="more-link" href="/translating-wordpress-or-bbpress-plugins/">Continue reading <span class="screen-reader-text">Translating WordPress/bbPress Plugins</span></a></p>
+<p>The post <a rel="nofollow" href="/translating-wordpress-or-bbpress-plugins/">Translating WordPress/bbPress Plugins</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>This is a short tutorial with screenshots showing how a user can translate a WordPress or bbPress plugin (which has a POT file, most generally do) in his or her own language. Here, I have taken my bbPress plugin <a title="After the Deadline for bbPress" href="http://bbpress.org/plugins/topic/after-the-deadline/">After the Deadline</a> as an example to show how to translate with a software named <a title="PoEdit" href="https://www.poedit.net/">Poedit</a>. I have chosen Poedit because it has a very simple user interface, and is very easy to use.</p>
+<p>Here are the steps:</p>
+<ol>
+<li><a href="https://www.poedit.net/download.php">Download and install Poedit.</a></li>
+<li>Open it. Go to <em>File -&gt; New Catalog from POT file</em><br />
+<a href="/wp-content/uploads/2010/01/open_pot.png"><img loading="lazy" class="aligncenter size-full wp-image-394" title="New Catalog from POT file..." src="/wp-content/uploads/2010/01/open_pot.png" alt="" width="272" height="249" /></a></li>
+<li>Select the POT file. It is generally in the <em>root</em>, <em>languages</em> or <em>translations</em> directory of the plugin.<br />
+<a href="/wp-content/uploads/2010/01/select-pot.png"><img loading="lazy" class="aligncenter size-full wp-image-398" title="Select the POT file" src="/wp-content/uploads/2010/01/select-pot.png" alt="" width="570" height="434" srcset="/wp-content/uploads/2010/01/select-pot.png 570w, /wp-content/uploads/2010/01/select-pot-300x228.png 300w" sizes="(max-width: 570px) 100vw, 570px" /></a></li>
+<li>Enter the settings in the dialog box shown.<br />
+<a href="/wp-content/uploads/2010/01/project-info.png"><img loading="lazy" class="aligncenter size-full wp-image-396" title="Project information" src="/wp-content/uploads/2010/01/project-info.png" alt="" width="392" height="338" srcset="/wp-content/uploads/2010/01/project-info.png 392w, /wp-content/uploads/2010/01/project-info-300x258.png 300w" sizes="(max-width: 392px) 100vw, 392px" /></a></li>
+<li>Enter the path, which is in the same dialog box. Path is the place where is the plugin stored on your local hard disk. In my case it is <em>F:\after-the-deadline</em>.<a href="/wp-content/uploads/2010/01/path-info.png"><img loading="lazy" class="aligncenter size-full wp-image-395" title="Path Info" src="/wp-content/uploads/2010/01/path-info.png" alt="" width="392" height="338" srcset="/wp-content/uploads/2010/01/path-info.png 392w, /wp-content/uploads/2010/01/path-info-300x258.png 300w" sizes="(max-width: 392px) 100vw, 392px" /></a></li>
+<li>Write your translations. Here I have translated the plugin into the language <em>hindi</em>.<a href="/wp-content/uploads/2010/01/translated-hi.png"><img loading="lazy" class="aligncenter size-full wp-image-399" title="Translate the Strings" src="/wp-content/uploads/2010/01/translated-hi.png" alt="" width="617" height="581" srcset="/wp-content/uploads/2010/01/translated-hi.png 617w, /wp-content/uploads/2010/01/translated-hi-300x282.png 300w" sizes="(max-width: 617px) 100vw, 617px" /></a><strong>Note</strong>: Be careful with the php values, such as <em>%s</em>, <em>%1$s</em> etc. Always include them in the translated string, and in the same order if it is <em>%s</em> and doesn&#8217;t include a $ sign! See the screenshot above for an example. Notice that <em>%s</em> is included in both strings.<strong><br />
+</strong></li>
+<li>Save your PO file in the same directory where the POT is stored. Name it as <em>languagecode_COUNTRYCODE</em>. For eg. <em>hi_IN </em>(Hindi is the language and India is the country).<a href="/wp-content/uploads/2010/01/save-po.png"><img loading="lazy" class="aligncenter size-full wp-image-397" title="Save the PO file" src="/wp-content/uploads/2010/01/save-po.png" alt="" width="570" height="434" srcset="/wp-content/uploads/2010/01/save-po.png 570w, /wp-content/uploads/2010/01/save-po-300x228.png 300w" sizes="(max-width: 570px) 100vw, 570px" /></a></li>
+<li>A <em>.mo</em> file would also have been generated. Now notice that my POT&#8217;s name is <em>after-the-deadline</em> and my PO&#8217;s name is <em>hi_IN</em>. Now you have to rename the <em>.mo</em> file to <em>POT-PO.mo</em>. In my case, the resulted file would be <em>after-the-deadline-hi_IN.mo</em>. You can do the same with the PO file too, if you wish, but it is not necessary.</li>
+</ol>
+<p>You have successfully translated the plugin, congrats! If you have translated any of my plugins, please <a title="Contact Gautam" href="/about/">contact me</a> so that I can include the language files in my plugin. If you have any queries, ask them below!</p>
+<p>The post <a rel="nofollow" href="/translating-wordpress-or-bbpress-plugins/">Translating WordPress/bbPress Plugins</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/translating-wordpress-or-bbpress-plugins/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: gaut.am @ 2020-12-21 18:45:39 by W3 Total Cache
+-->

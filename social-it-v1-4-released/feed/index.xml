@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Social It v1.4 Released!	</title>
+	<atom:link href="/social-it-v1-4-released/feed/" rel="self" type="application/rss+xml" />
+	<link>/social-it-v1-4-released/</link>
+	<description></description>
+	<lastBuildDate>Sun, 08 Mar 2020 08:45:46 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>
+		By: Gautam		</title>
+		<link>/social-it-v1-4-released/#comment-875</link>
+
+		<dc:creator><![CDATA[Gautam]]></dc:creator>
+		<pubDate>Tue, 29 Dec 2009 06:20:03 +0000</pubDate>
+		<guid isPermaLink="false">/?p=161#comment-875</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/social-it-v1-4-released/#comment-759&quot;&gt;Rafael&lt;/a&gt;.
+
+It has been added in the 1.5 version.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/social-it-v1-4-released/#comment-759">Rafael</a>.</p>
+<p>It has been added in the 1.5 version.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Rafael		</title>
+		<link>/social-it-v1-4-released/#comment-759</link>
+
+		<dc:creator><![CDATA[Rafael]]></dc:creator>
+		<pubDate>Sat, 12 Dec 2009 23:07:36 +0000</pubDate>
+		<guid isPermaLink="false">/?p=161#comment-759</guid>
+
+					<description><![CDATA[Hi Gautam,
+
+I like a lot your pluging. Is it possible to add the code and the image of meneame (www.meneame.net)?
+It is a Spanish Social Network,
+Thanks
+Rafael]]></description>
+			<content:encoded><![CDATA[<p>Hi Gautam,</p>
+<p>I like a lot your pluging. Is it possible to add the code and the image of meneame (www.meneame.net)?<br />
+It is a Spanish Social Network,<br />
+Thanks<br />
+Rafael</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: gaut.am @ 2020-12-21 18:45:46 by W3 Total Cache
+-->

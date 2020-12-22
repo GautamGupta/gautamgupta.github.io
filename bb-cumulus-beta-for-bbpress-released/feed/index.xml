@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: bbCumulus Plugin (beta) for bbPress released!	</title>
+	<atom:link href="/bb-cumulus-beta-for-bbpress-released/feed/" rel="self" type="application/rss+xml" />
+	<link>/bb-cumulus-beta-for-bbpress-released/</link>
+	<description></description>
+	<lastBuildDate>Sun, 08 Mar 2020 08:45:46 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>
+		By: Carlos		</title>
+		<link>/bb-cumulus-beta-for-bbpress-released/#comment-1180</link>
+
+		<dc:creator><![CDATA[Carlos]]></dc:creator>
+		<pubDate>Mon, 25 Jan 2010 07:44:20 +0000</pubDate>
+		<guid isPermaLink="false">/?p=223#comment-1180</guid>
+
+					<description><![CDATA[Hello Gautam,
+
+I&#039;m using your bb-cumulus, and is really beatifull control the settings, but since I activate the plugin appear on the top of the page this message : 
+
+Warning: is_readable() [function.is-readable]: open_basedir restriction in effect. File(/my-plugins/bb-cumulus/languages/bb-cumulus-en_US.mo) is not within the allowed path(s): (/usr/home/designemergente.org/:/usr/home/phpMyAdmin-plan6/:/usr/home/webstats/) in /usr/home/designemergente.org/web/foro/bb-includes/functions.bb-l10n.php on line 384
+
+could You help me Please?
+best
+Kind Regards.]]></description>
+			<content:encoded><![CDATA[<p>Hello Gautam,</p>
+<p>I&#8217;m using your bb-cumulus, and is really beatifull control the settings, but since I activate the plugin appear on the top of the page this message : </p>
+<p>Warning: is_readable() [function.is-readable]: open_basedir restriction in effect. File(/my-plugins/bb-cumulus/languages/bb-cumulus-en_US.mo) is not within the allowed path(s): (/usr/home/designemergente.org/:/usr/home/phpMyAdmin-plan6/:/usr/home/webstats/) in /usr/home/designemergente.org/web/foro/bb-includes/functions.bb-l10n.php on line 384</p>
+<p>could You help me Please?<br />
+best<br />
+Kind Regards.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: gaut.am @ 2020-12-21 18:45:43 by W3 Total Cache
+-->

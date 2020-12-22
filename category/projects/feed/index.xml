@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Projects &#8211; Gautam Gupta</title>
+	<atom:link href="/category/projects/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sun, 08 Mar 2020 08:45:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>To The Third And Beyond</title>
+		<link>/to-the-third-and-beyond/</link>
+					<comments>/to-the-third-and-beyond/#comments</comments>
+		
+		<dc:creator><![CDATA[Gautam]]></dc:creator>
+		<pubDate>Fri, 11 Oct 2013 17:16:05 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">/?p=1617</guid>
+
+					<description><![CDATA[<p>I think it was a Sunday, year 2005 &#8211; when I was in the third grade. My dad woke up my brother and me to share the news that a driver from India, for the first time, would be participating in a Formula 1 race and that the race was just about to start. Never&#8230; <a class="more-link" href="/to-the-third-and-beyond/">Continue reading <span class="screen-reader-text">To The Third And Beyond</span></a></p>
+<p>The post <a rel="nofollow" href="/to-the-third-and-beyond/">To The Third And Beyond</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>I think it was a Sunday, year 2005 &#8211; when I was in the third grade. My dad woke up my brother and me to share the news that a <a title="Narain Karthikeyan">driver</a> from India, for the first time, would be participating in a Formula 1 race and that the race was just about to start. Never having heard of F1 in particular before, the passion I grew for it just by my dad&#8217;s words and the race was surprisingly amazing. For weeks to come, we used to stick to our screens and watch the complete races, albeit not seeing the Indian driver winning, but the spectacle that was put up was just mesmerising. As the time passed and I progressed into higher classes, the time commitment reduced and I gradually stopped watching the races but the love didn&#8217;t die.</p>
+<p>Fast forwarding to the 11th grade, when my first term exams had just ended, one day our Physics teacher came in and asked us if anyone was interested in participating in the F1 in Schools India competition &#8211; where we had to set up our own teams, design a miniature car for drag racing, setup pit booths and deliver presentations. Err&#8230;<span id="more-1617"></span> I was certainly in! What I needed was a team &#8211; of 6 members who would come with me in this long journey, and believe in what we were building. We eventually went on to qualify for the nationals and win two awards in Jan 2013 and then come third in the nationals in Oct 2013. I&#8217;d love to share some of my learnings in this year long journey, that apply to anyone who&#8217;s onto building something he or she loves!</p>
+<h3></h3>
+<h3>Lesson 1 &#8211; Building a Team</h3>
+<p>The prior year, I participated in a project named SpaceSet &#8211; I was a part of a well-built team composition (characteristics and qualities) but those qualities were possessed by hipsters and busy people. There were two problems: 1) The shear size of the team &#8211; 12 members! Coordination just used to go haywire. 2) Getting the people to work who didn&#8217;t actually love what they were doing but possessed the necessary skill set. Moreover, a big chunk of the team was from the 12th grade, others went to coaching institutions after the school or were simply busy with other competitions.</p>
+<p>The first problem of the size was solved by the rules of the F1 competition itself &#8211; we could only have 3 to 6 members. For the second, I decided to knock every door of class X and XI, inquire my friends for people who loved F1, clean the list from fanboys and get <strong>down to earth, hard working people who weren&#8217;t busy, could work in a team towards one goal</strong> and fitted the criteria of the people we needed. It was hard. Especially I was hell bound to have at least one female member in the team. But alas, an awesome team of six was made!</p>
+<p><strong>Rockstar Designer</strong> &#8211; Aditya Kumar &#8211; he was the one who passed through all the tests without hitting even a millimeter of the funnel. He&#8217;s just an encyclopedia on F1 &#8211; the love and passion for F1 he has is just unmatchable. We found him when one of the already existing members backed out when he heard that there was a fairly big registration fee &#8211; was it luck that that happened? Would it have been better if the original person had stayed? I can&#8217;t say, but in more probability, no.</p>
+<p><strong>Manufacturing Engineer</strong> &#8211; Ayush Punn &#8211; we found him when we were still running short of one person and needed someone to handle the manufacturing, and he was just the perfect fit again! His <em>contacts</em>Â and his own <em>way</em> got us into some partnerships and having some of the crucial car work done on time!</p>
+<p><strong>Creativity Gal cum Head of R&amp;D</strong> &#8211; Charvi Aggarwal &#8211; she&#8217;s probably the only girl in the whole class who is sensible, intelligent, expressive and hard working at the same time, plus has a love for cars. The ideas she suggested would have probably never ever popped up in my mind.</p>
+<figure id="attachment_1629" aria-describedby="caption-attachment-1629" style="width: 960px" class="wp-caption aligncenter"><img loading="lazy" class="size-full wp-image-1629" src="/wp-content/uploads/2013/10/team_featured.png" alt="ForzaVeyhan Team" width="960" height="360" srcset="/wp-content/uploads/2013/10/team_featured.png 960w, /wp-content/uploads/2013/10/team_featured-300x112.png 300w" sizes="(max-width: 960px) 100vw, 960px" /><figcaption id="caption-attachment-1629" class="wp-caption-text">The wheels that run ForzaVeyhan</figcaption></figure>
+<p><strong>Lazybum Graphics Guy</strong> &#8211; Kshitij Kapoor &#8211; After me, he was the only techy person in the team. Being down to earth and honest, sometimes <del>lazy</del> (update: he made a 24 point checklist for the nationals) and sometimes a pain, he provided the team with valuable inputs and took charge when it was necessary.</p>
+<p><strong>Finance Man</strong> &#8211; Siddhant Agarwal &#8211; He added the required bit of professionalism to the team. Even though he left us after the regionals, he was a great add for the part he was with us &#8211; and always induced the necessary amount of humor whenever the team was having discussions.</p>
+<p><strong>Team Principal</strong> &#8211; Myself. <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> During the initial months of the competition, I was also a part of GSF India, a startup accelerator. The amount of knowledge that the experience gave me was just astounding and I thought it was a good idea to apply some of the skills I had just acquired &#8211; and <span style="color: #000000;"><del>manage</del></span> lead the team the best way I could!</p>
+<h3></h3>
+<h3>Lesson 2 &#8211; Getting them Familiar with the Tech</h3>
+<p><em>And having them put a subject to an email.</em></p>
+<p>Starting from Google Hangouts, we had to settle on <strong>email and WhatsApp</strong>. While Kshitij and I usually had long Skype calls, the rest didn&#8217;t have online calls mainly for the reason that a) we could meet in school b) setting up video calls and calling everyone was a huge pain and we figured that we didn&#8217;t really need them. Since the majority of the team was non-geeky, I think this form of basic communication was a fair compromise.</p>
+<figure id="attachment_1623" aria-describedby="caption-attachment-1623" style="width: 706px" class="wp-caption aligncenter"><img loading="lazy" class="size-large wp-image-1623" src="/wp-content/uploads/2013/10/Screen-Shot-2013-10-10-at-9.06.56-PM.png" alt="ForzaVeyhan Duties" width="706" height="365" srcset="/wp-content/uploads/2013/10/Screen-Shot-2013-10-10-at-9.06.56-PM.png 706w, /wp-content/uploads/2013/10/Screen-Shot-2013-10-10-at-9.06.56-PM-300x155.png 300w" sizes="(max-width: 706px) 100vw, 706px" /><figcaption id="caption-attachment-1623" class="wp-caption-text">The ForzaVeyhan &#8216;Duties&#8217; emails &#8211; that used to keep everyone on their toes.</figcaption></figure>
+<h3></h3>
+<h3>Lesson 3 &#8211; ForzaVeyhan &#8211; A &#8216;Brand&#8217;</h3>
+<p>ForzaVeyhan &#8211; the unique name came after much debate within our team on what the name should be. Aditya, our encyclopedia suggested that we keep the name Forza &#8211; a motivational word that means &#8216;go&#8217; in Italian and Charvi, our creativity gal suggest we keep it Veyhan &#8211; a modified version of the Sanskrit word &#8216;Vahan&#8217;. One of us then just fused both of them together and ForzaVeyhan was born! Our logo &#8211; depiction of a heartbeat and a race track is a masterpiece by our graphics guy Kshitij.</p>
+<p><img loading="lazy" class="aligncenter size-large wp-image-1627" src="/wp-content/uploads/2013/10/forzveyhan_final_full_logo_transparent1-1024x173.png" alt="ForzaVeyhan Logo" width="960" height="162" srcset="/wp-content/uploads/2013/10/forzveyhan_final_full_logo_transparent1-1024x173.png 1024w, /wp-content/uploads/2013/10/forzveyhan_final_full_logo_transparent1-300x50.png 300w, /wp-content/uploads/2013/10/forzveyhan_final_full_logo_transparent1.png 1412w" sizes="(max-width: 960px) 100vw, 960px" /></p>
+<p>From the very beginning, I had instilled that ForzaVeyhan is <strong>not just a name &#8211; it&#8217;s a brand</strong>. That has elegance, simplicity, functionality and sophistication associated with it. We had to stand by its values and not let it down. Having <strong>consistent FV branding in all</strong> our public and even private materials and deliverables became de facto. By the end, all of us were determined of the power in the word ForzaVeyhan and decided that the <strong>legacy should continue</strong> &#8211; but only if we find good hands to give it in.</p>
+<h3></h3>
+<h3>Lesson 4 &#8211; Getting Sponsorship &amp; Need for Perfection</h3>
+<p>One week into the competition, I was wondering how could we ever get our team to be sponsored by companies &#8211; who would give money to us for such a thing. It turned out that <strong>I was completely wrong</strong> &#8211; corporates do sponsor if you approach them in the right manner. We contacted several corporates to sponsor us &#8211; in all, we raised about a bit more than a hundred thousand rupees &#8211; for both the regionals and the nationals.</p>
+<p>We prepared a sponsorship proposal and I think this was the first time that my need for perfection was felt by the team. The <strong>proposal was reiterated over ten times</strong> &#8211; getting better content, fixing alignment, choosing the right colors, having a proper layout. Even in the <strong>emails that were written</strong>, we perfected the text we sent &#8211; proper paragraph formation, proper subjects, correct punctuations, a good signature. Perfection was something that they were going to get used to, and by the end, <strong>imbibe the same sense in themselves</strong> &#8211; and I&#8217;m glad that they did!</p>
+<h3></h3>
+<h3>Lesson 5 &#8211; Marketing &#8211; Focusing on the Main Thing</h3>
+<p>As a part of the competition, we had to market ourselves and our sponsors. We decided to put up a video gaming stall in a carnival and give sponsors&#8217; merchandise products as prizes. It turned out to be a drag. We wasted our time and efforts in arranging a LCD on rent, borrowing consoles and games, travelling &#8211; but the <strong>stall just didn&#8217;t work</strong>. We couldn&#8217;t attract the gamers and the small children who were attracted found too hard to play the games. We could have, probably, done a better job at having the right games with the right difficulties for all age groups, but we had not, for that day. Nevertheless, we failed fast and had a learning to take back home. And that was to <strong>have proper research in place</strong> for whatever you&#8217;re doing &#8211; think how the situations would turn out on that day, what decisions you might have to take. We didn&#8217;t experiment more on this as we thought to focus our efforts on other areas that were demanding time. We started up a website, social media pages and a sponsor decided to make a video on us and our journey that would be published on their Facebook page. Sid really achieved a wonderful feat of getting familiar with the process of posting on the website and using all the new tools, given that he&#8217;s not really into tech!</p>
+<h3></h3>
+<h3>Lesson 6 &#8211; System of Checks &amp; Balances</h3>
+<p>The amount of designing, aerodynamics and usage of CAD software that our rockstar designer learnt in such a short span was commendable. However, in retrospect, in our team meet after the competition, we thought that we should have employed a system of checks and balances. The <strong>whole design process had been shifted onto Aditya</strong> with not much interference from other members &#8211; we had thought that he would be able to execute it himself &#8211; but it turned out that he misinterpreted some of the critical technical regulations in the design of the car which could have been avoided early on. Had another team member sat with him and went through the regulations, we wouldn&#8217;t have had to do the &#8216;quick fixes&#8217; in the car that we had to at the last moment.</p>
+<figure id="attachment_1634" aria-describedby="caption-attachment-1634" style="width: 960px" class="wp-caption aligncenter"><img loading="lazy" class="size-large wp-image-1634" src="/wp-content/uploads/2013/10/IMG_20130111_152347-e1381509713769-1024x481.jpg" alt="ForzaVeyhan 1.3" width="960" height="450" srcset="/wp-content/uploads/2013/10/IMG_20130111_152347-e1381509713769-1024x481.jpg 1024w, /wp-content/uploads/2013/10/IMG_20130111_152347-e1381509713769-300x140.jpg 300w" sizes="(max-width: 960px) 100vw, 960px" /><figcaption id="caption-attachment-1634" class="wp-caption-text">ForzaVeyhan 1.3 &#8211; The Revolutionizer</figcaption></figure>
+<h3></h3>
+<h3>Lesson 7 &#8211; The &#8216;<a href="http://en.wikipedia.org/wiki/Jugaad">Jugaad</a>&#8216; Guy</h3>
+<p>It was our manufacturing engineer who saved us through the short breathing space between the car just outside the CNC machine and the moment the ignition button was pressed. In both our regionals and nationals, we scrambled onto almost the last days to get our design manufactured. But that&#8217;s not just it &#8211; it has to be painted upon, have the holes drilled in for axles and then assembled. With his <strong>unique bonding with people</strong> in that field, we were able to get that work done in no time. He also <strong>talked out a partnership</strong> with the car painter that led us to have a beautiful car at the end, at no extra cost. If we had not had this quintessential guy, we might have been as well racing on the track with unpainted wooden blocks!</p>
+<h3></h3>
+<h3>Lesson 8 &#8211; Team Conflicts</h3>
+<p>You&#8217;re <strong>not a team unless you&#8217;re fighting for the best thing to be done for the team</strong> &#8211; that is no team can survive without having any team conflicts. And our team had them too, a bit too many. We had a person departing from the team after the regionals because of his commitments towards his studies; fingers were raised when the design didn&#8217;t perform well or a decision turned out to be a bad one. But it was only in the goodwill for the team and we ended with the thought that everyone of us are individual personalities with individual thought processes, that is developed by the experiences we&#8217;ve had. Any criticizer commenting on one&#8217;s actions might be right or might be wrong, but remember that he or she has been made to think like that because of what you&#8217;ve done; take a few moments to think from the perspective of the other person, and then proceed with what your mind says. You&#8217;ll always find all kinds of people throughout your life, and it&#8217;s your job to take in constructive feedback, drift through the dust and work towards your goal.</p>
+<h3></h3>
+<h3>Conclusion</h3>
+<p>Even though we came third in the competition, but the very reason that we took part in it was to improve ourselves. It&#8217;s about learning and going beyond. <em>To the third and beyond!</em></p>
+<p>The post <a rel="nofollow" href="/to-the-third-and-beyond/">To The Third And Beyond</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/to-the-third-and-beyond/feed/</wfw:commentRss>
+			<slash:comments>9</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Discover I in Review</title>
+		<link>/discover-i-in-review/</link>
+		
+		<dc:creator><![CDATA[Gautam]]></dc:creator>
+		<pubDate>Wed, 12 Dec 2012 10:30:11 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">/?p=1590</guid>
+
+					<description><![CDATA[<p>Discover I has come a long way since its inception in October last year, from hosting four competitions in slums and rural areas, collaborating with our own&#8217;s school social efforts in teaching girls from underprivileged families, organizing a summer camp with the help of an NGO school — impacting over 500 children with the help of&#8230; <a class="more-link" href="/discover-i-in-review/">Continue reading <span class="screen-reader-text">Discover I in Review</span></a></p>
+<p>The post <a rel="nofollow" href="/discover-i-in-review/">Discover I in Review</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Discover I has come a long way since its inception in October last year, from hosting four competitions in slums and rural areas, collaborating with our own&#8217;s school social efforts in teaching girls from underprivileged families, organizing a summer camp with the help of an NGO school — impacting over 500 children with the help of over 100 volunteers! It has also been awarded the Best Awareness Campaign under the Youth Power competition conducted by the newspaper The Global Times and also received a mention in the national daily <a title="Discover I in News!" href="/discover-i-in-news/">The Times of India</a>. Similar initiatives have even been undertaken under different names in cities like Manipal (thanks bro!) and Mumbai (thanks internet friend!). I feel proud of being a part of such an organization.<span id="more-1590"></span></p>
+<p>It all started when about a year ago, Vathul (co-founder of Discover I), wrote a heartfelt message to me. He expressed his disgust at the situation of the underprivileged children in our city and urged to do something about it. I couldn’t help myself than joining him. We formed a team of four and founded Discover I, whose objective is to find such kids who are good at activities like art, dance, music, etc. and provide them with teachers in that field to further enhance their skills. I was particularly inclined towards executing this initiative as I knew how computers could impact the lives of these children, and that these skills might help them find employment in the future.</p>
+<p>From a small group of four, we&#8217;ve grown into a strong team of over a hundred students. I had never perceived that we would have been able to generate such a traction. I had underestimated the power of a community. Discover I helped change my perception and gave me a lifelong lesson: When one puts in a genuine effort, when one shows others the reason of doing something, they connect to others’ hearts. They can motivate a community as large as consisting of the whole of humanity, to contribute to a cause.</p>
+<p>The sheer joy of having done something worthwhile brimmed us with satisfaction. It was heartwarming to see our students discover their true potential. Making a difference in someone’s life and learning a lesson is what matters to me. The conversations I had, the incidents I experienced will remain etched in my mind forever, as a source of motivation to help others.</p>
+<p><iframe title="Discover I - What We Do &amp; Why We Do in Just a Minute (JAM)!" width="750" height="422" src="https://www.youtube.com/embed/ur0FYZEOErc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>The post <a rel="nofollow" href="/discover-i-in-review/">Discover I in Review</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Discover I in News!</title>
+		<link>/discover-i-in-news/</link>
+		
+		<dc:creator><![CDATA[Gautam]]></dc:creator>
+		<pubDate>Sun, 18 Mar 2012 16:57:38 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">/?p=1328</guid>
+
+					<description><![CDATA[<p>I recently announced the inception of the Discover I foundation, an initiative by my friends and me to help underprivileged children who are good at co-curricular activities to polish their skills and showcase their talent. I&#8217;m proud to tell that Discover I has been featured in India&#8217;s leading daily Times of India (15 March 2012 Gurgaon edition &#8211;&#8230; <a class="more-link" href="/discover-i-in-news/">Continue reading <span class="screen-reader-text">Discover I in News!</span></a></p>
+<p>The post <a rel="nofollow" href="/discover-i-in-news/">Discover I in News!</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>I recently <a title="Announcing Discover I Foundation" href="/announcing-discover-i/">announced</a> the inception of the Discover I foundation, an initiative by my friends and me to help underprivileged children who are good at co-curricular activities to polish their skills and showcase their talent. I&#8217;m proud to tell that Discover I has been featured in India&#8217;s leading daily Times of India (15 March 2012 Gurgaon edition &#8211; page 9). <a title="Gurgaon students show the way, set up NGO to help poor kids - MeriNews" href="https://web.archive.org/web/20190607101414/http://www.merinews.com:80/article/gurgaon-students-show-the-way-set-up-ngo-to-help-poor-kids/15867192.shtml">MeriNews</a> also published an article about the initiative (another one <a title="How four school students in Gurgaon are spotting talent in the poor - MeriNews" href="https://web.archive.org/web/20190620130149/http://www.merinews.com:80/article/how-four-school-students-in-gurgaon-are-spotting-talent-in-the-poor/15867721.shtml">here</a>). Here is the clipping of the TOI article!<span id="more-1328"></span></p>
+<p style="text-align: center;"><a href="/wp-content/uploads/2012/03/ngo.jpg"><img loading="lazy" class="aligncenter  wp-image-1329" title="Discover I Foundation News in Times of India Gurgaon Edition 15 March 2012 Page 9" src="/wp-content/uploads/2012/03/ngo.jpg" alt="Discover I Foundation News in Times of India Gurgaon Edition 15 March 2012 Page 9" width="572" height="323" srcset="/wp-content/uploads/2012/03/ngo.jpg 960w, /wp-content/uploads/2012/03/ngo-300x168.jpg 300w" sizes="(max-width: 572px) 100vw, 572px" /></a></p>
+<p>The post <a rel="nofollow" href="/discover-i-in-news/">Discover I in News!</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Announcing Discover I Foundation</title>
+		<link>/announcing-discover-i/</link>
+		
+		<dc:creator><![CDATA[Gautam]]></dc:creator>
+		<pubDate>Sat, 08 Oct 2011 11:17:19 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">/?p=1151</guid>
+
+					<description><![CDATA[<p>I&#8217;m proud to announce a new organisation named Discover I, which helps in bringing out the hidden talent among the underprivileged children to the real world. Like the Facebook page to show your support. 😉</p>
+<p>The post <a rel="nofollow" href="/announcing-discover-i/">Announcing Discover I Foundation</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" class="size-full wp-image-1152 alignleft" title="Discover I Foundation" src="/wp-content/uploads/2011/10/logo.png" alt="Discover I Foundation Logo" width="195" height="52" />I&#8217;m proud to announce a new organisation named Discover I, which helps in bringing out the <em>hidden</em> talent among the underprivileged children to the real world. Like the <a title="Discover I Foundation Facebook Page" href="http://www.facebook.com/pages/Discover-I-Foundation/184864394923344">Facebook page</a> to show your support. <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>The post <a rel="nofollow" href="/announcing-discover-i/">Announcing Discover I Foundation</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: gaut.am @ 2020-12-21 18:44:48 by W3 Total Cache
+-->

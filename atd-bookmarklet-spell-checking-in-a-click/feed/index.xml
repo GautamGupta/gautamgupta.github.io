@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: AtD Bookmarklet &#8211; Spell Checking in a Click!	</title>
+	<atom:link href="/atd-bookmarklet-spell-checking-in-a-click/feed/" rel="self" type="application/rss+xml" />
+	<link>/atd-bookmarklet-spell-checking-in-a-click/</link>
+	<description></description>
+	<lastBuildDate>Sun, 08 Mar 2020 08:45:46 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>
+		By: Mike		</title>
+		<link>/atd-bookmarklet-spell-checking-in-a-click/#comment-1292</link>
+
+		<dc:creator><![CDATA[Mike]]></dc:creator>
+		<pubDate>Mon, 22 Mar 2010 21:26:51 +0000</pubDate>
+		<guid isPermaLink="false">/?p=360#comment-1292</guid>
+
+					<description><![CDATA[Thanks for a wonderful post, l ve been looking for such information, I will join jour rss feed now.]]></description>
+			<content:encoded><![CDATA[<p>Thanks for a wonderful post, l ve been looking for such information, I will join jour rss feed now.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Gautam		</title>
+		<link>/atd-bookmarklet-spell-checking-in-a-click/#comment-1182</link>
+
+		<dc:creator><![CDATA[Gautam]]></dc:creator>
+		<pubDate>Mon, 25 Jan 2010 17:22:54 +0000</pubDate>
+		<guid isPermaLink="false">/?p=360#comment-1182</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/atd-bookmarklet-spell-checking-in-a-click/#comment-1181&quot;&gt;Ramkumar&lt;/a&gt;.
+
+This is a bookmarklet, but there is also a firefox plugin in development which is currently in alpha stage.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/atd-bookmarklet-spell-checking-in-a-click/#comment-1181">Ramkumar</a>.</p>
+<p>This is a bookmarklet, but there is also a firefox plugin in development which is currently in alpha stage.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Ramkumar		</title>
+		<link>/atd-bookmarklet-spell-checking-in-a-click/#comment-1181</link>
+
+		<dc:creator><![CDATA[Ramkumar]]></dc:creator>
+		<pubDate>Mon, 25 Jan 2010 11:39:44 +0000</pubDate>
+		<guid isPermaLink="false">/?p=360#comment-1181</guid>
+
+					<description><![CDATA[Is this a software or an addon for Firefox,.  The way it looks like an addon for firefox, correct me if Im wrong :)]]></description>
+			<content:encoded><![CDATA[<p>Is this a software or an addon for Firefox,.  The way it looks like an addon for firefox, correct me if Im wrong 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Gautam		</title>
+		<link>/atd-bookmarklet-spell-checking-in-a-click/#comment-1079</link>
+
+		<dc:creator><![CDATA[Gautam]]></dc:creator>
+		<pubDate>Wed, 13 Jan 2010 12:03:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=360#comment-1079</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/atd-bookmarklet-spell-checking-in-a-click/#comment-1060&quot;&gt;Raphael Mudge&lt;/a&gt;.
+
+That would be great! Looking forward for it! Also for the new version of AtD/jQuery (to be released officially).]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/atd-bookmarklet-spell-checking-in-a-click/#comment-1060">Raphael Mudge</a>.</p>
+<p>That would be great! Looking forward for it! Also for the new version of AtD/jQuery (to be released officially).</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Raphael Mudge		</title>
+		<link>/atd-bookmarklet-spell-checking-in-a-click/#comment-1060</link>
+
+		<dc:creator><![CDATA[Raphael Mudge]]></dc:creator>
+		<pubDate>Tue, 12 Jan 2010 14:39:55 +0000</pubDate>
+		<guid isPermaLink="false">/?p=360#comment-1060</guid>
+
+					<description><![CDATA[Thanks for the writeup Gautam. I&#039;m working to improve this feature with contentEditable=true so users can still edit while the highlighted phrases are there. We&#039;ll see how it goes :)]]></description>
+			<content:encoded><![CDATA[<p>Thanks for the writeup Gautam. I&#8217;m working to improve this feature with contentEditable=true so users can still edit while the highlighted phrases are there. We&#8217;ll see how it goes 🙂</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: gaut.am @ 2020-12-21 18:45:50 by W3 Total Cache
+-->

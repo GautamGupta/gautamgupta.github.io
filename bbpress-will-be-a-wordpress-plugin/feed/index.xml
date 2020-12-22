@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: bbPress will be a WordPress Plugin	</title>
+	<atom:link href="/bbpress-will-be-a-wordpress-plugin/feed/" rel="self" type="application/rss+xml" />
+	<link>/bbpress-will-be-a-wordpress-plugin/</link>
+	<description></description>
+	<lastBuildDate>Sun, 08 Mar 2020 08:45:46 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>
+		By: Peter Box		</title>
+		<link>/bbpress-will-be-a-wordpress-plugin/#comment-3478</link>
+
+		<dc:creator><![CDATA[Peter Box]]></dc:creator>
+		<pubDate>Wed, 04 May 2011 07:16:28 +0000</pubDate>
+		<guid isPermaLink="false">/?p=304#comment-3478</guid>
+
+					<description><![CDATA[Frankly though, I did not like BB press too much. I would always suggest people to take a look at Vanilla forum also. One example is slicehost forums. They look way neater.]]></description>
+			<content:encoded><![CDATA[<p>Frankly though, I did not like BB press too much. I would always suggest people to take a look at Vanilla forum also. One example is slicehost forums. They look way neater.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Daniel Juhl Mogensen		</title>
+		<link>/bbpress-will-be-a-wordpress-plugin/#comment-1106</link>
+
+		<dc:creator><![CDATA[Daniel Juhl Mogensen]]></dc:creator>
+		<pubDate>Sat, 16 Jan 2010 00:43:12 +0000</pubDate>
+		<guid isPermaLink="false">/?p=304#comment-1106</guid>
+
+					<description><![CDATA[I don&#039;t really know what to think about this.. I liked the idea of bbPress being a standalone software package, which could be integrated into already existing websites, portals and more, which doesn&#039;t use WordPress. After this change, all these will have to install WordPress, right?]]></description>
+			<content:encoded><![CDATA[<p>I don&#8217;t really know what to think about this.. I liked the idea of bbPress being a standalone software package, which could be integrated into already existing websites, portals and more, which doesn&#8217;t use WordPress. After this change, all these will have to install WordPress, right?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Gautam		</title>
+		<link>/bbpress-will-be-a-wordpress-plugin/#comment-1107</link>
+
+		<dc:creator><![CDATA[Gautam]]></dc:creator>
+		<pubDate>Fri, 15 Jan 2010 15:07:55 +0000</pubDate>
+		<guid isPermaLink="false">/?p=304#comment-1107</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/bbpress-will-be-a-wordpress-plugin/#comment-1106&quot;&gt;Daniel Juhl Mogensen&lt;/a&gt;.
+
+Yup, you&#039;ll have to install WordPress first and then bbPress (which will be a canonical plugin). It wouldn&#039;t matter a lot as now plugin can be installed in a few clicks.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/bbpress-will-be-a-wordpress-plugin/#comment-1106">Daniel Juhl Mogensen</a>.</p>
+<p>Yup, you&#8217;ll have to install WordPress first and then bbPress (which will be a canonical plugin). It wouldn&#8217;t matter a lot as now plugin can be installed in a few clicks.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Dave Holowiski		</title>
+		<link>/bbpress-will-be-a-wordpress-plugin/#comment-909</link>
+
+		<dc:creator><![CDATA[Dave Holowiski]]></dc:creator>
+		<pubDate>Thu, 31 Dec 2009 22:44:38 +0000</pubDate>
+		<guid isPermaLink="false">/?p=304#comment-909</guid>
+
+					<description><![CDATA[That&#039;s really great to hear.  I&#039;ve been holding off on putting up a forum on my site because I don&#039;t want to have 2 software packages to maintain (Wordpress and forum software) so it will be really nice when it is a plugin. 
+I&#039;m looking forward to Canonical plugins too, and it will be great to see bbpress as a canonical plugin. 
+So many fun things coming up in 2010 for WordPress!]]></description>
+			<content:encoded><![CDATA[<p>That&#8217;s really great to hear.  I&#8217;ve been holding off on putting up a forum on my site because I don&#8217;t want to have 2 software packages to maintain (WordPress and forum software) so it will be really nice when it is a plugin.<br />
+I&#8217;m looking forward to Canonical plugins too, and it will be great to see bbpress as a canonical plugin.<br />
+So many fun things coming up in 2010 for WordPress!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: gaut.am @ 2020-12-21 18:45:52 by W3 Total Cache
+-->

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Fixing the Issue of Tags Not Getting Deleted in bbPress 1.0	</title>
+	<atom:link href="/tags-not-getting-deleted-in-bbpress/feed/" rel="self" type="application/rss+xml" />
+	<link>/tags-not-getting-deleted-in-bbpress/</link>
+	<description></description>
+	<lastBuildDate>Sun, 08 Mar 2020 08:45:46 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>
+		By: Raffaell		</title>
+		<link>/tags-not-getting-deleted-in-bbpress/#comment-3462</link>
+
+		<dc:creator><![CDATA[Raffaell]]></dc:creator>
+		<pubDate>Sun, 01 May 2011 07:11:05 +0000</pubDate>
+		<guid isPermaLink="false">/?p=273#comment-3462</guid>
+
+					<description><![CDATA[Hi Gautam, it works like a charm...
+
+Btw, Im using the latest bbpress now 103 on my site http://teknoinfo.web.id/forum, but seems like mostly ck plugin not worky anymore. I also have trouble to check the template tags for bbpress, ur site help a lot, really appreciate that. keep up the good work!]]></description>
+			<content:encoded><![CDATA[<p>Hi Gautam, it works like a charm&#8230;</p>
+<p>Btw, Im using the latest bbpress now 103 on my site <a href="http://teknoinfo.web.id/forum" rel="nofollow ugc">http://teknoinfo.web.id/forum</a>, but seems like mostly ck plugin not worky anymore. I also have trouble to check the template tags for bbpress, ur site help a lot, really appreciate that. keep up the good work!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: gaut.am @ 2020-12-21 18:45:54 by W3 Total Cache
+-->

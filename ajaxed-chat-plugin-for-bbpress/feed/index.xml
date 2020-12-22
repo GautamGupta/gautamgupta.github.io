@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Ajaxed Chat Plugin for bbPress!	</title>
+	<atom:link href="/ajaxed-chat-plugin-for-bbpress/feed/" rel="self" type="application/rss+xml" />
+	<link>/ajaxed-chat-plugin-for-bbpress/</link>
+	<description></description>
+	<lastBuildDate>Sun, 08 Mar 2020 08:45:46 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>
+		By: Foro Zippos		</title>
+		<link>/ajaxed-chat-plugin-for-bbpress/#comment-1793</link>
+
+		<dc:creator><![CDATA[Foro Zippos]]></dc:creator>
+		<pubDate>Tue, 28 Sep 2010 20:59:58 +0000</pubDate>
+		<guid isPermaLink="false">/?p=135#comment-1793</guid>
+
+					<description><![CDATA[Hello everyone. I have mounted phpFreeChat chat as a plugin in bbPress forum.
+
+I would like without having to enter the chat to display registered users are currently logged into the chat. A kind of feature that shows users online chat.
+
+To find users who are online bbPress forum there is a plugin that I have installed, but this does not help, because you can be logged into the forum but can not be using the chat. Is there any way to display online chat users without entering it?
+
+A greeting and thanks in advance.]]></description>
+			<content:encoded><![CDATA[<p>Hello everyone. I have mounted phpFreeChat chat as a plugin in bbPress forum.</p>
+<p>I would like without having to enter the chat to display registered users are currently logged into the chat. A kind of feature that shows users online chat.</p>
+<p>To find users who are online bbPress forum there is a plugin that I have installed, but this does not help, because you can be logged into the forum but can not be using the chat. Is there any way to display online chat users without entering it?</p>
+<p>A greeting and thanks in advance.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Pastor Bob Steele		</title>
+		<link>/ajaxed-chat-plugin-for-bbpress/#comment-1711</link>
+
+		<dc:creator><![CDATA[Pastor Bob Steele]]></dc:creator>
+		<pubDate>Sun, 15 Aug 2010 18:45:30 +0000</pubDate>
+		<guid isPermaLink="false">/?p=135#comment-1711</guid>
+
+					<description><![CDATA[Hello again.
+
+How can I set another user with administrator privileges (besides the Key Master) and where do I do that?
+
+How can I have a chat page to be cleared whenever an user rejoins the chat?
+
+Is is possible to make a bot (and if yes, how) that would control the language on the chat and would also manage the content of a page (say, some rules of conduct, a welcome message, some basic help etc.)?
+
+Thank you.
+
+Bob.]]></description>
+			<content:encoded><![CDATA[<p>Hello again.</p>
+<p>How can I set another user with administrator privileges (besides the Key Master) and where do I do that?</p>
+<p>How can I have a chat page to be cleared whenever an user rejoins the chat?</p>
+<p>Is is possible to make a bot (and if yes, how) that would control the language on the chat and would also manage the content of a page (say, some rules of conduct, a welcome message, some basic help etc.)?</p>
+<p>Thank you.</p>
+<p>Bob.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Pastor Bob		</title>
+		<link>/ajaxed-chat-plugin-for-bbpress/#comment-1670</link>
+
+		<dc:creator><![CDATA[Pastor Bob]]></dc:creator>
+		<pubDate>Sun, 01 Aug 2010 18:48:21 +0000</pubDate>
+		<guid isPermaLink="false">/?p=135#comment-1670</guid>
+
+					<description><![CDATA[Hello.
+
+The plugin works beautifully out of the box really. Congratulations! What I would like to know is how do I set a password on a specific channel?
+
+Thank you.
+Bob]]></description>
+			<content:encoded><![CDATA[<p>Hello.</p>
+<p>The plugin works beautifully out of the box really. Congratulations! What I would like to know is how do I set a password on a specific channel?</p>
+<p>Thank you.<br />
+Bob</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Gautam		</title>
+		<link>/ajaxed-chat-plugin-for-bbpress/#comment-745</link>
+
+		<dc:creator><![CDATA[Gautam]]></dc:creator>
+		<pubDate>Fri, 11 Dec 2009 09:21:40 +0000</pubDate>
+		<guid isPermaLink="false">/?p=135#comment-745</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/ajaxed-chat-plugin-for-bbpress/#comment-718&quot;&gt;Soifone&lt;/a&gt;.
+
+That it is because the plugin needs to load the javascript files. In newer version, I will try to make it load the javascripts after the page has been loaded.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/ajaxed-chat-plugin-for-bbpress/#comment-718">Soifone</a>.</p>
+<p>That it is because the plugin needs to load the javascript files. In newer version, I will try to make it load the javascripts after the page has been loaded.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Soifone		</title>
+		<link>/ajaxed-chat-plugin-for-bbpress/#comment-718</link>
+
+		<dc:creator><![CDATA[Soifone]]></dc:creator>
+		<pubDate>Tue, 08 Dec 2009 13:35:22 +0000</pubDate>
+		<guid isPermaLink="false">/?p=135#comment-718</guid>
+
+					<description><![CDATA[Hi Gautam,
+
+Im having the same problem as Robert. After embeding it always stucks at: &quot;Chat loading...&quot;. I checked the path (my-plugins/ajaxed-chat) etc.
+
+Any idea?
+
+thx]]></description>
+			<content:encoded><![CDATA[<p>Hi Gautam,</p>
+<p>Im having the same problem as Robert. After embeding it always stucks at: &#8220;Chat loading&#8230;&#8221;. I checked the path (my-plugins/ajaxed-chat) etc.</p>
+<p>Any idea?</p>
+<p>thx</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Rodrigo		</title>
+		<link>/ajaxed-chat-plugin-for-bbpress/#comment-509</link>
+
+		<dc:creator><![CDATA[Rodrigo]]></dc:creator>
+		<pubDate>Sat, 14 Nov 2009 02:41:01 +0000</pubDate>
+		<guid isPermaLink="false">/?p=135#comment-509</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/ajaxed-chat-plugin-for-bbpress/#comment-501&quot;&gt;Gautam&lt;/a&gt;.
+
+Solved the problem! Thanks a lot. :)]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/ajaxed-chat-plugin-for-bbpress/#comment-501">Gautam</a>.</p>
+<p>Solved the problem! Thanks a lot. 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Gautam		</title>
+		<link>/ajaxed-chat-plugin-for-bbpress/#comment-501</link>
+
+		<dc:creator><![CDATA[Gautam]]></dc:creator>
+		<pubDate>Thu, 12 Nov 2009 10:23:08 +0000</pubDate>
+		<guid isPermaLink="false">/?p=135#comment-501</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/ajaxed-chat-plugin-for-bbpress/#comment-346&quot;&gt;Rodrigo&lt;/a&gt;.
+
+Please try using the development version which can be &lt;a href=&quot;http://plugins-svn.bbpress.org/ajaxed-chat/&quot; rel=&quot;nofollow&quot;&gt;downloaded from here&lt;/a&gt;. Please refer &lt;a href=&quot;http://bbpress.org/plugins/topic/ajaxed-chat/?replies=17#post-4873&quot; rel=&quot;nofollow&quot;&gt;here&lt;/a&gt; for more information.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/ajaxed-chat-plugin-for-bbpress/#comment-346">Rodrigo</a>.</p>
+<p>Please try using the development version which can be <a href="http://plugins-svn.bbpress.org/ajaxed-chat/" rel="nofollow">downloaded from here</a>. Please refer <a href="http://bbpress.org/plugins/topic/ajaxed-chat/?replies=17#post-4873" rel="nofollow">here</a> for more information.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Rodrigo		</title>
+		<link>/ajaxed-chat-plugin-for-bbpress/#comment-346</link>
+
+		<dc:creator><![CDATA[Rodrigo]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2009 19:29:40 +0000</pubDate>
+		<guid isPermaLink="false">/?p=135#comment-346</guid>
+
+					<description><![CDATA[Hey Gautam nice plugin! I was wondering if you could help me with one little problem I&#039;m having.
+
+When ever I put the code  in my front page, this warning shows up - Warning: session_start() [function.session-start]: Cannot send session cache limiter - headers already sent (output started at /nfs/c05/h01/mnt/71232/domains/vgxnetwork.com/html/forums/my-templates/vgrevo-kakumei/header.php:11) in /nfs/c05/h01/mnt/71232/domains/vgxnetwork.com/html/forums/my-plugins/ajaxed-chat/chat/src/pfcuserconfig.class.php on line 25
+
+I&#039;m running the current default theme and your plug in with all the instructions.
+
+anything I can do?]]></description>
+			<content:encoded><![CDATA[<p>Hey Gautam nice plugin! I was wondering if you could help me with one little problem I&#8217;m having.</p>
+<p>When ever I put the code  in my front page, this warning shows up &#8211; Warning: session_start() [function.session-start]: Cannot send session cache limiter &#8211; headers already sent (output started at /nfs/c05/h01/mnt/71232/domains/vgxnetwork.com/html/forums/my-templates/vgrevo-kakumei/header.php:11) in /nfs/c05/h01/mnt/71232/domains/vgxnetwork.com/html/forums/my-plugins/ajaxed-chat/chat/src/pfcuserconfig.class.php on line 25</p>
+<p>I&#8217;m running the current default theme and your plug in with all the instructions.</p>
+<p>anything I can do?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Gautam		</title>
+		<link>/ajaxed-chat-plugin-for-bbpress/#comment-343</link>
+
+		<dc:creator><![CDATA[Gautam]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2009 13:50:09 +0000</pubDate>
+		<guid isPermaLink="false">/?p=135#comment-343</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/ajaxed-chat-plugin-for-bbpress/#comment-340&quot;&gt;Robert&lt;/a&gt;.
+
+@Robert
+Please keep the plugin&#039;s directory name as ajaxed-chat
+So, the URL should be something like: http://example.com/my-plugins/ajaxed-chat/(Other files here)
+
+If the problem persists, then please contact me.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/ajaxed-chat-plugin-for-bbpress/#comment-340">Robert</a>.</p>
+<p>@Robert<br />
+Please keep the plugin&#8217;s directory name as ajaxed-chat<br />
+So, the URL should be something like: <a href="http://example.com/my-plugins/ajaxed-chat/(Other" rel="nofollow ugc">http://example.com/my-plugins/ajaxed-chat/(Other</a> files here)</p>
+<p>If the problem persists, then please contact me.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Robert		</title>
+		<link>/ajaxed-chat-plugin-for-bbpress/#comment-340</link>
+
+		<dc:creator><![CDATA[Robert]]></dc:creator>
+		<pubDate>Thu, 15 Oct 2009 20:58:47 +0000</pubDate>
+		<guid isPermaLink="false">/?p=135#comment-340</guid>
+
+					<description><![CDATA[I give up
+
+I installed the plugin, ran http://example.com/?chat and it just sits there stating the chat is loading
+
+I then ran the http://example.com/my-plugins/chat.php (received server error)
+
+Next, http://example.com/my-plugins/chat/index.php a creen appeared and said &quot;guest&quot;
+
+I then threw  into the default site template, and once the site loaded the first result appeared and I lost the forum
+
+Help, please]]></description>
+			<content:encoded><![CDATA[<p>I give up</p>
+<p>I installed the plugin, ran <a href="http://example.com/?chat" rel="nofollow ugc">http://example.com/?chat</a> and it just sits there stating the chat is loading</p>
+<p>I then ran the <a href="http://example.com/my-plugins/chat.php" rel="nofollow ugc">http://example.com/my-plugins/chat.php</a> (received server error)</p>
+<p>Next, <a href="http://example.com/my-plugins/chat/index.php" rel="nofollow ugc">http://example.com/my-plugins/chat/index.php</a> a creen appeared and said &#8220;guest&#8221;</p>
+<p>I then threw  into the default site template, and once the site loaded the first result appeared and I lost the forum</p>
+<p>Help, please</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: gaut.am @ 2020-12-21 18:45:47 by W3 Total Cache
+-->

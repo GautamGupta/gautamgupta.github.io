@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Releasing bb Mystique v1.0 &#8211; Mystique Theme for bbPress!	</title>
+	<atom:link href="/releasing-bb-mystique-for-bbpress/feed/" rel="self" type="application/rss+xml" />
+	<link>/releasing-bb-mystique-for-bbpress/</link>
+	<description></description>
+	<lastBuildDate>Sun, 08 Mar 2020 08:45:45 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>
+		By: Eric DuRose		</title>
+		<link>/releasing-bb-mystique-for-bbpress/#comment-19167</link>
+
+		<dc:creator><![CDATA[Eric DuRose]]></dc:creator>
+		<pubDate>Wed, 22 Aug 2012 01:38:42 +0000</pubDate>
+		<guid isPermaLink="false">/?p=684#comment-19167</guid>
+
+					<description><![CDATA[Thank you Gautam. That is what I thought. 
+
+I love your blog .... keep up the awesome work.]]></description>
+			<content:encoded><![CDATA[<p>Thank you Gautam. That is what I thought. </p>
+<p>I love your blog &#8230;. keep up the awesome work.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Gautam		</title>
+		<link>/releasing-bb-mystique-for-bbpress/#comment-19137</link>
+
+		<dc:creator><![CDATA[Gautam]]></dc:creator>
+		<pubDate>Tue, 21 Aug 2012 12:49:56 +0000</pubDate>
+		<guid isPermaLink="false">/?p=684#comment-19137</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/releasing-bb-mystique-for-bbpress/#comment-19106&quot;&gt;Eric DuRose&lt;/a&gt;.
+
+This theme was built for bbPress 1.0-1.1 standalone only. If you&#039;re running Mystique on your blog, bbPress 2.1.x would automatically try to merge into the theme of your blog. :)]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/releasing-bb-mystique-for-bbpress/#comment-19106">Eric DuRose</a>.</p>
+<p>This theme was built for bbPress 1.0-1.1 standalone only. If you&#8217;re running Mystique on your blog, bbPress 2.1.x would automatically try to merge into the theme of your blog. 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Eric DuRose		</title>
+		<link>/releasing-bb-mystique-for-bbpress/#comment-19106</link>
+
+		<dc:creator><![CDATA[Eric DuRose]]></dc:creator>
+		<pubDate>Tue, 21 Aug 2012 07:21:01 +0000</pubDate>
+		<guid isPermaLink="false">/?p=684#comment-19106</guid>
+
+					<description><![CDATA[Hi Gautam,
+
+Is this theme compatible with bbPress v. 2.1.2?
+
+I&#039;ve loaded it (/plugins/bbpress/bbp-themes/) but it&#039;s not coming up in the list of themes in the admin and then I noticed this post and the download is dated in 2010. 
+
+Thanks,
+
+Eric]]></description>
+			<content:encoded><![CDATA[<p>Hi Gautam,</p>
+<p>Is this theme compatible with bbPress v. 2.1.2?</p>
+<p>I&#8217;ve loaded it (/plugins/bbpress/bbp-themes/) but it&#8217;s not coming up in the list of themes in the admin and then I noticed this post and the download is dated in 2010. </p>
+<p>Thanks,</p>
+<p>Eric</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Mathieu		</title>
+		<link>/releasing-bb-mystique-for-bbpress/#comment-2066</link>
+
+		<dc:creator><![CDATA[Mathieu]]></dc:creator>
+		<pubDate>Tue, 26 Oct 2010 02:58:13 +0000</pubDate>
+		<guid isPermaLink="false">/?p=684#comment-2066</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/releasing-bb-mystique-for-bbpress/#comment-2065&quot;&gt;Gautam&lt;/a&gt;.
+
+Yes thanks :) I fix it. (chmod 755)
+Can I translate this theme in french with the .po of the wordpress theme ?]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/releasing-bb-mystique-for-bbpress/#comment-2065">Gautam</a>.</p>
+<p>Yes thanks 🙂 I fix it. (chmod 755)<br />
+Can I translate this theme in french with the .po of the wordpress theme ?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Gautam		</title>
+		<link>/releasing-bb-mystique-for-bbpress/#comment-2065</link>
+
+		<dc:creator><![CDATA[Gautam]]></dc:creator>
+		<pubDate>Mon, 25 Oct 2010 17:24:46 +0000</pubDate>
+		<guid isPermaLink="false">/?p=684#comment-2065</guid>
+
+					<description><![CDATA[Looks fine to me.. is your problem fixed now?]]></description>
+			<content:encoded><![CDATA[<p>Looks fine to me.. is your problem fixed now?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: bharath vn		</title>
+		<link>/releasing-bb-mystique-for-bbpress/#comment-2054</link>
+
+		<dc:creator><![CDATA[bharath vn]]></dc:creator>
+		<pubDate>Sun, 24 Oct 2010 05:02:32 +0000</pubDate>
+		<guid isPermaLink="false">/?p=684#comment-2054</guid>
+
+					<description><![CDATA[Thanks, theme is good but displaying ads are limited to certain area.]]></description>
+			<content:encoded><![CDATA[<p>Thanks, theme is good but displaying ads are limited to certain area.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Madav		</title>
+		<link>/releasing-bb-mystique-for-bbpress/#comment-2037</link>
+
+		<dc:creator><![CDATA[Madav]]></dc:creator>
+		<pubDate>Fri, 22 Oct 2010 18:20:39 +0000</pubDate>
+		<guid isPermaLink="false">/?p=684#comment-2037</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/releasing-bb-mystique-for-bbpress/#comment-1814&quot;&gt;rishabh&lt;/a&gt;.
+
+One of the wonderful theme. Definitely going to give a try.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/releasing-bb-mystique-for-bbpress/#comment-1814">rishabh</a>.</p>
+<p>One of the wonderful theme. Definitely going to give a try.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: rishabh		</title>
+		<link>/releasing-bb-mystique-for-bbpress/#comment-1814</link>
+
+		<dc:creator><![CDATA[rishabh]]></dc:creator>
+		<pubDate>Fri, 08 Oct 2010 10:45:32 +0000</pubDate>
+		<guid isPermaLink="false">/?p=684#comment-1814</guid>
+
+					<description><![CDATA[Nice!]]></description>
+			<content:encoded><![CDATA[<p>Nice!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: gaut.am @ 2020-12-21 18:44:59 by W3 Total Cache
+-->

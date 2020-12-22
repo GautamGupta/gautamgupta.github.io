@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Product Vision &#8211; Gautam Gupta</title>
+	<atom:link href="/category/product-vision/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sun, 08 Mar 2020 08:45:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>What Apple should do for Touch Bar v2.0</title>
+		<link>/apple-touch-bar-v2-0/</link>
+		
+		<dc:creator><![CDATA[Gautam]]></dc:creator>
+		<pubDate>Sun, 29 Jan 2017 01:25:51 +0000</pubDate>
+				<category><![CDATA[Product Vision]]></category>
+		<guid isPermaLink="false">/?p=1964</guid>
+
+					<description><![CDATA[<p>I’ve been using the new Macbook Pro with Touch Bar for a month now and despite the criticism Apple has faced, I find the Touch Bar pretty useful. But it’s far from perfect. Over the past month, I’ve compiled a list of things Apple should take into account in its next version of the Touch&#8230; <a class="more-link" href="/apple-touch-bar-v2-0/">Continue reading <span class="screen-reader-text">What Apple should do for Touch Bar v2.0</span></a></p>
+<p>The post <a rel="nofollow" href="/apple-touch-bar-v2-0/">What Apple should do for Touch Bar v2.0</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p id="75cc" class="graf graf--p graf-after--figure">I’ve been using the new Macbook Pro with Touch Bar for a month now and despite the criticism Apple has faced, I find the Touch Bar pretty useful. But it’s far from perfect. Over the past month, I’ve compiled a list of things Apple should take into account in its next version of the Touch Bar.</p>
+<p><span id="more-1964"></span></p>
+<h3 id="5621" class="graf graf--h3 graf-after--p">Haptic feedback on touch</h3>
+<figure style="width: 650px" class="wp-caption alignnone"><img loading="lazy" class="progressiveMedia-image js-progressiveMedia-image" src="https://cdn-images-1.medium.com/max/1600/1*ZVqih_cxB8RuZIYNMF_H4A.jpeg" width="650" height="393" data-src="https://cdn-images-1.medium.com/max/1600/1*ZVqih_cxB8RuZIYNMF_H4A.jpeg" /><figcaption class="wp-caption-text">Taptic engine underneath the force touch pad that provides haptic feedback (Apple)</figcaption></figure>
+<p id="f6c8" class="graf graf--p graf-after--h3">When you press a Touch Bar button, you don’t know whether you pressed it since you’re almost never looking down on the keyboard. It would have been better had Apple implemented a vibration mechanism which already exists in the force-touch pad and iPhone button.</p>
+<h3 id="cf18" class="graf graf--h3 graf-after--figure">Touch ID improvements</h3>
+<p id="dd08" class="graf graf--p graf-after--h3">Touch ID is wonderful and saves you time, except for when it doesn’t work which is especially the case if your hands are moist. It also has limited use — login, iTunes, and Apple Pay. Apple could do with adding more functionality like support for permission dialogs and sudo commands in Terminal. Furthermore, the login time using Touch ID usually takes longer than say using Touch ID on an iPhone.</p>
+<h3 id="88de" class="graf graf--h3 graf-after--p">Brightness slider for backlit keyboard</h3>
+<p id="e50d" class="graf graf--p graf-after--h3">This one’s minor but while there are sliders for volume and screen brightness, it’s strange to have buttons and not a slider for the keyboard.</p>
+<figure style="width: 2000px" class="wp-caption alignnone"><img loading="lazy" class="graf-image" src="https://cdn-images-1.medium.com/max/2000/1*_QxB59DodCY8ktdQoXa7_A.png" width="2000" height="55" data-image-id="1*_QxB59DodCY8ktdQoXa7_A.png" data-width="2170" data-height="60" data-action="zoom" data-action-value="1*_QxB59DodCY8ktdQoXa7_A.png" /><figcaption class="wp-caption-text">Brightness slider on the Touch Bar</figcaption></figure>
+<figure style="width: 2000px" class="wp-caption alignnone"><img loading="lazy" class="graf-image" src="https://cdn-images-1.medium.com/max/2000/1*pVXBQdaGUibAS1Qv-XGJ6Q.png" width="2000" height="55" data-image-id="1*pVXBQdaGUibAS1Qv-XGJ6Q.png" data-width="2170" data-height="60" data-action="zoom" data-action-value="1*pVXBQdaGUibAS1Qv-XGJ6Q.png" /><figcaption class="wp-caption-text">Keyboard backlight buttons</figcaption></figure>
+<h3 id="97d6" class="graf graf--h3 graf-after--figure">General application support</h3>
+<p id="5ebb" class="graf graf--p graf-after--h3">Support by third-party apps for the Touch Bar is still lacking, making it less useful if you’re not using Apple apps. I assume Apple is working with third-party app developers to push them to develop for the Touch Bar. However two months in, there are very few other apps that support it natively. Apple can try circumventing this by offering smart functionality like always displaying text suggestions or an emoji picker when you’re writing.</p>
+<figure style="width: 1650px" class="wp-caption alignnone"><img loading="lazy" class="graf-image" src="https://cdn-images-1.medium.com/max/2000/1*1AEZk3QCpyoz9pWqxCwW-w.jpeg" width="1650" height="66" data-image-id="1*1AEZk3QCpyoz9pWqxCwW-w.jpeg" data-width="1650" data-height="66" data-action="zoom" data-action-value="1*1AEZk3QCpyoz9pWqxCwW-w.jpeg" /><figcaption class="wp-caption-text">Emoji picker only shows up for apps that natively support the Touch Bar</figcaption></figure>
+<p id="7efc" class="graf graf--p graf-after--figure graf--last">And that’s my take on the Touch Bar.</p>
+<p class="graf graf--p graf-after--figure graf--last"><em>(Cross-posted on <a href="https://medium.com/productvision/what-apple-should-do-for-touch-bar-v2-0-56106534726b#.qquejd7qy">Medium</a>.)</em></p>
+<p>The post <a rel="nofollow" href="/apple-touch-bar-v2-0/">What Apple should do for Touch Bar v2.0</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Talk on Google&#8217;s Material Design</title>
+		<link>/talk-google-material-design/</link>
+		
+		<dc:creator><![CDATA[Gautam]]></dc:creator>
+		<pubDate>Sat, 11 Jun 2016 21:49:27 +0000</pubDate>
+				<category><![CDATA[Product Vision]]></category>
+		<guid isPermaLink="false">/?p=1889</guid>
+
+					<description><![CDATA[<p>Google&#8217;s material design is a visual language that synthesizes classic principles of good design and unifies experience across platforms and device sizes. I recently gave a talk on an overview of material design. Here is the slide deck. Please free to use the slide deck for your own talk if you wish. You can also&#8230; <a class="more-link" href="/talk-google-material-design/">Continue reading <span class="screen-reader-text">Talk on Google&#8217;s Material Design</span></a></p>
+<p>The post <a rel="nofollow" href="/talk-google-material-design/">Talk on Google&#8217;s Material Design</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Google&#8217;s material design is a visual language that synthesizes classic principles of good design and unifies experience across platforms and device sizes. I recently gave a talk on an overview of material design. Here is the slide deck.</p>
+<p><iframe src="https://docs.google.com/presentation/d/13b2Ryh2-CKo96qHKAR9W05wRA-RwCkLa-4mCdkw2UnA/embed?start=false&amp;loop=true&amp;delayms=3000" width="960" height="423" frameborder="0" allowfullscreen="allowfullscreen"></iframe><span id="more-1889"></span></p>
+<p>Please free to use the slide deck for your own talk if you wish. You can also see the speaker notes for certain slides.</p>
+<p>The post <a rel="nofollow" href="/talk-google-material-design/">Talk on Google&#8217;s Material Design</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Bitcoin Reading List</title>
+		<link>/bitcoin-reading-list/</link>
+		
+		<dc:creator><![CDATA[Gautam]]></dc:creator>
+		<pubDate>Sat, 13 Dec 2014 22:12:37 +0000</pubDate>
+				<category><![CDATA[Product Vision]]></category>
+		<guid isPermaLink="false">/?p=1782</guid>
+
+					<description><![CDATA[<p>Wondered where to start reading about Bitcoins? This reading list just assumes you&#8217;ve heard about the concept, want to learn about it in-depth, and are willing to invest the required amount of time at a fair pace. Quick intro in this presentation. &#8220;How does it work?&#8221; Nothing better than to read the official paper. Optional: Didn&#8217;t understand&#8230; <a class="more-link" href="/bitcoin-reading-list/">Continue reading <span class="screen-reader-text">Bitcoin Reading List</span></a></p>
+<p>The post <a rel="nofollow" href="/bitcoin-reading-list/">Bitcoin Reading List</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Wondered where to start reading about Bitcoins? This reading list just assumes you&#8217;ve heard about the concept, want to learn about it in-depth, and are willing to invest the required amount of time at a fair pace.<span id="more-1782"></span></p>
+<ol>
+<li>Quick intro in this <a title="Intro to Bitcoin" href="http://web.archive.org/web/20151209194558/http://www.slideshare.net/ryaneshea/bitcoin-v9">presentation</a>.</li>
+<li>&#8220;How does it work?&#8221; Nothing better than to read the <a title="Bitcoin Paper" href="https://bitcoin.org/bitcoin.pdf">official paper</a>.</li>
+<li>Optional: Didn&#8217;t understand some things? Read the <a title="Annotated Bitcoin Paper" href="http://genius.com/Satoshi-nakamoto-bitcoin-a-peer-to-peer-electronic-cash-system-annotated">annotated paper</a>.</li>
+<li>At this point, subscribe to <a title="CoinDesk" href="http://www.coindesk.com/">CoinDesk</a> and start following <a title="Bitcoin subreddit" href="http://www.reddit.com/r/bitcoin">/r/Bitcoin</a>.</li>
+<li>Buy some. <a title="Bitcoin Newcomer FAQ" href="http://www.reddit.com/r/Bitcoin/comments/2msvrl/rbitcoin_faq_newcomers_please_read/">Buying and using for beginners</a>.</li>
+<li>Side: &#8220;Will this ever work?&#8221; Maybe &#8220;How did cash come into being?&#8221; will answer this better. Read this <a title="The Origins of Money" href="http://web.archive.org/web/20160921140955/http://szabo.best.vwh.net/shell.html">article</a> by Nick Szabo, one of the key people in the field.</li>
+<li>Wait, there are other cryptocurrencies too.</li>
+<li><a href="http://bitstein.org/blog/nick-szabo-the-computer-science-of-crypto-currency/">The Computer Science of Crypto-Currency</a></li>
+<li><em>List in progress&#8230;</em></li>
+</ol>
+<p>Updated: 11 May 2015</p>
+<h4>Further Reading Lists</h4>
+<ul>
+<li><a title="Programming with Bitcoin" href="https://github.com/jashmenn/bitcoin-reading-list">Learning to program Bitcoin transactions</a></li>
+</ul>
+<p>Kudos to Joe, Dominik and David on getting me started! The list is pre-dominantly based on their input.</p>
+<p>The post <a rel="nofollow" href="/bitcoin-reading-list/">Bitcoin Reading List</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The Design Thinking Process</title>
+		<link>/design-thinking-process/</link>
+					<comments>/design-thinking-process/#comments</comments>
+		
+		<dc:creator><![CDATA[Gautam]]></dc:creator>
+		<pubDate>Fri, 26 Oct 2012 11:14:09 +0000</pubDate>
+				<category><![CDATA[Product Management]]></category>
+		<category><![CDATA[Product Vision]]></category>
+		<guid isPermaLink="false">/?p=1654</guid>
+
+					<description><![CDATA[<p>Today&#8217;s workshop was an unusual one &#8212; of course, it involved design! How should startups face the design challenge? How can the startups better identify and better engage with their customers? We had Ketna Hirji from The Innovation Tool Box to mentor our startups on how to go about the design process. Rather than just&#8230; <a class="more-link" href="/design-thinking-process/">Continue reading <span class="screen-reader-text">The Design Thinking Process</span></a></p>
+<p>The post <a rel="nofollow" href="/design-thinking-process/">The Design Thinking Process</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Today&#8217;s workshop was an unusual one &#8212; of course, it involved design! How should startups face the design challenge? How can the startups better identify and better engage with their customers? We had Ketna Hirji from The Innovation Tool Box to mentor our startups on how to go about the design process. Rather than just being lectured upon, the startups brainstormed on ideas and finally made a visual prototype and showcased them via elevator pitches.</p>
+<blockquote><p>Design is not just what it looks like and feels like. Design is how it works.</p>
+<p>— Steve Jobs</p></blockquote>
+<p>Startups should question a customer to understand what he or she feels. Keep asking why, why, why to properly understand the customer and build an empathy map of the customer as to how he or she was feeling while answering the questions and arrive at a final statement like &#8220;Kate is a big coffee drinker who needs to make her own coffee quickly and wants the experience to be fun and seamless because she values her time.&#8221;</p>
+<p>Next, brainstorm on the idea, keeping the following points in mind and follow the method in <a href="http://www.youtube.com/watch?v=W1h5L_0rFz8">this video</a>.</p>
+<ol>
+<li>Big</li>
+<li>Visual</li>
+<li>Quantity</li>
+<li>No judgements</li>
+<li>Go wild</li>
+</ol>
+<p>Vote on the ideas and build a visual prototype which gets the most votes!</p>
+<ol>
+<li>Be mindful of the process</li>
+<li>Focus on human values</li>
+<li>Change your perspective</li>
+<li>Collaborate across boundaries</li>
+<li>Create clarity from complexity</li>
+<li>Show, don&#8217;t tell!</li>
+</ol>
+<p><em>Cross posted on the GSF blog. The GSF Accelerator is a 7-week program designed to foster innovation in India&#8217;s fast-growing digital economy. It aims to provide select, promising start-ups with unparalleled access to venture and business networks, personalized and intensive mentoring, and initial capital. Coaching is provided to each of the GSF startups by a mentor pool of over 200 cofounders and digital entrepreneurs from across the world. This article is a part of the series of the mentorship sessions held for the startups in the winter 2012 iteration of the accelerator.</em></p>
+<p>The post <a rel="nofollow" href="/design-thinking-process/">The Design Thinking Process</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/design-thinking-process/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Acquiring Customers and Marketing Your Startup</title>
+		<link>/acquiring-customers-marketing-startup/</link>
+		
+		<dc:creator><![CDATA[Gautam]]></dc:creator>
+		<pubDate>Thu, 25 Oct 2012 11:07:27 +0000</pubDate>
+				<category><![CDATA[Product Management]]></category>
+		<category><![CDATA[Product Vision]]></category>
+		<guid isPermaLink="false">/?p=1652</guid>
+
+					<description><![CDATA[<p>What is the foremost reason for a startup failure? No, it&#8217;s not being unable to understand the market right. It is having high costs of customer acquisition. So how to acquire customers in a cost-effective way and what digital marketing strategies to use? This is the question that is asked by all the startups all&#8230; <a class="more-link" href="/acquiring-customers-marketing-startup/">Continue reading <span class="screen-reader-text">Acquiring Customers and Marketing Your Startup</span></a></p>
+<p>The post <a rel="nofollow" href="/acquiring-customers-marketing-startup/">Acquiring Customers and Marketing Your Startup</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>What is the foremost reason for a startup failure? No, it&#8217;s not being unable to understand the market right. It is having high costs of customer acquisition. So how to acquire customers in a cost-effective way and what digital marketing strategies to use? This is the question that is asked by all the startups all over the world. We had Nikhil Rungta from Google, Bhawna Agarwal from Seventymm and Anurag Gupta from DGM to answer this question for us.</p>
+<p>There are various channels of customer acquisition &#8212; they&#8217;re different for every kind of business like B2C non-ecommerce, B2C e-commerce, B2B and so on. Pick a method to acquire customers wisely &#8212; on the basis of what you&#8217;re trying to achieve. And it should give a steady graph in customer acquisition, not ups and downs.<em> Don&#8217;t try all the techniques at one go.</em></p>
+<p><strong>Internet channels</strong></p>
+<ul>
+<li>Search: SEO (free). If your product is solving a problem and is not based on content, SEO and other things might not actually work for you, as the user wouldn&#8217;t be looking for your product.</li>
+<li>PPC: Can be for brand building and non-brand building.</li>
+<li>Affiliates: Largely steady and controls acquisition cost. If you spend x amount on PPC, you&#8217;d be spending 0.8-1.25x on affiliates.</li>
+<li>Display ads: 4-10x the amount on PPC.</li>
+<li>Social</li>
+<li>Email: Have a catchy subject &#8212; don&#8217;t try to sell in the email, offer information. Use your messaging effectively, have the user to enter some information than having him to buy.</li>
+<li>Referrals (free): Try and target this. If a customer starts speaking about you, you&#8217;ve hit gold.</li>
+</ul>
+<p><strong>Mobile</strong></p>
+<p>Mobile targeting involves low costs and can be used if you think you can target the appropriate audience.</p>
+<p>Always remember that the target audience might not be the user. Target each audience with a different message. For example, while buying a car, an adult might be interested in fuel efficiency and specs, but children would be interested in the music system and other features that appeal to them.</p>
+<p><em>Cross posted on the GSF blog. The GSF Accelerator is a 7-week program designed to foster innovation in India&#8217;s fast-growing digital economy. It aims to provide select, promising start-ups with unparalleled access to venture and business networks, personalized and intensive mentoring, and initial capital. Coaching is provided to each of the GSF startups by a mentor pool of over 200 cofounders and digital entrepreneurs from across the world. This article is a part of the series of the mentorship sessions held for the startups in the winter 2012 iteration of the accelerator.</em></p>
+<p>The post <a rel="nofollow" href="/acquiring-customers-marketing-startup/">Acquiring Customers and Marketing Your Startup</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Monetizing Your Product &#038; Pricing Strategies</title>
+		<link>/monetizing-product-pricing-strategies/</link>
+		
+		<dc:creator><![CDATA[Gautam]]></dc:creator>
+		<pubDate>Mon, 22 Oct 2012 11:03:28 +0000</pubDate>
+				<category><![CDATA[Product Management]]></category>
+		<category><![CDATA[Product Vision]]></category>
+		<guid isPermaLink="false">/?p=1650</guid>
+
+					<description><![CDATA[<p>How can you monetize your product? What pricing options should you offer? Today&#8217;s talk addressed this aspect of an entrepreneur&#8217;s problems. We had Suresh V., EVP and Head of Sales of Naukri and Siddharth Puri, co-founder and business head of Tyroo to mentor the startups. If your product is first in the niche, either start&#8230; <a class="more-link" href="/monetizing-product-pricing-strategies/">Continue reading <span class="screen-reader-text">Monetizing Your Product &#038; Pricing Strategies</span></a></p>
+<p>The post <a rel="nofollow" href="/monetizing-product-pricing-strategies/">Monetizing Your Product &#038; Pricing Strategies</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>How can you monetize your product? What pricing options should you offer? Today&#8217;s talk addressed this aspect of an entrepreneur&#8217;s problems. We had Suresh V., EVP and Head of Sales of Naukri and Siddharth Puri, co-founder and business head of Tyroo to mentor the startups.</p>
+<p>If your product is first in the niche, either start with a freemium model in which you&#8217;ll get a lot of feedback, or price it very low and develop a connection with the customer to build trust.</p>
+<p>Always remember that your customer is the end customer whom you&#8217;re primarily serving, even if he doesn&#8217;t help you get money. For instance, on a jobs listing site, the job seeker doesn&#8217;t get you any money, the recruiter does. We do not know our indirect customers &#8212; and even if we know them, we don&#8217;t know the value that they derive.</p>
+<blockquote><p>Think yourself as a customer. Would you ever buy what you&#8217;re selling?</p></blockquote>
+<p>An interesting question that was asked was when is a product ready for serious monetization. The answer to that came was it&#8217;s when the app has either 10,000 registered users or 100,000 unique users on the site or 100,000+ app downloads.</p>
+<p>It is interesting to know that only 0.0125% of the users engage with the advertisers from email marketing &#8212; only 5% people open advertising message sent to the opt-in database until and unless it&#8217;s highly customised for the audience, out of which just 5% people will end up clicking and going to advertiser&#8217;s site, out of which only 5% people will end up engaging with the advertiser.</p>
+<p>The mobile market has a lot of potential, but is generally not targeted due to the lack of targeted ads, more of youth using it, lack of users profiles and the small size of the screen.</p>
+<p>The whole world could talk of something as a problem, but can be an opportunity for you. Suresh explained this by telling about his experience at Naukri &#8212; post 9/11, the challenge they were facing became their opportunity. The quality of the traffic improvised &#8212; NRIs started coming back to India, more recruiters started coming to the website and that is how it grew. He continued his experience by telling about the monetization strategies that Naukri used &#8212; it used to advertise on the home page. But they later realised that any job seeker would actually just visit the website and directly search for the job he&#8217;s looking for &#8212; it was essential for them to have targeted advertisements on these search pages and this increased their revenue.</p>
+<p><strong>Points to remember</strong></p>
+<ol>
+<li>Evolve your product by listening to your customers.</li>
+<li>Keep the pricing strategy very simple. Don&#8217;t overcomplicate &#8212; specially in the early stages.</li>
+<li>Have special prices for beta customers &#8212; build trust for renewals.</li>
+</ol>
+<blockquote><p>&#8220;Pricing is not related to costs. Price as how consumer would perceive the value of your product.&#8221; &#8211; Rajesh Sawhney</p></blockquote>
+<p><em>Cross posted on the GSF blog.</em><em> The GSF Accelerator is a 7-week program designed to foster innovation in India&#8217;s fast-growing digital economy. It aims to provide select, promising start-ups with unparalleled access to venture and business networks, personalized and intensive mentoring, and initial capital. Coaching is provided to each of the GSF startups by a mentor pool of over 200 cofounders and digital entrepreneurs from across the world. This article is a part of the series of the mentorship sessions held for the startups in the winter 2012 iteration of the accelerator.</em></p>
+<p>The post <a rel="nofollow" href="/monetizing-product-pricing-strategies/">Monetizing Your Product &#038; Pricing Strategies</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How to Pitch your Product?</title>
+		<link>/pitch-product/</link>
+		
+		<dc:creator><![CDATA[Gautam]]></dc:creator>
+		<pubDate>Fri, 19 Oct 2012 10:58:37 +0000</pubDate>
+				<category><![CDATA[Product Management]]></category>
+		<category><![CDATA[Product Vision]]></category>
+		<guid isPermaLink="false">/?p=1648</guid>
+
+					<description><![CDATA[<p>How to pitch your product to the investors — this was the question answered by the leading personalities in the field — Alok Mittal from Canaan Partners and Mayank Khanduja from SAIF Partners in today&#8217;s session in Delhi. Before preparing a pitch, you need to ask yourself — what&#8217;s the traction that your product has got&#8230; <a class="more-link" href="/pitch-product/">Continue reading <span class="screen-reader-text">How to Pitch your Product?</span></a></p>
+<p>The post <a rel="nofollow" href="/pitch-product/">How to Pitch your Product?</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>How to pitch your product to the investors — this was the question answered by the leading personalities in the field — Alok Mittal from Canaan Partners and Mayank Khanduja from SAIF Partners in today&#8217;s session in Delhi.</p>
+<p>Before preparing a pitch, you need to ask yourself — what&#8217;s the traction that your product has got — how accepted is it? Even if you&#8217;ve 500 initial customers, what&#8217;s the response of the customers? Are they coming back? How are you getting customers — staff picks on app markets? PR? Offline model? You should also know about the investor. What is his or her background. What kind of startups they&#8217;ve invested in, and then appropriately pitch to the investors who you think would be interested in your product.</p>
+<p>You need to build a <strong>spirit of the pitch</strong>. Your pitch is to <em>sell</em> &#8211; sell a <em>story</em> &#8211; not people or data. Give out some customer testimonials that you&#8217;ve got. Have some <strong>hooks on the pitch</strong> — the first thing you&#8217;re selling is the opportunity — the problem that you&#8217;re solving. You need to show that you have the appropriate team — and you would be able to execute it — with evidence. Do remember that you shouldn&#8217;t have any artificial figures in your pitch. This is how you should go about a pitch:</p>
+<ul>
+<li>Introduction — a brief about your product — what problem does it solve.</li>
+<li>Competition — You need to communicate that you&#8217;ll win in the existing market. Showcase how — what is that that you offer is special.</li>
+<li>Team — Show that you&#8217;ve the best position to win. Why are you, and your foundation team there in the startup? Never say that you currently have some advisors whose name you can not reveal and would join in once you get the funding — the investors do not take away anything positive from that with them.</li>
+<li>Monetization — Show some pricing plans that you&#8217;ve thought of. If there are no revenue streams right now, will you have a subscription based pricing model or on the same lines in the future? Do remember that either you&#8217;ve got to have a lot (tens of millions) of people and then decide the monetization strategy or say that you&#8217;ve some people who would pay — not that you&#8217;ve some people and still need to figure out how they would pay.</li>
+<li>Financials — Tell about your revenue projections, why you need the funding and how you&#8217;ll utilise the funds.</li>
+<li>Finally, always end on a high — tell some customer testimonials or some awards that you&#8217;ve won for your product.</li>
+</ul>
+<p><strong>Elevator Pitch</strong></p>
+<p>You also need an elevator pitch — a two minute pitch in which you essentially tell the investor why he should give you 20 minutes more to hear about your product.</p>
+<ul>
+<li>Tell about the problem that you&#8217;re solving — the <strong>what</strong>. Have the hooks in it.</li>
+<li><strong>How</strong> are you planning to solve it?</li>
+<li><strong>Who</strong> is your customer?</li>
+<li>Do <em>not</em> have any tech jargons in the elevator pitch<em>.</em></li>
+<li>Keep it straight and simple.</li>
+</ul>
+<p><em>Cross posted on the GSF blog. The GSF Accelerator is a 7-week program designed to foster innovation in India&#8217;s fast-growing digital economy. It aims to provide select, promising start-ups with unparalleled access to venture and business networks, personalized and intensive mentoring, and initial capital. Coaching is provided to each of the GSF startups by a mentor pool of over 200 cofounders and digital entrepreneurs from across the world. This article is a part of the series of the mentorship sessions held for the startups in the winter 2012 iteration of the accelerator.</em></p>
+<p>The post <a rel="nofollow" href="/pitch-product/">How to Pitch your Product?</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Selecting the Right Technology and Building Scalable Apps</title>
+		<link>/selecting-right-technology-building-scalable-apps/</link>
+					<comments>/selecting-right-technology-building-scalable-apps/#comments</comments>
+		
+		<dc:creator><![CDATA[Gautam]]></dc:creator>
+		<pubDate>Wed, 17 Oct 2012 10:42:45 +0000</pubDate>
+				<category><![CDATA[Product Management]]></category>
+		<category><![CDATA[Product Vision]]></category>
+		<guid isPermaLink="false">/?p=1646</guid>
+
+					<description><![CDATA[<p>How can you select the technological frameworks you should use for something that you&#8217;re building? How can you scale something that you&#8217;re building? Today&#8217;s GSF Accelerator mentorship session focused on this issue. The contributing speakers were Ram Singla (Zomato), Gajinder Singh (PayU India) and Amit Sharma (Khojguru) and discussed on how a development cycle should look like. Research First&#8230; <a class="more-link" href="/selecting-right-technology-building-scalable-apps/">Continue reading <span class="screen-reader-text">Selecting the Right Technology and Building Scalable Apps</span></a></p>
+<p>The post <a rel="nofollow" href="/selecting-right-technology-building-scalable-apps/">Selecting the Right Technology and Building Scalable Apps</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>How can you select the technological frameworks you should use for something that you&#8217;re building? How can you scale something that you&#8217;re building? Today&#8217;s GSF Accelerator mentorship session focused on this issue. The contributing speakers were Ram Singla (Zomato), Gajinder Singh (PayU India) and Amit Sharma (Khojguru) and discussed on how a development cycle should look like.</p>
+<p><strong>Research First</strong></p>
+<p>Find the core value propositions first — for example, whether the mobile payment app or the hardware POS device is the core or whether local content aggregation or sentiment analysis is the core. And it isn&#8217;t constant. It changes, it evolves.</p>
+<p>You need to find all the options that are available to you for the technologies that you would be using, and rate them on factors like time to market, enterprise, availability and cost, roadmap, legacy code, prior experience and the learning curve.</p>
+<p><strong>Development</strong><em> </em>&#8211;<em> &#8220;Ship soon, get feedback, iterate often.&#8221;</em></p>
+<p>The development cycle goes from requirement to development to testing to review and finally releasing it. Then you take feedback from the user, fix bugs, add enhancements and release back — it happens again and again. Get it out, experiment fast, fail fast. You should simplify the application from the perspective of the user and time to market. Also, don&#8217;t be dependent on one platform. Use open source platforms if you&#8217;re well versed with them.</p>
+<p><strong>Don&#8217;t overbuild</strong> &#8211; <em>&#8220;Find the mojo — where the sweet spot lies.&#8221;</em></p>
+<p>You should focus on building what you need today, not years down the line. If you would be guessing, you&#8217;d only increasing maintenance burden.</p>
+<p><strong>Explode</strong><em> &#8211; &#8220;Decouple as many things as you can.&#8221;</em></p>
+<p>When you&#8217;re going to grow huge, you&#8217;d explode. You would need to have independent components, API driven interactions, separate application logic, and even need to cache like crazy.</p>
+<p><strong>Analyze</strong></p>
+<p>You should know the flow of your program and be able to pinpoint a leak — can you get rid of the leak? How? Can throwing more hardware help/delay the problem? You need to engineer the bottlenecks — know the exact scenarios and how they will evolve by looking at the current ecosystem — for instance choosing between fingerprint or QR code.</p>
+<p>Plus, you should always be logging data, even if you&#8217;re not using or analysing it. It would help you in the future — for instance to determine user&#8217;s preferences, etc.</p>
+<p><strong>Conclusion</strong></p>
+<ul>
+<li>Don&#8217;t tend to solve long-term problems, have a 6-month roadmap.</li>
+<li>Do it fast, push it out, let the customers give feedback. Anticipate what they would want next.</li>
+<li>Keep is simple.</li>
+<li>Be frugal, don&#8217;t waste money.</li>
+<li>Scalability: throw more hardware at it if it helps.</li>
+<li>Run the company on the data you collect.</li>
+</ul>
+<p><em>Don&#8217;t stop. </em><em>Innovate. </em><em>Again and again.</em></p>
+<p><em>Cross posted on the GSF blog. The GSF Accelerator is a 7-week program designed to foster innovation in India&#8217;s fast-growing digital economy. It aims to provide select, promising start-ups with unparalleled access to venture and business networks, personalized and intensive mentoring, and initial capital. Coaching is provided to each of the GSF startups by a mentor pool of over 200 cofounders and digital entrepreneurs from across the world. This article is a part of the series of the mentorship sessions held for the startups in the winter 2012 iteration of the accelerator.<br />
+</em></p>
+<p>The post <a rel="nofollow" href="/selecting-right-technology-building-scalable-apps/">Selecting the Right Technology and Building Scalable Apps</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/selecting-right-technology-building-scalable-apps/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>A Keyboard with no Marks</title>
+		<link>/a-keyboard-with-no-marks/</link>
+					<comments>/a-keyboard-with-no-marks/#comments</comments>
+		
+		<dc:creator><![CDATA[Gautam]]></dc:creator>
+		<pubDate>Sat, 07 Apr 2012 09:28:10 +0000</pubDate>
+				<category><![CDATA[Product Vision]]></category>
+		<guid isPermaLink="false">/?p=1354</guid>
+
+					<description><![CDATA[<p>I have been using computers since years and have developed a good typing speed on the QWERTY keyboard (~100wpm) without even looking at it (I&#8217;m not looking at it even at the very moment &#8211; in fact, I haven&#8217;t looked at it while writing the whole blog post). Then I thought of the idea of&#8230; <a class="more-link" href="/a-keyboard-with-no-marks/">Continue reading <span class="screen-reader-text">A Keyboard with no Marks</span></a></p>
+<p>The post <a rel="nofollow" href="/a-keyboard-with-no-marks/">A Keyboard with no Marks</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>I have been using computers since years and have developed a good typing speed on the QWERTY keyboard (~100wpm) without even looking at it (I&#8217;m not looking at it even at the very moment &#8211; in fact, I haven&#8217;t looked at it while writing the whole blog post). Then I thought of the idea of removing the markings on the keyboard altogether. The space bar has no markings, but you&#8217;re still able to use it. Why? Because you know it&#8217;s a space. There&#8217;s nothing on the trackpad, but you can still use it (think of Apple publishing all the multi-touch gestures on the trackpad, how untidy it would be). The bumps on the F &amp; J keys on your keyboard are enough to guide your fingers on the whole keyboard.<span id="more-1354"></span> Check the image below (click to enlarge).</p>
+<figure id="attachment_1355" aria-describedby="caption-attachment-1355" style="width: 519px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2012/04/mbp_wo_keymarks.png"><img loading="lazy" class=" wp-image-1355  " title="MacBook Pro Without Keyboard Marks" src="/wp-content/uploads/2012/04/mbp_wo_keymarks.png" alt="" width="519" height="338" srcset="/wp-content/uploads/2012/04/mbp_wo_keymarks.png 824w, /wp-content/uploads/2012/04/mbp_wo_keymarks-300x194.png 300w, /wp-content/uploads/2012/04/mbp_wo_keymarks-207x136.png 207w, /wp-content/uploads/2012/04/mbp_wo_keymarks-260x170.png 260w" sizes="(max-width: 519px) 100vw, 519px" /></a><figcaption id="caption-attachment-1355" class="wp-caption-text">Without Keyboard Marks - Note that the F &amp; J bumps have been left, and there&#39;s another one on 6</figcaption></figure>
+<p>I added another bump on the number key 6 in the image, to help guide the fingers in the number area <em>(</em>might need more research, for its repositioning or even if there&#8217;s no need to add it<em>)</em>. Since I&#8217;m a programmer, I frequently use the special character keys, thus the removal of them too &#8211; I just think and my fingers press that key. <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> But I still do not use the function keys much, thus not blacking them out.</p>
+<p>Think of people asking you for your laptop and you don&#8217;t want to give it and if they&#8217;re not good at typing like you are, they would not be able to use it. <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f61b.png" alt="😛" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Another point is that there would be no need for back-lit keyboards. Think of a thinner MacBook Air.</p>
+<p>I hope this comes into practice some day, and no, I&#8217;m not going to patent the idea (even if I&#8217;m not allowed to patent this), it just hampers development. <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>The post <a rel="nofollow" href="/a-keyboard-with-no-marks/">A Keyboard with no Marks</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/a-keyboard-with-no-marks/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>SiriHome</title>
+		<link>/sirihome/</link>
+					<comments>/sirihome/#comments</comments>
+		
+		<dc:creator><![CDATA[Gautam]]></dc:creator>
+		<pubDate>Sat, 29 Oct 2011 19:23:50 +0000</pubDate>
+				<category><![CDATA[Product Vision]]></category>
+		<guid isPermaLink="false">/?p=1207</guid>
+
+					<description><![CDATA[<p>I was recently reading Steve Jobs&#8217;s biography by Walter Isaacson and I read that he had a music system in his whole house, and also used it as a microphone, to hear family&#8217;s discussions until his father discovered that and made him stop doing it. Now. You would have made the rest of the post&#8230; <a class="more-link" href="/sirihome/">Continue reading <span class="screen-reader-text">SiriHome</span></a></p>
+<p>The post <a rel="nofollow" href="/sirihome/">SiriHome</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>I was recently reading Steve Jobs&#8217;s biography by Walter Isaacson and I read that he had a music system in his whole house, and also used it as a microphone, to hear family&#8217;s discussions until his father discovered that and made him stop doing it. Now. You would have made the rest of the post by yourself, by reading that title and the first sentence &#8212; exactly that. When Siri wasn&#8217;t there, sound could be played on the stereos and sound could be heard from the stereos. But what if we have a helper connected to that speaker, who gets the input, performs some search and says back the results? What&#8217;s the time, Siri? Siri, how&#8217;s the weather today? Where can I get a cup of coffee Siri? Just from your desk, or while reading the newspaper, think about it!</p>
+<p>ps. Doesn&#8217;t necessarily need to be Siri, but that&#8217;s an interesting piece of software.</p>
+<p>The post <a rel="nofollow" href="/sirihome/">SiriHome</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/sirihome/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: gaut.am @ 2020-12-21 18:44:31 by W3 Total Cache
+-->

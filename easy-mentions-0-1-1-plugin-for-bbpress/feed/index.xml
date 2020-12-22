@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Easy Mentions v0.2 Plugin for bbPress!	</title>
+	<atom:link href="/easy-mentions-0-1-1-plugin-for-bbpress/feed/" rel="self" type="application/rss+xml" />
+	<link>/easy-mentions-0-1-1-plugin-for-bbpress/</link>
+	<description></description>
+	<lastBuildDate>Sun, 08 Mar 2020 08:45:45 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>
+		By: Kiwi		</title>
+		<link>/easy-mentions-0-1-1-plugin-for-bbpress/#comment-3929</link>
+
+		<dc:creator><![CDATA[Kiwi]]></dc:creator>
+		<pubDate>Fri, 08 Jul 2011 22:53:25 +0000</pubDate>
+		<guid isPermaLink="false">/?p=417#comment-3929</guid>
+
+					<description><![CDATA[I like your plugin! It is exactly what I am looking for. One little thing: It would be cool, if mentioned users could be notified by email. Is that possible?]]></description>
+			<content:encoded><![CDATA[<p>I like your plugin! It is exactly what I am looking for. One little thing: It would be cool, if mentioned users could be notified by email. Is that possible?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Ashfame		</title>
+		<link>/easy-mentions-0-1-1-plugin-for-bbpress/#comment-1346</link>
+
+		<dc:creator><![CDATA[Ashfame]]></dc:creator>
+		<pubDate>Sat, 03 Apr 2010 11:29:43 +0000</pubDate>
+		<guid isPermaLink="false">/?p=417#comment-1346</guid>
+
+					<description><![CDATA[This is a good plugin you have made Gautam. Nice going with the project. I will soon contact you regarding bbPress.]]></description>
+			<content:encoded><![CDATA[<p>This is a good plugin you have made Gautam. Nice going with the project. I will soon contact you regarding bbPress.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: gaut.am @ 2020-12-21 18:45:36 by W3 Total Cache
+-->

@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Open Source &#8211; Gautam Gupta</title>
+	<atom:link href="/category/open-source/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 23 May 2020 20:54:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>Manage your Android and iOS Apps Translations using GlotPress</title>
+		<link>/manage-your-android-and-ios-apps-translations-using-glotpress/</link>
+		
+		<dc:creator><![CDATA[Gautam]]></dc:creator>
+		<pubDate>Sun, 05 Jul 2015 01:50:29 +0000</pubDate>
+				<category><![CDATA[Open Source]]></category>
+		<guid isPermaLink="false">/?p=1820</guid>
+
+					<description><![CDATA[<p>You are a mobile developer with an app on the store, serving thousands of people in different languages. But localizing the app — back and forth with your in-house translators every time you release a build — is a pain. Here is how to fix that, with a relatively undocumented yet open source software called GlotPress.&#8230; <a class="more-link" href="/manage-your-android-and-ios-apps-translations-using-glotpress/">Continue reading <span class="screen-reader-text">Manage your Android and iOS Apps Translations using GlotPress</span></a></p>
+<p>The post <a rel="nofollow" href="/manage-your-android-and-ios-apps-translations-using-glotpress/">Manage your Android and iOS Apps Translations using GlotPress</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>You are a mobile developer with an app on the store, serving thousands of people in different languages. But localizing the app — back and forth with your in-house translators every time you release a build — is a pain. Here is how to fix that, with a relatively undocumented yet open source software called GlotPress.<span id="more-1820"></span></p>
+<p><strong>Goal: </strong>Host an internal website where translators can login. Import strings from your iOS and Android builds. Export back the translated strings. <a href="https://translate.wordpress.org/projects/apps">Preview</a>.</p>
+<h4>Setup</h4>
+<ol>
+<li>GlotPress is written in PHP and uses MySQL. <a href="https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu">Setup the LAMP stack</a>, <a href="https://www.digitalocean.com/community/tutorials/a-basic-mysql-tutorial">create a database</a> and in <em>htdocs</em> (or equivalent):
+<pre>svn co http://svn.glotpress.org/trunk/ .</pre>
+</li>
+<li>Copy <em>gp-config-sample.php</em> located in the root directory to <em>gp-config.php</em>. Edit the file to enter in your database configuration in <em>GPDB_* </em>defines. Also go <a href="https://api.wordpress.org/secret-key/1.1/">here</a> and replace the <em>*_KEY</em> values.</li>
+<li>Run the installer by going to the domain pointing to your server. Login.
+<div style="clear: both;"> <img loading="lazy" class="aligncenter size-full wp-image-1950" src="/wp-content/uploads/2015/07/glotpress_mobile_app_1.png" alt="" width="232" height="218" /></div>
+</li>
+<li>Create a new project named <em>Android</em>. Expand <em>Project Actions</em> and click <em>Import Originals</em>. Upload the <em>strings.xml</em> file from your Android project.<br />
+<img loading="lazy" class="aligncenter size-full wp-image-1953" src="/wp-content/uploads/2015/07/glotpress_mobile_app_4.jpeg" alt="" width="240" height="208" /><img loading="lazy" class="aligncenter wp-image-1925 size-medium" src="/wp-content/uploads/2015/07/glotpress_mobile_app_5-300x153.png" width="300" height="153" srcset="/wp-content/uploads/2015/07/glotpress_mobile_app_5-300x153.png 300w, /wp-content/uploads/2015/07/glotpress_mobile_app_5-768x393.png 768w, /wp-content/uploads/2015/07/glotpress_mobile_app_5-700x358.png 700w, /wp-content/uploads/2015/07/glotpress_mobile_app_5.png 966w" sizes="(max-width: 300px) 100vw, 300px" /></li>
+<li>Go back to the project. You would not see anything yet because you have just added the originals yet, not Translation Sets (ie. other languages). Expand <em>Project Actions,</em> click <em>New Translation Set</em> and add a locale.<br />
+<img loading="lazy" class="aligncenter size-full wp-image-1951" src="/wp-content/uploads/2015/07/glotpress_mobile_app_3.jpeg" alt="" width="240" height="171" /></li>
+<li>If you have existing translations for the locale, scroll down and click <em>Import Translations</em>.<br />
+<img loading="lazy" class="aligncenter size-full wp-image-1955" src="/wp-content/uploads/2015/07/glotpress_mobile_app_7-700x316.png" alt="" width="700" height="316" srcset="/wp-content/uploads/2015/07/glotpress_mobile_app_7-700x316.png 700w, /wp-content/uploads/2015/07/glotpress_mobile_app_7-700x316-300x135.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></li>
+<li>Adding the iOS project: Follow the same procedure as in step 4, but this time select the <em>Mass-create Translation Sets</em> option to import the settings from the Android project. I will leave rest of the nifty automated processes that GlotPress offers for you to discover.</li>
+<li>Google Translation (nice to have): This shows a small &#8220;Translation from Google&#8221; link below the translation box. It can fetch an auto-generated translation from Google that the human translator can correct. However it requires a (paid) Google Translate <a href="https://cloud.google.com/translate/v2/pricing">API key</a>. To enable it, you need to edit <em>gp-config.php</em> and add this:
+<pre>define('GP_GOOGLE_TRANSLATE_KEY', '&lt;API KEY&gt;');</pre>
+</li>
+<li>Exporting: Go to the locale to export translations from, select Android XML and hit export.<img loading="lazy" class="aligncenter wp-image-1928 size-large" src="/wp-content/uploads/2015/07/glotpress_mobile_app_8-1024x170-1024x170.png" width="700" height="116" srcset="/wp-content/uploads/2015/07/glotpress_mobile_app_8-1024x170.png 1024w, /wp-content/uploads/2015/07/glotpress_mobile_app_8-1024x170-300x50.png 300w, /wp-content/uploads/2015/07/glotpress_mobile_app_8-1024x170-768x128.png 768w, /wp-content/uploads/2015/07/glotpress_mobile_app_8-1024x170-700x116.png 700w" sizes="(max-width: 700px) 100vw, 700px" /></li>
+<li>Adding translators: There is no user management GUI in GlotPress yet. More on this below. To add a translator, copy <a href="https://glotpress.trac.wordpress.org/attachment/ticket/196/add-new-user.php">this script</a> into <em>scripts/add-new-user.php</em>. Then run this command from the <em>htdocs</em> directory:
+<pre>./scripts/add-new-user.php -u &lt;username&gt; -e &lt;email&gt; -p &lt;password&gt;</pre>
+</li>
+</ol>
+<h4>Further</h4>
+<ul>
+<li>For Android developers: If you are new to localization, read Google&#8217;s documentation on <a href="http://developer.android.com/distribute/tools/localization-checklist.html#manage-strings">managing strings</a>. You can also set some strings to be <a href="http://tools.android.com/recent/non-translatablestrings">not translated</a> if you use <em>strings.xml</em> to also store API keys etc.</li>
+<li>Automated Import/Export from App&#8217;s Git Repository<em> (because automated translation handling isn&#8217;t enough)</em>: I had developed a <a href="https://github.com/GautamGupta/glotpress-import-export">tool</a> for LimeSurvey about 3 years ago that would run as a cron, automatically add new strings into GlotPress and <a href="https://github.com/LimeSurvey/LimeSurvey/commit/d0581daf154110d2d166426aae39cfc49296abda">commit</a> new translations. To make it work with mobile apps would take some effort.</li>
+<li>Structuring Projects: <a href="https://translate.wordpress.org/languages/hi/default/apps">Check out how</a> WordPress (parent project of GlotPress) uses it.</li>
+<li>Handbook for translators: WordPress also has a <a href="https://make.wordpress.org/polyglots/handbook/tools/glotpress-translate-wordpress-org/#translating-strings">small tutorial</a> you can link your translators to.</li>
+<li>Why there is no user management: GlotPress has been in existence for <a href="https://glotpress.trac.wordpress.org/changeset/2/trunk">7 years</a>, but it has received relatively less attention. I think it&#8217;s only WordPress.org that uses GlotPress extensively, and since one can replace GlotPress user tables with WordPress&#8217;, no work was probably done to add user management into GlotPress itself. It will probably be made into a WordPress plugin soon. Update: Until then, this seems to be <a href="https://wordpress.org/plugins/gp-integration/screenshots/">worth a try</a>.</li>
+</ul>
+<p>The post <a rel="nofollow" href="/manage-your-android-and-ios-apps-translations-using-glotpress/">Manage your Android and iOS Apps Translations using GlotPress</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Integrating GlotPress User Tables With Another Software</title>
+		<link>/integrating-glotpress-user-tables-with-another-software/</link>
+		
+		<dc:creator><![CDATA[Gautam]]></dc:creator>
+		<pubDate>Sat, 14 Apr 2012 19:00:09 +0000</pubDate>
+				<category><![CDATA[Open Source]]></category>
+		<guid isPermaLink="false">/?p=1365</guid>
+
+					<description><![CDATA[<p>I was actively working with LimeSurvey during Google Code-in &#8217;11 and had promised them to integrate GlotPress with LimeSurvey (user tables) to help the translators and completed it some weeks back (though this was not the end result that they actually wanted, I&#8217;ll work on that later &#8211; thought I should write this before I&#8230; <a class="more-link" href="/integrating-glotpress-user-tables-with-another-software/">Continue reading <span class="screen-reader-text">Integrating GlotPress User Tables With Another Software</span></a></p>
+<p>The post <a rel="nofollow" href="/integrating-glotpress-user-tables-with-another-software/">Integrating GlotPress User Tables With Another Software</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>I was actively working with LimeSurvey during <a title="Google Code-in, Take Two — CA Again! ;)" href="/google-code-in-take-two/">Google Code-in &#8217;11</a> and had promised them to integrate <a title="GlotPress" href="http://glotpress.org/">GlotPress</a> with LimeSurvey (user tables) to help the translators and completed it some weeks back (though this was not the end result that they actually wanted, I&#8217;ll work on that later &#8211; thought I should write this before I forget the process myself &#8211; I know I have a short memory ;)).<span id="more-1365"></span></p>
+<h3>Integrating GlotPress &amp; LimeSurvey</h3>
+<p>Assuming you already have a LimeSurvey install, whose user table you want to use.</p>
+<ol>
+<li>svn checkout <a href="http://svn.glotpress.org/trunk/" target="_blank" rel="noopener noreferrer">http://svn.glotpress./<wbr></wbr>org/trunk/</a> glotpress</li>
+<li><a title="GlotPress LimeSurvey Integration zip download" href="https://github.com/GautamGupta/GlotPress-LimeSurvey-Integration/zipball/master">Download</a> the three custom files found in the root folder (or clone the <a title="GlotPress LimeSurvey Integration" href="https://github.com/GautamGupta/GlotPress-LimeSurvey-Integration/">repository</a>) and put them in the glotpress folder.</li>
+<li>Edit <em>gp-config.php</em> for the database details, you can also regenerate the salts on your wish. Scroll down below to check if <em>CUSTOM_USER_TABLE</em> constant shows the correct user table name (check the table prefix <em>lime_</em>).</li>
+<li>Open the folder location in the browser to run the GlotPress installation process. Write the generated <em>.htaccess</em>.</li>
+</ol>
+<p>Now do any of the two steps:</p>
+<ol>
+<li>Make <span style="text-decoration: underline;">all</span> superadmins in LimeSurvey administrators in GlotPress &#8211; put the <em>plugins/permission.php</em> file in <em>plugins</em> folder.</li>
+<li>Make <span style="text-decoration: underline;">only some</span> people in LimeSurvey administrators in GlotPress &#8211; run this query &#8211;<br />
+<em>INSERT INTO `gp_permissions` (`id` ,`user_id` ,`action` ,`object_type` ,`object_id`) VALUES (NULL , &#8216;1&#8217;, &#8216;admin&#8217;, NULL , NULL);</em><br />
+(assuming <em>gp_</em> is the prefix you&#8217;ve chosen) where the corresponding <em>`user_id`</em> is the user id in <em>lime_users</em> table whom you want to make the admin in GlotPress.</li>
+</ol>
+<p>And, done! No core files modified. Now you can login with that id, create new projects, and add other users as translation approvers, etc. Normal users can only suggest translations.</p>
+<h3>Integrating GlotPress &amp; Any Software</h3>
+<p>Now that I have written about how to integrate GlotPress with LimeSurvey, I also wanted to write about how you can actually integrate GlotPress with any other software which has a user table which GlotPress could use. There are basically four modifications you need to make. These modifications to the original classes were done on GlotPress r683. <strong>Refer</strong> to this <a title="GlotPress &amp; LimeSurvey User Table Integration Main Commit" href="https://github.com/GautamGupta/GlotPress-LimeSurvey-Integration/commit/6021e34fa494a44933e684d4a95552d6683998b3">commit</a> to see how the core files were modified to suit the needs, explanation below.</p>
+<h4><strong>User class</strong> (<em>class.ls-users.php</em>)</h4>
+<p>You need to make GlotPress aware of your user table by editing the <em>WP_Users</em> class.</p>
+<ol>
+<li>Find/replace all the user table column names with yours. Also edit the _put_user() <a href="https://github.com/GautamGupta/GlotPress-LimeSurvey-Integration/commit/6021e34fa494a44933e684d4a95552d6683998b3#L1R18">method</a>.</li>
+<li><a href="https://github.com/GautamGupta/GlotPress-LimeSurvey-Integration/commit/6021e34fa494a44933e684d4a95552d6683998b3#L1R64">Disable</a> (and <a href="https://github.com/GautamGupta/GlotPress-LimeSurvey-Integration/commit/6021e34fa494a44933e684d4a95552d6683998b3#L1R193">here</a>) search by <em>user_nicename</em> if no such column exists and you can do that with username instead (similarly with other columns).</li>
+<li><a href="https://github.com/GautamGupta/GlotPress-LimeSurvey-Integration/commit/6021e34fa494a44933e684d4a95552d6683998b3#L1L180">Correct</a> <em>set_password()</em></li>
+<li><a href="https://github.com/GautamGupta/GlotPress-LimeSurvey-Integration/commit/6021e34fa494a44933e684d4a95552d6683998b3#L1R381">Make</a> appropriate mapping/addition of values</li>
+</ol>
+<h4>Password Hashing (<em>class.ls-pass.php</em>)</h4>
+<p>It is likely that your software would be using a password hashing algorithm other than PHPass, that is used by GlotPress. If not, you can skip this step but if that&#8217;s the case, you&#8217;d need to edit the <em>hash_password()</em> <a title="hash_password method in WP_Pass class in GlotPress" href="https://github.com/GautamGupta/GlotPress-LimeSurvey-Integration/blob/6021e34fa494a44933e684d4a95552d6683998b3/class.ls-pass.php#L18">method</a> in <em>WP_Pass</em> class with your hashing algorithm.</p>
+<h4>Making GlotPress aware of the changes (<em>gp-config.php</em>)</h4>
+<p>Refer the lines <a title="gp-config.php edits" href="https://github.com/GautamGupta/GlotPress-LimeSurvey-Integration/blob/6021e34fa494a44933e684d4a95552d6683998b3/gp-config.php#L54">54-60</a> &#8211; you need to tell the GlotPress to not use its own user table and user/hashing classes and instead use yours.</p>
+<h4>Permissions (<em>plugins/permission.php)</em></h4>
+<p>GlotPress uses a <em>gp_permissions</em> table than the user meta table to store permissions, making our work easier. As described above, you have two options for permissions &#8211; you can either run the sql query to convert a particular user into an administrator or if your user table contains a column which differentiates the administrators and you can use that, you can just edit and activate <a title="GlotPress LimeSurvey Integration Permissions Plugin" href="https://github.com/GautamGupta/GlotPress-LimeSurvey-Integration/blob/a483aa2dfa0a388514c699b8eadd0bf68b0b83ef/plugins/permission.php#L19">this plugin</a>.</p>
+<h3><em>Bonus</em> &#8211; Plugins!</h3>
+<p>I have also created a <a title="GlotPress Plugins" href="https://github.com/GautamGupta/GlotPress-Plugins">Github repository</a> with four plugins which my friend <a title="Ben L. aka Nightgunner5" href="http://llamaslayers.net/">Ben L.</a> had written that you may find useful &#8211; just put them in the plugins folder and comment/uncomment the last line to activate/deactivate them.</p>
+<p>Hope this helps you. You may ask your queries below. <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>The post <a rel="nofollow" href="/integrating-glotpress-user-tables-with-another-software/">Integrating GlotPress User Tables With Another Software</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Making a Simple OCR Android App using Tesseract</title>
+		<link>/making-an-ocr-android-app-using-tesseract/</link>
+					<comments>/making-an-ocr-android-app-using-tesseract/#comments</comments>
+		
+		<dc:creator><![CDATA[Gautam]]></dc:creator>
+		<pubDate>Wed, 09 Nov 2011 15:43:24 +0000</pubDate>
+				<category><![CDATA[Open Source]]></category>
+		<guid isPermaLink="false">/?p=1219</guid>
+
+					<description><![CDATA[<p>This post tells you how you can easily make an Android application to extract the text from the image being captured by the camera of your Android phone! We&#8217;ll be using a fork of Tesseract Android Tools by Robert Theis called Tess Two. They are based on the Tesseract OCR Engine (mainly maintained by Google)&#8230; <a class="more-link" href="/making-an-ocr-android-app-using-tesseract/">Continue reading <span class="screen-reader-text">Making a Simple OCR Android App using Tesseract</span></a></p>
+<p>The post <a rel="nofollow" href="/making-an-ocr-android-app-using-tesseract/">Making a Simple OCR Android App using Tesseract</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>This post tells you how you can easily make an Android application to extract the text from the image being captured by the camera of your Android phone! We&#8217;ll be using a fork of Tesseract Android Tools by Robert Theis called Tess Two. They are based on the Tesseract OCR Engine (mainly maintained by Google) and Leptonica image processing libraries.<span id="more-1219"></span></p>
+<figure id="attachment_1321" aria-describedby="caption-attachment-1321" style="width: 491px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/11/capture_3.jpg"><img loading="lazy" class=" wp-image-1321  " title="Simple Android OCR App using Tesseract" src="/wp-content/uploads/2011/11/capture_3-1024x768.jpg" alt="" width="491" height="369" srcset="/wp-content/uploads/2011/11/capture_3-1024x768.jpg 1024w, /wp-content/uploads/2011/11/capture_3-300x225.jpg 300w" sizes="(max-width: 491px) 100vw, 491px" /></a><figcaption id="caption-attachment-1321" class="wp-caption-text">Recognizing text using your Android phone. Not exactly the end result of this blog post, but what you could achieve.</figcaption></figure>
+<p><strong>Note</strong>: These instructions are for <a title="Android SDK" href="http://developer.android.com/sdk/index.html">Android SDK</a> r19 and <a title="Android NDK" href="https://developer.android.com/ndk/index.html">Android NDK</a> r7c, at least for the time being (written at <a href="https://github.com/rmtheis/tess-two/tree/cbfa61eff0ea23d6de63070cfa1364331f01cb30">this tree</a>). On 64-bit Ubuntu, you may need to install the <em>ia32-libs</em> 32-bit compatibility library. You would also need proper PATH variables added (see Troubleshooting section below).</p>
+<ol>
+<li>Download the source or clone this <a title="Tess Two by Robert Theis" href="https://github.com/rmtheis/tess-two">git repository</a>. This project contains tools for compiling the Tesseract, Leptonica, and JPEG libraries for use on Android. It contains an Eclipse Android library project that provides a Java API for accessing natively-compiled Tesseract and Leptonica APIs. You don&#8217;t need eyes-two code, you can do without it.</li>
+<li>Build this project using these commands (here, tess-two is the directory inside tess-two &#8211; the one at the same level as of tess-two-test):
+<pre>cd &lt;project-directory&gt;/tess-two
+ndk-build
+android update project --path .
+ant release</pre>
+</li>
+<li>Now import the project as a library in Eclipse. File → Import → Existing Projects into workspace → tess-two directory. Right click the project, Android Tools → Fix Project Properties. Right click → Properties → Android → Check Is Library.</li>
+<li>Configure your project to use the tess-two project as a library project: Right click your project name → Properties → Android → Library → Add, and choose <em>tess-two</em>. You&#8217;re now ready to OCR any image using the library.</li>
+<li>First, we need to get the picture itself. For that, I found a simple code to capture the image <a title="Simple Android Photo Capture" href="http://web.archive.org/web/20160123214822/http://labs.makemachine.net/2010/03/simple-android-photo-capture/">here</a>. After we have the bitmap, we just need to perform the OCR which is relatively easy. Be sure to correct the rotation and image type by doing something like:
+<pre>// _path = path to the image to be OCRed
+ExifInterface exif = new ExifInterface(_path);
+int exifOrientation = exif.getAttributeInt(
+        ExifInterface.TAG_ORIENTATION,
+        ExifInterface.ORIENTATION_NORMAL);
+
+int rotate = 0;
+
+switch (exifOrientation) {
+case ExifInterface.ORIENTATION_ROTATE_90:
+    rotate = 90;
+    break;
+case ExifInterface.ORIENTATION_ROTATE_180:
+    rotate = 180;
+    break;
+case ExifInterface.ORIENTATION_ROTATE_270:
+    rotate = 270;
+    break;
+}
+
+if (rotate != 0) {
+    int w = bitmap.getWidth();
+    int h = bitmap.getHeight();
+
+    // Setting pre rotate
+    Matrix mtx = new Matrix();
+    mtx.preRotate(rotate);
+
+    // Rotating Bitmap &amp; convert to ARGB_8888, required by tess
+    bitmap = Bitmap.createBitmap(bitmap, 0, 0, w, h, mtx, false);
+}
+bitmap = bitmap.copy(Bitmap.Config.ARGB_8888, true);</pre>
+</li>
+<li>Now we have the image in the bitmap, and we can simply use the TessBaseAPI to run the OCR like:
+<pre>TessBaseAPI baseApi = new TessBaseAPI();
+// DATA_PATH = Path to the storage
+// lang = for which the language data exists, usually "eng"
+baseApi.init(DATA_PATH, lang);
+// Eg. baseApi.init("/mnt/sdcard/tesseract/tessdata/eng.traineddata", "eng");
+baseApi.setImage(bitmap);
+String recognizedText = baseApi.getUTF8Text();
+baseApi.end();</pre>
+<p>(You can download the language files from <a title="Tesseract Language Data Files Download" href="http://code.google.com/p/tesseract-ocr/downloads/list">here</a> and put them in a directory on your device &#8211; manually or by code)</li>
+<li>Now that you&#8217;ve got the OCRed text in the variable <em>recognizedText</em>, you can do pretty much anything with it &#8211; translate, search, anything! ps. You can add various language support by having a preference and then downloading the required language data file from <a title="Language Data Files Download for Tesseract" href="http://code.google.com/p/tesseract-ocr/downloads/list">here</a>. You might even put them in the assets folder and copy them to the SD card on start.</li>
+</ol>
+<p>To make things easy, and for you to have a better understanding, I have uploaded a simple application on OCR that makes use of Tess Two on Github called <a title="Simple Android OCR Android Application by Gautam" href="https://github.com/GautamGupta/Simple-Android-OCR">Simple Android OCR</a> (for beginners). If you want a full-fledged application, that has a selectable region while capturing the image, translating the text, preferences etc., then you can checkout Robert Theis&#8217; <a title="Android OCR Application by Robert Theis" href="https://github.com/rmtheis/android-ocr">Android OCR application</a> (for intermediate+)!</p>
+<p><strong>Updated</strong>: 7 October 2012</p>
+<p><strong>References</strong></p>
+<ol>
+<li><a title="Using Tesseract Tools for Android to Create a Basic OCR App" href="http://rmtheis.wordpress.com/2011/08/06/using-tesseract-tools-for-android-to-create-a-basic-ocr-app/">Using Tesseract Tools for Android to Create a Basic OCR App</a> by Robert Theis</li>
+<li><a title="Simple Android Photo Capture by MakeMachine" href="http://web.archive.org/web/20160123214822/http://labs.makemachine.net/2010/03/simple-android-photo-capture/">Simple Android Photo Capture</a> by MakeMachine</li>
+<li>tess-two README</li>
+</ol>
+<p><strong>Troubleshooting</strong></p>
+<ul>
+<li>If you are using <em>Android Studio</em>, check this <a href="/making-an-ocr-android-app-using-tesseract/#comment-184181">comment</a>.</li>
+<li><em>About updating PATH &#8211;</em> You need to update your PATH variable for the commands to function, otherwise you would see a command not found error. For Android SDK, add the location of the SDK&#8217;s <em>tools</em> and <em>platform-tools</em> directories to your PATH environment variable. For Android NDK, use the same process to add the <em>android-ndk</em> directory to the PATH variable.</li>
+<li><em>Maven-ising</em> &#8211; Check this post by James Elsey. He also mentions that he got it working on Windows without any problems.</li>
+<li>On Windows: &#8220;xcopy is not recognized.&#8221; Solution: Move xcopy.exe file from <i>Windows\System32</i> folder to <i>android-sdk\tools</i> folder (or add <em>%SystemRoot%\system32</em> to the PATH variable).</li>
+<li>On Windows: &#8220;The project either has no target set or the target is invalid. Please provide a &#8211;target to the &#8216;android.bat update&#8217; command.&#8221; Solution: Run the command
+<pre>android update project --path D:\Softwares\Studies\Android\<wbr></wbr>OCR\Code_Project\tess-two-<wbr></wbr>master\tess-two <em>--target android-19</em></pre>
+</li>
+<li>You may also try Ctrl+F-ing your problem on this page, someone might have already encountered it and posted a solution in the comments.</li>
+</ul>
+<p><strong>Translations</strong></p>
+<ol>
+<li><a title="Making a Simple OCR Android App using Tesseract Tutorial in Japanese by datsuns" href="http://d.hatena.ne.jp/datsuns/20120105">Japanese</a> by datsuns</li>
+</ol>
+<p><strong>Projects Made By Users</strong></p>
+<p>People have made a lot of projects using this tutorial, some of them are:</p>
+<ol>
+<li>DatumDroid by Aviral, Devashish and me</li>
+<li><a title="MachineRetina" href="http://machineretina.wordpress.com/2012/09/11/tesseracting-android/">MachineRetina</a> by Salman Gadit</li>
+<li>OCR Quickly by UrySoft</li>
+</ol>
+<p>If you have made one too, do tell us in the comments below!</p>
+<p>The post <a rel="nofollow" href="/making-an-ocr-android-app-using-tesseract/">Making a Simple OCR Android App using Tesseract</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/making-an-ocr-android-app-using-tesseract/feed/</wfw:commentRss>
+			<slash:comments>691</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>2011: A New Kind of Forum Software is Born</title>
+		<link>/2011-a-new-kind-of-forum-software-is-born/</link>
+					<comments>/2011-a-new-kind-of-forum-software-is-born/#comments</comments>
+		
+		<dc:creator><![CDATA[Gautam]]></dc:creator>
+		<pubDate>Tue, 11 Jan 2011 14:30:08 +0000</pubDate>
+				<category><![CDATA[Open Source]]></category>
+		<guid isPermaLink="false">/?p=927</guid>
+
+					<description><![CDATA[<p>2011 has brought the creation of a new and creative bulletin board software with it &#8211; bbPress. It is one of the most simple and fast forum packages available out there. Until now there was a standalone version of it, but recently, efforts have been made to convert it into a WordPress plugin. Well, we can&#8217;t&#8230; <a class="more-link" href="/2011-a-new-kind-of-forum-software-is-born/">Continue reading <span class="screen-reader-text">2011: A New Kind of Forum Software is Born</span></a></p>
+<p>The post <a rel="nofollow" href="/2011-a-new-kind-of-forum-software-is-born/">2011: A New Kind of Forum Software is Born</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>2011 has brought the creation of a new and creative bulletin board software with it &#8211; bbPress. It is one of the most simple and fast forum packages available out there. Until now there was a standalone version of it, but recently, efforts have been made to convert it into a WordPress plugin. Well, we can&#8217;t say convert because it is entirely written from scratch, we&#8217;re just duplicating the same functionality which you would have found in bbPress standalone, and adding some new bits which would make your forum look super cool! <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /><span id="more-927"></span></p>
+<h2>Features</h2>
+<p>So what all are the things which have been already coded into the new plugin? Here&#8217;s an overview!</p>
+<h3>#0 Overview</h3>
+<p>As every forum, there are three basic things &#8211; forum, topic and reply. A forum is a collection of topics and a topic is a collection of replies. bbPress uses WordPress custom post types features for all the three things. Additionally, there are tags. As you might be knowing, tags are used for tagging topics to a particular word and all those tagged topics can be accessed by going to the link for the word. bbPress uses custom taxonomies for this.</p>
+<p><strong>Developer Note</strong>: At some places (in the code), the word &#8216;post&#8217; is used. It is used for referring to topic and reply both.</p>
+<h3>#1 TwentyTen Child Theme</h3>
+<figure id="attachment_958" aria-describedby="caption-attachment-958" style="width: 660px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/01/tt.png"><img loading="lazy" class="size-full wp-image-958" title="TwentyTen Child Theme" src="/wp-content/uploads/2011/01/tt.png" alt="" width="660" height="608" srcset="/wp-content/uploads/2011/01/tt.png 660w, /wp-content/uploads/2011/01/tt-300x276.png 300w" sizes="(max-width: 660px) 100vw, 660px" /></a><figcaption id="caption-attachment-958" class="wp-caption-text">TwentyTen Child Theme</figcaption></figure>
+<p>bbPress bundles a neat and clean child theme of the TwentyTen theme. It implements all the current available features in bbPress. You may find some chunks of more details <a title="bbPress TwentyTen Child Theme Info" href="http://bbpress.org/forums/topic/bbpress-plugin-bbp-twentyten-theme">here</a>.</p>
+<h3>#2 Administration</h3>
+<figure id="attachment_953" aria-describedby="caption-attachment-953" style="width: 621px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/01/settings.png"><img loading="lazy" class="size-full wp-image-953" title="Settings" src="/wp-content/uploads/2011/01/settings.png" alt="" width="621" height="701" srcset="/wp-content/uploads/2011/01/settings.png 621w, /wp-content/uploads/2011/01/settings-265x300.png 265w" sizes="(max-width: 621px) 100vw, 621px" /></a><figcaption id="caption-attachment-953" class="wp-caption-text">The Settings Page</figcaption></figure>
+<p>Much like the bbPress standalone, you get to manage forums, topics, replies, topic tags, settings and do things like recounts to get your forum counts back in sync.</p>
+<h3>#3 Forum Type, Status*, Visibility*</h3>
+<figure id="attachment_941" aria-describedby="caption-attachment-941" style="width: 640px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/01/forum-type-status-visibility.png"><img loading="lazy" class="size-large wp-image-941" title="Forum Type, Status and Visibility" src="/wp-content/uploads/2011/01/forum-type-status-visibility-1024x412.png" alt="" width="640" height="257" srcset="/wp-content/uploads/2011/01/forum-type-status-visibility-1024x412.png 1024w, /wp-content/uploads/2011/01/forum-type-status-visibility-300x120.png 300w, /wp-content/uploads/2011/01/forum-type-status-visibility.png 1077w" sizes="(max-width: 640px) 100vw, 640px" /></a><figcaption id="caption-attachment-941" class="wp-caption-text">Forum Type, Status and Visibility</figcaption></figure>
+<p>Forum type means.. um.. forum type <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f61b.png" alt="😛" class="wp-smiley" style="height: 1em; max-height: 1em;" /> &#8211; ok, whether the forum is a normal forum or a category. Topics can be made in forums, but not in categories. Status means whether the forum is closed or open and visibility defines whether the forum is visible to all or is it private.</p>
+<h3>#4 Topic Actions</h3>
+<figure id="attachment_933" aria-describedby="caption-attachment-933" style="width: 315px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/01/topic-actions.png"><img loading="lazy" class="size-full wp-image-933" title="Topic Actions" src="/wp-content/uploads/2011/01/topic-actions.png" alt="" width="315" height="53" srcset="/wp-content/uploads/2011/01/topic-actions.png 315w, /wp-content/uploads/2011/01/topic-actions-300x50.png 300w" sizes="(max-width: 315px) 100vw, 315px" /></a><figcaption id="caption-attachment-933" class="wp-caption-text">Edit, Trash, Close, Stick Topics, Merge and Spam Topics</figcaption></figure>
+<p>In bbPress, you can edit the topic, close the topic, stick it, mark it as spam, merge it with another or trash or restore or permanently delete it.</p>
+<h3>#5 Reply Actions</h3>
+<figure id="attachment_934" aria-describedby="caption-attachment-934" style="width: 161px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/01/reply-actions.png"><img loading="lazy" class="size-full wp-image-934" title="Reply Actions" src="/wp-content/uploads/2011/01/reply-actions.png" alt="" width="161" height="47" /></a><figcaption id="caption-attachment-934" class="wp-caption-text">Edit, Trash, Spam Replies &amp; Split Topics</figcaption></figure>
+<p>Like the standalone, you can edit replies, mark them as spam, trash or restore or permanently delete them and split the topics.</p>
+<h4>&#8211; # Splitting and Merging*</h4>
+<figure id="attachment_935" aria-describedby="caption-attachment-935" style="width: 363px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/01/split-topic.png"><img loading="lazy" class="size-full wp-image-935" title="Split Topics" src="/wp-content/uploads/2011/01/split-topic.png" alt="" width="363" height="309" srcset="/wp-content/uploads/2011/01/split-topic.png 363w, /wp-content/uploads/2011/01/split-topic-300x255.png 300w" sizes="(max-width: 363px) 100vw, 363px" /></a><figcaption id="caption-attachment-935" class="wp-caption-text">Split Topics</figcaption></figure>
+<figure id="attachment_936" aria-describedby="caption-attachment-936" style="width: 268px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/01/merge-topics.png"><img loading="lazy" class="size-full wp-image-936" title="Merge Topics" src="/wp-content/uploads/2011/01/merge-topics.png" alt="" width="268" height="271" /></a><figcaption id="caption-attachment-936" class="wp-caption-text">Merge Topics</figcaption></figure>
+<p>As shown in the above two captures, you can split and merge topics too! These are an essential part of the forums as generally people start up unrelated discussion on a topic, making it necessary to actually delete the replies. Instead, you can just split the topic. If you find two similar topics, just merge them.</p>
+<h4>&#8211; # Trashing, Restoring and Deleting*</h4>
+<p>The plugin makes use of the internal WordPress functions to help you trash topics and replies instead of permanently deleting theme. Once you&#8217;ve trashed them, the plugin would show you the options for restoring or deleting them.</p>
+<h4>&#8211; # Stickies</h4>
+<figure id="attachment_946" aria-describedby="caption-attachment-946" style="width: 652px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/01/sticky.png"><img loading="lazy" class="size-full wp-image-946" title="Sticky Topic" src="/wp-content/uploads/2011/01/sticky.png" alt="" width="652" height="218" srcset="/wp-content/uploads/2011/01/sticky.png 652w, /wp-content/uploads/2011/01/sticky-300x100.png 300w" sizes="(max-width: 652px) 100vw, 652px" /></a><figcaption id="caption-attachment-946" class="wp-caption-text">Sticky Topic</figcaption></figure>
+<p>Stickies are announcements. You can stick topics to their respective forums or the front page of the forums.</p>
+<h3>#6 Revision Log*</h3>
+<figure id="attachment_937" aria-describedby="caption-attachment-937" style="width: 341px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/01/enter-revision-reason.png"><img loading="lazy" class="size-full wp-image-937" title="Enter Modification Reason" src="/wp-content/uploads/2011/01/enter-revision-reason.png" alt="" width="341" height="160" srcset="/wp-content/uploads/2011/01/enter-revision-reason.png 341w, /wp-content/uploads/2011/01/enter-revision-reason-300x140.png 300w" sizes="(max-width: 341px) 100vw, 341px" /></a><figcaption id="caption-attachment-937" class="wp-caption-text">Enter Modification Reason Form on Topic Edit Page</figcaption></figure>
+<figure id="attachment_938" aria-describedby="caption-attachment-938" style="width: 651px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/01/revision-log.png"><img loading="lazy" class="size-full wp-image-938" title="Revision Log" src="/wp-content/uploads/2011/01/revision-log.png" alt="" width="651" height="79" srcset="/wp-content/uploads/2011/01/revision-log.png 651w, /wp-content/uploads/2011/01/revision-log-300x36.png 300w" sizes="(max-width: 651px) 100vw, 651px" /></a><figcaption id="caption-attachment-938" class="wp-caption-text">The Revision Log below the Topic</figcaption></figure>
+<p>The bbPress plugin brings a very innovative feature with it. That is a revision aka modification aka change aka edit log. This makes use of the WordPress revisions feature and stores a revision when a topic or a reply is edited. We may probably add revert to a revision feature in the future too (though you can already do that from the admin section!).</p>
+<h3>#6 Loginless Posting</h3>
+<figure id="attachment_939" aria-describedby="caption-attachment-939" style="width: 442px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/01/loginless.png"><img loading="lazy" class="size-full wp-image-939" title="Loginless Posting Form" src="/wp-content/uploads/2011/01/loginless.png" alt="" width="442" height="250" srcset="/wp-content/uploads/2011/01/loginless.png 442w, /wp-content/uploads/2011/01/loginless-300x169.png 300w" sizes="(max-width: 442px) 100vw, 442px" /></a><figcaption id="caption-attachment-939" class="wp-caption-text">Loginless Posting Form</figcaption></figure>
+<p>You might not have seen the loginless feature on bbPress standalone, it is one of the features which would be introduced in bbPress 1.1. The bbPress plugin, too allows you to make topics and replies without logging in. This can be disabled by a single click from the settings page.</p>
+<h3>#7 Favorites et Subscriptions</h3>
+<figure id="attachment_940" aria-describedby="caption-attachment-940" style="width: 276px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/01/fav-subs.png"><img loading="lazy" class="size-full wp-image-940" title="Favorites and Subscriptions" src="/wp-content/uploads/2011/01/fav-subs.png" alt="" width="276" height="44" /></a><figcaption id="caption-attachment-940" class="wp-caption-text">Favorites and Subscriptions</figcaption></figure>
+<p style="text-align: left;">The bbPress plugin allows you to mark topics as favorites or subscribe to them. Both the features work in a very similar way, except for the fact that your favorites generate a feed for you and are shown to all the users while only you and administrators can see your subscriptions and you get mailed when a new reply is made to the topic you subscribed to.</p>
+<h3>#9 Views</h3>
+<figure id="attachment_942" aria-describedby="caption-attachment-942" style="width: 431px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/01/view-no-replies.png"><img loading="lazy" class="size-full wp-image-942" title="View - No Replies" src="/wp-content/uploads/2011/01/view-no-replies.png" alt="" width="431" height="337" srcset="/wp-content/uploads/2011/01/view-no-replies.png 431w, /wp-content/uploads/2011/01/view-no-replies-300x234.png 300w, /wp-content/uploads/2011/01/view-no-replies-430x337.png 430w" sizes="(max-width: 431px) 100vw, 431px" /></a><figcaption id="caption-attachment-942" class="wp-caption-text">View &#8211; No Replies</figcaption></figure>
+<p>You may define views as &#8220;predefined search queries&#8221;. When you create a view (or a plugin creates it for you), a link is generated to that so that the user can go to that and view the associated topics. Examples of views are no replies (see the capture and notice the number of replies on the topic), un-tagged etc.</p>
+<h3>#10 Statistics</h3>
+<figure id="attachment_944" aria-describedby="caption-attachment-944" style="width: 647px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/01/statistics.png"><img loading="lazy" class="size-full wp-image-944" title="Statistics" src="/wp-content/uploads/2011/01/statistics.png" alt="" width="647" height="477" srcset="/wp-content/uploads/2011/01/statistics.png 647w, /wp-content/uploads/2011/01/statistics-300x221.png 300w" sizes="(max-width: 647px) 100vw, 647px" /></a><figcaption id="caption-attachment-944" class="wp-caption-text">Statistics &amp; Popular Topics</figcaption></figure>
+<p>Everyone likes showing off statistics (well, if they&#8217;re a <a title="WordPress.org Statistics" href="http://wordpress.org/support/statistics.php">good number</a>). bbPress creates a statistics page for you and displays information such as the number of forums, topics, replies, registered users, topic tags etc. Additional information is shown to moderators and administrators (like hidden i.e. private, spammed and trashed topics).</p>
+<h3>#11 Dashboard Widget</h3>
+<figure id="attachment_945" aria-describedby="caption-attachment-945" style="width: 514px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/01/dashboard-widget.png"><img loading="lazy" class="size-full wp-image-945" title="Dashboard Widget" src="/wp-content/uploads/2011/01/dashboard-widget.png" alt="" width="514" height="223" srcset="/wp-content/uploads/2011/01/dashboard-widget.png 514w, /wp-content/uploads/2011/01/dashboard-widget-300x130.png 300w" sizes="(max-width: 514px) 100vw, 514px" /></a><figcaption id="caption-attachment-945" class="wp-caption-text">Dashboard Widget</figcaption></figure>
+<p style="text-align: left;">The dashboard widget gives you a quick look of all the statistics (#11), and the plugin version you&#8217;re using. We&#8217;d be probably adding some more like recent topics, replies etc.</p>
+<h3>#12 Profile + Edit</h3>
+<figure id="attachment_947" aria-describedby="caption-attachment-947" style="width: 645px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/01/profile.png"><img loading="lazy" class="size-full wp-image-947" title="Profile Page" src="/wp-content/uploads/2011/01/profile.png" alt="" width="645" height="840" srcset="/wp-content/uploads/2011/01/profile.png 645w, /wp-content/uploads/2011/01/profile-230x300.png 230w" sizes="(max-width: 645px) 100vw, 645px" /></a><figcaption id="caption-attachment-947" class="wp-caption-text">Profile Page</figcaption></figure>
+<figure id="attachment_948" aria-describedby="caption-attachment-948" style="width: 316px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/01/profile-edit.png"><img loading="lazy" class="size-full wp-image-948" title="Profile Edit Page" src="/wp-content/uploads/2011/01/profile-edit.png" alt="" width="316" height="428" srcset="/wp-content/uploads/2011/01/profile-edit.png 316w, /wp-content/uploads/2011/01/profile-edit-221x300.png 221w" sizes="(max-width: 316px) 100vw, 316px" /></a><figcaption id="caption-attachment-948" class="wp-caption-text">Excerpt of the Profile Edit Page</figcaption></figure>
+<p>The profile page shows the topics you&#8217;ve subscribed to, the topics which you&#8217;ve marked as favorite and the topics you&#8217;ve started. You can also edit your profile from the front-end.</p>
+<h3>#13 Widgets</h3>
+<figure id="attachment_952" aria-describedby="caption-attachment-952" style="width: 202px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/01/widgets.png"><img loading="lazy" class="size-full wp-image-952" title="Widgets" src="/wp-content/uploads/2011/01/widgets.png" alt="" width="202" height="316" srcset="/wp-content/uploads/2011/01/widgets.png 202w, /wp-content/uploads/2011/01/widgets-191x300.png 191w" sizes="(max-width: 202px) 100vw, 202px" /></a><figcaption id="caption-attachment-952" class="wp-caption-text">Forum Widgets</figcaption></figure>
+<p>The bbPress plugin makes use of the WordPress Widgets API and adds various widgets like forums, topics and replies with various available options.</p>
+<h3>#14 Tag Management</h3>
+<figure id="attachment_954" aria-describedby="caption-attachment-954" style="width: 644px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/01/tags.png"><img loading="lazy" class="size-full wp-image-954" title="Tag Management" src="/wp-content/uploads/2011/01/tags.png" alt="" width="644" height="978" srcset="/wp-content/uploads/2011/01/tags.png 644w, /wp-content/uploads/2011/01/tags-197x300.png 197w" sizes="(max-width: 644px) 100vw, 644px" /></a><figcaption id="caption-attachment-954" class="wp-caption-text">Tag Management</figcaption></figure>
+<p>On the tag page, you would find a tag management form with which you can rename it, merge it or destroy/delete it.</p>
+<h3>@todo</h3>
+<p>There are some things which still need to be done. You can view a list of all the open tickets <a title="bbPress Plugin Open Tickets" href="http://bbpress.trac.wordpress.org/query?status=assigned&amp;status=new&amp;status=reopened&amp;milestone=Plugin&amp;group=status&amp;order=priority">here</a>.</p>
+<h3>Call for Testers</h3>
+<p>As the plugin has already got so many features, it might have also got a lot of bugs, and would need a great amount of testing. Thus, I request you all to checkout a copy of the <a title="bbPress Plugin branch" href="http://svn.automattic.com/bbpress/trunk/">plugin branch</a> and test it on your (local) (test) WordPress install! <em>The plugin is still in bleeding edge state, which means if you upload this plugin up on your site, it might be broken or it might break your site or the upgrades might not be as smooth as expected (that&#8217;s why it&#8217;s bleeding). </em>A beta or alpha might be available in the next month or so, though.</p>
+<p><em>* Means that these were not there in the bbPress standalone, and are new features introduced in the plugin.</em></p>
+<p>The post <a rel="nofollow" href="/2011-a-new-kind-of-forum-software-is-born/">2011: A New Kind of Forum Software is Born</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2011-a-new-kind-of-forum-software-is-born/feed/</wfw:commentRss>
+			<slash:comments>31</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Releasing bb Mystique v1.0 &#8211; Mystique Theme for bbPress!</title>
+		<link>/releasing-bb-mystique-for-bbpress/</link>
+					<comments>/releasing-bb-mystique-for-bbpress/#comments</comments>
+		
+		<dc:creator><![CDATA[Gautam]]></dc:creator>
+		<pubDate>Thu, 07 Oct 2010 12:03:44 +0000</pubDate>
+				<category><![CDATA[Open Source]]></category>
+		<guid isPermaLink="false">/?p=684</guid>
+
+					<description><![CDATA[<p>You must have heard of the famous Mystique theme for WordPress, haven&#8217;t you? Well, I&#8217;ve ported it over to bbPress and it can be downloaded from here. As bbPress is not that much extensive as WordPress is (in features), there are some things which are missing from the port &#8211; like the widgetized sidebar, menus,&#8230; <a class="more-link" href="/releasing-bb-mystique-for-bbpress/">Continue reading <span class="screen-reader-text">Releasing bb Mystique v1.0 &#8211; Mystique Theme for bbPress!</span></a></p>
+<p>The post <a rel="nofollow" href="/releasing-bb-mystique-for-bbpress/">Releasing bb Mystique v1.0 &#8211; Mystique Theme for bbPress!</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>You must have heard of the famous <a title="Mystique theme for WordPress" href="http://wordpress.org/extend/themes/mystique">Mystique</a> theme for WordPress, haven&#8217;t you? Well, I&#8217;ve ported it over to bbPress and it can be downloaded from <a title="Downlod bb Mystique v1.0 for bbPress" href="http://code.google.com/p/bb-mystique/downloads/detail?name=bb-mystique.zip#makechanges">here</a>. As bbPress is not that much extensive as WordPress is (in features), there are some things which are missing from the port &#8211; like the widgetized sidebar, menus, thumbnails and some other small things. For the time being, there is no settings page &#8211; I&#8217;ll add one soon. Till then, you can edit the file <em>settings.php</em> located in the <em>lib</em> folder of the theme (from lines 11 to 20) for some basic settings.</p>
+<p><strong>Requirements</strong>:</p>
+<ul>
+<li>bbPress 1.0+ (works best with bbPress 1.1+ &#8211; it hasn&#8217;t been released yet)</li>
+</ul>
+<p><strong>Screenshot</strong>:</p>
+<figure id="attachment_701" aria-describedby="caption-attachment-701" style="width: 435px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/10/bb-mystique-full.png"><img loading="lazy" class="size-large wp-image-701" title="bb Mystique v1.0 Screenshot" alt="bb Mystique v1.0 Screenshot" src="/wp-content/uploads/2010/10/bb-mystique-full-435x1024.png" width="435" height="1024" srcset="/wp-content/uploads/2010/10/bb-mystique-full-435x1024.png 435w, /wp-content/uploads/2010/10/bb-mystique-full-127x300.png 127w, /wp-content/uploads/2010/10/bb-mystique-full.png 939w" sizes="(max-width: 435px) 100vw, 435px" /></a><figcaption id="caption-attachment-701" class="wp-caption-text">bb Mystique (click to enlarge)</figcaption></figure>
+<h3>Download: <a title="Downlod bb Mystique v1.0 for bbPress" href="http://code.google.com/p/bb-mystique/downloads/detail?name=bb-mystique.zip#makechanges">http://goo.gl/cN8V</a></h3>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 1157px; width: 1px; height: 1px; overflow: hidden;">bb Mystique</div>
+<p>The post <a rel="nofollow" href="/releasing-bb-mystique-for-bbpress/">Releasing bb Mystique v1.0 &#8211; Mystique Theme for bbPress!</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/releasing-bb-mystique-for-bbpress/feed/</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>bbPress as a WordPress Plugin</title>
+		<link>/bbpress-as-a-wordpress-plugin/</link>
+					<comments>/bbpress-as-a-wordpress-plugin/#comments</comments>
+		
+		<dc:creator><![CDATA[Gautam]]></dc:creator>
+		<pubDate>Tue, 20 Jul 2010 12:46:25 +0000</pubDate>
+				<category><![CDATA[Open Source]]></category>
+		<guid isPermaLink="false">/2010/07/bbpress-as-a-wordpress-plugin/</guid>
+
+					<description><![CDATA[<p>There have been developments in the bbPress Trac in recent days, the plugin branch is now there (but of course not ready for use). JJJ and PeteMall have been working on it. And what more, I received my first props for the plugin :P. Another thing is that now I would be rarely updating/adding plugins&#8230; <a class="more-link" href="/bbpress-as-a-wordpress-plugin/">Continue reading <span class="screen-reader-text">bbPress as a WordPress Plugin</span></a></p>
+<p>The post <a rel="nofollow" href="/bbpress-as-a-wordpress-plugin/">bbPress as a WordPress Plugin</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>There have been developments in the bbPress Trac in recent days, the <a href="http://bbpress.trac.wordpress.org/browser/trunk/">plugin branch</a> is now there (but of course not ready for use). JJJ and PeteMall have been working on it. And what more, I received my <a href="http://bbpress.trac.wordpress.org/changeset/2489/">first props</a> for the plugin :P.</p>
+<p>Another thing is that now I would be rarely updating/adding plugins for standalone version (v1.1 or below) as it would be waste of time, instead I would spend my time on improving the bbPress plugin (v1.2 and above).</p>
+<p>There are also some heated discussions going on in the <a href="http://bbpress.org/forums/">bbPress forums</a> about having another name for the plugin or having its version number as 2.0.</p>
+<p><em>Also read: <a href="http://bbpress.org/blog/2010/07/wordpress-integration/">WordPress integration</a> (official blog post)</em></p>
+<p>The post <a rel="nofollow" href="/bbpress-as-a-wordpress-plugin/">bbPress as a WordPress Plugin</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/bbpress-as-a-wordpress-plugin/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>After the Deadline for bbPress v1.7 Released!</title>
+		<link>/after-the-deadline-v1-point-7-released/</link>
+					<comments>/after-the-deadline-v1-point-7-released/#comments</comments>
+		
+		<dc:creator><![CDATA[Gautam]]></dc:creator>
+		<pubDate>Sun, 13 Jun 2010 13:03:48 +0000</pubDate>
+				<category><![CDATA[Open Source]]></category>
+		<guid isPermaLink="false">/?p=618</guid>
+
+					<description><![CDATA[<p>After the Deadline Plugin v1.7 for bbPress has been released and is available for download. The release fixes a few bugs and adds some new features. Changelog Fixed a bug in which the API key sent to the server should be different for each user &#8211; Check here The proxy script now makes use of&#8230; <a class="more-link" href="/after-the-deadline-v1-point-7-released/">Continue reading <span class="screen-reader-text">After the Deadline for bbPress v1.7 Released!</span></a></p>
+<p>The post <a rel="nofollow" href="/after-the-deadline-v1-point-7-released/">After the Deadline for bbPress v1.7 Released!</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" class="alignright size-full wp-image-619" title="After the Deadline for bbPress" src="/wp-content/uploads/2010/06/atd-bb.png" alt="" width="329" height="51" srcset="/wp-content/uploads/2010/06/atd-bb.png 329w, /wp-content/uploads/2010/06/atd-bb-300x46.png 300w, /wp-content/uploads/2010/06/atd-bb-150x23.png 150w" sizes="(max-width: 329px) 100vw, 329px" />After the Deadline Plugin v1.7 for bbPress has been released and is available for <a title="After the Deadline Plugin for bbPress" href="http://bbpress.org/plugins/topic/after-the-deadline/">download</a>. The release fixes a few bugs and adds some new features.<span id="more-618"></span></p>
+<h3>Changelog</h3>
+<ul>
+<li>Fixed a bug in which the API key sent to the server should be  different for each user &#8211; <a href="http://www.afterthedeadline.com/api.slp">Check here</a></li>
+<li>The proxy script now makes use of <code>WP_Http</code> which is much  more reliable</li>
+<li>Added an option for Accepting All Suggestions</li>
+</ul>
+<p>Developers can see the changes made to the plugin files <a title="AtD/bb v1.7 Changes" href="https://plugins-dev.bbpress.org/changeset?new=2904%40%2F&amp;old=2902%40%2F">here</a>.</p>
+<h4>Download: <a title="After the Deadline Plugin for bbPress" href="http://bbpress.org/plugins/topic/after-the-deadline/">http://bbpress.org/plugins/topic/after-the-deadline/</a></h4>
+<p><em>Image Credits: Me, I know it is a bad fork <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f61b.png" alt="😛" class="wp-smiley" style="height: 1em; max-height: 1em;" /></em></p>
+<p>The post <a rel="nofollow" href="/after-the-deadline-v1-point-7-released/">After the Deadline for bbPress v1.7 Released!</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/after-the-deadline-v1-point-7-released/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Scr.im Email Saver Plugin for WordPress v0.1 Released!</title>
+		<link>/scr-im-email-saver-plugin-for-wordpress-v0-1-released/</link>
+		
+		<dc:creator><![CDATA[Gautam]]></dc:creator>
+		<pubDate>Mon, 31 May 2010 09:33:20 +0000</pubDate>
+				<category><![CDATA[Open Source]]></category>
+		<guid isPermaLink="false">/?p=605</guid>
+
+					<description><![CDATA[<p>Recently, I had released Scrim Email Saver Plugin for bbPress and Stef asked me if a WordPress version existed for the same. Today, I am releasing Scrim Email Saver Plugin for WordPress which filters your blog&#8217;s comments for Email IDs and converts them into Scr.im links so that your users&#8217; Email IDs do not get&#8230; <a class="more-link" href="/scr-im-email-saver-plugin-for-wordpress-v0-1-released/">Continue reading <span class="screen-reader-text">Scr.im Email Saver Plugin for WordPress v0.1 Released!</span></a></p>
+<p>The post <a rel="nofollow" href="/scr-im-email-saver-plugin-for-wordpress-v0-1-released/">Scr.im Email Saver Plugin for WordPress v0.1 Released!</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Recently, I had released <a title="Scrim Email Saver Plugin for bbPress" href="/scrim-email-saver-0-point-1-for-bbpress/">Scrim Email Saver Plugin for bbPress</a> and <a href="/scrim-email-saver-0-point-1-for-bbpress/">Stef asked</a> me if a WordPress version existed for the same. Today, I am releasing Scrim Email Saver Plugin for WordPress which filters your blog&#8217;s comments for Email IDs and converts them into Scr.im links so that your users&#8217; Email IDs do not get picked up by bots and they receive less (if not zero) spam.<span id="more-605"></span></p>
+<h3>What is Scr.im?</h3>
+<p>Scrim is a service made by <a title="Ozh" href="http://planetozh.com/">Ozh</a>. To scrim is to protect your email address before sharing it so that only real people will use it. You can read more about scrim on its about page.</p>
+<h3>Screenshots</h3>
+<figure id="attachment_606" aria-describedby="caption-attachment-606" style="width: 388px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/05/screenshot-1.png"><img loading="lazy" class="size-full wp-image-606" title="Scrim Email Saver Plugin for WordPress in Action" alt="" src="/wp-content/uploads/2010/05/screenshot-1.png" width="388" height="389" srcset="/wp-content/uploads/2010/05/screenshot-1.png 388w, /wp-content/uploads/2010/05/screenshot-1-150x150.png 150w, /wp-content/uploads/2010/05/screenshot-1-299x300.png 299w, /wp-content/uploads/2010/05/screenshot-1-149x150.png 149w" sizes="(max-width: 388px) 100vw, 388px" /></a><figcaption id="caption-attachment-606" class="wp-caption-text">Plugin in Action</figcaption></figure>
+<figure id="attachment_509" aria-describedby="caption-attachment-509" style="width: 600px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/03/screenshot-21.png"><img loading="lazy" class="size-full wp-image-509" title="A Preview of the scr.im Page" alt="A Preview of the scr.im Page" src="/wp-content/uploads/2010/03/screenshot-21.png" width="600" height="587" srcset="/wp-content/uploads/2010/03/screenshot-21.png 600w, /wp-content/uploads/2010/03/screenshot-21-300x293.png 300w, /wp-content/uploads/2010/03/screenshot-21-150x146.png 150w" sizes="(max-width: 600px) 100vw, 600px" /></a><figcaption id="caption-attachment-509" class="wp-caption-text">A Preview of the scr.im Page</figcaption></figure>
+<h4>Download: <a title="Scrim Email Saver Plugin for WordPress" href="http://wordpress.org/extend/plugins/scrim-email-saver/">http://wordpress.org/extend/plugins/scrim-email-saver/</a></h4>
+<p>The post <a rel="nofollow" href="/scr-im-email-saver-plugin-for-wordpress-v0-1-released/">Scr.im Email Saver Plugin for WordPress v0.1 Released!</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>bbPress Back on Track?</title>
+		<link>/bbpress-back-on-track/</link>
+					<comments>/bbpress-back-on-track/#comments</comments>
+		
+		<dc:creator><![CDATA[Gautam]]></dc:creator>
+		<pubDate>Tue, 04 May 2010 13:56:25 +0000</pubDate>
+				<category><![CDATA[Open Source]]></category>
+		<guid isPermaLink="false">/?p=586</guid>
+
+					<description><![CDATA[<p>Looks like there are some developments taking place in the bbPress community &#8211; some major ones! bbPress.org has now been re-designed, there have been commits by lead developers such as mdawaffe and matt, _ck_ and her website bbShowcase would be soon up (as written there). bbPress.org website is still broken at some places (especially the plugin&#8230; <a class="more-link" href="/bbpress-back-on-track/">Continue reading <span class="screen-reader-text">bbPress Back on Track?</span></a></p>
+<p>The post <a rel="nofollow" href="/bbpress-back-on-track/">bbPress Back on Track?</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Looks like there are some developments taking place in the bbPress community &#8211; some major ones! <a title="bbPress" href="http://bbpress.org/">bbPress.org</a> has now been re-designed, there have been commits by lead developers such as <em>mdawaffe</em> and <em>matt</em>, <em>_ck_</em> and her website bbShowcase would be soon up (as written there). bbPress.org website is still broken at some places (especially the plugin section), but would be fixed in the coming hours/days.<span id="more-586"></span></p>
+<blockquote><p>Someone asked Matt about bbPress. Matt confessed that he dove into bbPress. He admitted that he became a little burnt out on it. bbPress will undoubtedly be tied closer to WordPress. The future of bbPress will be a really awesome plugin. He even admitted that right now, it would be better off to use another plugin rather than bbPress. Matt said he just needs a little more time before he dives into bbPress again. The bbPress community was a bit rough around the edges and the flame war that ensued forced Matt to break away for a bit.</p>
+<p style="text-align: right;">(Source &#8211; <a title="Matt and bbPress" href="http://www.wptavern.com/mattnote-from-wordcamp-san-francisco">WPTavern</a>)</p>
+</blockquote>
+<p>The above is an extract from a post on WPTavern, on which _ck_ <a title="Comment by _ck_" href="http://www.wptavern.com/mattnote-from-wordcamp-san-francisco#comment-7629">commented</a> about the issues, BackPress bloat etc., to which Matt replied back in his <a title="Matt's reply to _ck_" href="http://www.wptavern.com/mattnote-from-wordcamp-san-francisco#comment-7639">comment</a>, also mentioning that bbPress.org 2.0 was underway.</p>
+<p>The new theme is designed by Sam Bauers, it was designed a while back but has been put up now only.</p>
+<p>Here are some screenshots comparing the before and after design:</p>
+<figure id="attachment_593" aria-describedby="caption-attachment-593" style="width: 600px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/05/bbpress.jpg"><img loading="lazy" class="size-full wp-image-593" title="bbPress Forums (Old Look)" src="/wp-content/uploads/2010/05/bbpress.jpg" alt="bbPress Forums (Old Look)" width="600" height="390" srcset="/wp-content/uploads/2010/05/bbpress.jpg 450w, /wp-content/uploads/2010/05/bbpress-300x195.jpg 300w, /wp-content/uploads/2010/05/bbpress-150x97.jpg 150w" sizes="(max-width: 600px) 100vw, 600px" /></a><figcaption id="caption-attachment-593" class="wp-caption-text">bbPress Forums (Old Look)</figcaption></figure>
+<figure id="attachment_594" aria-describedby="caption-attachment-594" style="width: 650px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/05/forum-front-page.png"><img loading="lazy" class="size-large wp-image-594" title="bbPress Forums (New Look)" src="/wp-content/uploads/2010/05/forum-front-page-1024x885.png" alt="bbPress Forums (New Look)" width="650" height="561" srcset="/wp-content/uploads/2010/05/forum-front-page-1024x885.png 1024w, /wp-content/uploads/2010/05/forum-front-page-300x259.png 300w, /wp-content/uploads/2010/05/forum-front-page-150x129.png 150w, /wp-content/uploads/2010/05/forum-front-page.png 1146w" sizes="(max-width: 650px) 100vw, 650px" /></a><figcaption id="caption-attachment-594" class="wp-caption-text">bbPress Forums (New Look)</figcaption></figure>
+<figure id="attachment_595" aria-describedby="caption-attachment-595" style="width: 650px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/05/forum-topic.png"><img loading="lazy" class="size-large wp-image-595" title="bbPress Forum Topic (New Look)" src="/wp-content/uploads/2010/05/forum-topic-1024x896.png" alt="bbPress Forum Topic (New Look)" width="650" height="568" srcset="/wp-content/uploads/2010/05/forum-topic-1024x896.png 1024w, /wp-content/uploads/2010/05/forum-topic-300x262.png 300w, /wp-content/uploads/2010/05/forum-topic-150x131.png 150w, /wp-content/uploads/2010/05/forum-topic.png 1132w" sizes="(max-width: 650px) 100vw, 650px" /></a><figcaption id="caption-attachment-595" class="wp-caption-text">bbPress Forum Topic (New Look)</figcaption></figure>
+<p>Personally, I am very happy to see this development taking place and the bbPress community gaining back its momentum along with a major contributor of bbPress &#8211; _ck_. I hope this continues and never ends. <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>The post <a rel="nofollow" href="/bbpress-back-on-track/">bbPress Back on Track?</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/bbpress-back-on-track/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Scrim Email Saver Plugin v0.1 for bbPress!</title>
+		<link>/scrim-email-saver-0-point-1-for-bbpress/</link>
+					<comments>/scrim-email-saver-0-point-1-for-bbpress/#comments</comments>
+		
+		<dc:creator><![CDATA[Gautam]]></dc:creator>
+		<pubDate>Sat, 03 Apr 2010 06:19:29 +0000</pubDate>
+				<category><![CDATA[Open Source]]></category>
+		<guid isPermaLink="false">/?p=507</guid>
+
+					<description><![CDATA[<p>I have just released a new plugin named Scrim Email Saver v0.1 for bbPress! The plugin basically filters your bbPress forum&#8217;s posts for email IDs posted by your users and converts them into scrim links so that they are not picked up by bots and your users receive less spam (if not none). What is&#8230; <a class="more-link" href="/scrim-email-saver-0-point-1-for-bbpress/">Continue reading <span class="screen-reader-text">Scrim Email Saver Plugin v0.1 for bbPress!</span></a></p>
+<p>The post <a rel="nofollow" href="/scrim-email-saver-0-point-1-for-bbpress/">Scrim Email Saver Plugin v0.1 for bbPress!</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>I have just released a new plugin named <a title="Scrim Email Saver Plugin for bbPress" href="http://plugins-svn.bbpress.org/scrim-email-saver/">Scrim Email Saver</a> v0.1 for bbPress! The plugin basically filters your bbPress forum&#8217;s posts for email IDs posted by your users and converts them into scrim links so that they are not picked up by bots and your users receive less spam (if not none).</p>
+<p><span id="more-507"></span></p>
+<h3>What is Scr.im?</h3>
+<p>Scrim is a service made by <a title="Ozh" href="http://planetozh.com/">Ozh</a>. To scrim is to protect your email address before sharing it so that only real people will use it. You can read more about scrim on its about page.</p>
+<h3>Screenshots</h3>
+<figure id="attachment_508" aria-describedby="caption-attachment-508" style="width: 645px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/03/screenshot-1.png"><img loading="lazy" class="size-full wp-image-508" title="Scrim Email Saver Plugin in Action!" alt="Scrim Email Saver Plugin in Action!" src="/wp-content/uploads/2010/03/screenshot-1.png" width="645" height="408" srcset="/wp-content/uploads/2010/03/screenshot-1.png 744w, /wp-content/uploads/2010/03/screenshot-1-300x189.png 300w, /wp-content/uploads/2010/03/screenshot-1-150x94.png 150w" sizes="(max-width: 645px) 100vw, 645px" /></a><figcaption id="caption-attachment-508" class="wp-caption-text">Scrim Email Saver Plugin in Action!</figcaption></figure>
+<figure id="attachment_509" aria-describedby="caption-attachment-509" style="width: 600px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/03/screenshot-21.png"><img loading="lazy" class="size-full wp-image-509" title="A Preview of the scr.im Page" alt="A Preview of the scr.im Page" src="/wp-content/uploads/2010/03/screenshot-21.png" width="600" height="587" srcset="/wp-content/uploads/2010/03/screenshot-21.png 600w, /wp-content/uploads/2010/03/screenshot-21-300x293.png 300w, /wp-content/uploads/2010/03/screenshot-21-150x146.png 150w" sizes="(max-width: 600px) 100vw, 600px" /></a><figcaption id="caption-attachment-509" class="wp-caption-text">A Preview of the scr.im Page</figcaption></figure>
+<h4>Download: <a title="Scrim Email Saver Plugin for bbPress" href="http://plugins-svn.bbpress.org/scrim-email-saver/">http://bbpress.org/plugins/topic/scrim-email-saver/</a></h4>
+<p>The post <a rel="nofollow" href="/scrim-email-saver-0-point-1-for-bbpress/">Scrim Email Saver Plugin v0.1 for bbPress!</a> appeared first on <a rel="nofollow" href="/">Gautam Gupta</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/scrim-email-saver-0-point-1-for-bbpress/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: gaut.am @ 2020-12-21 18:44:36 by W3 Total Cache
+-->

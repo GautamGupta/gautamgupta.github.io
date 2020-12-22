@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Translating WordPress/bbPress Plugins	</title>
+	<atom:link href="/translating-wordpress-or-bbpress-plugins/feed/" rel="self" type="application/rss+xml" />
+	<link>/translating-wordpress-or-bbpress-plugins/</link>
+	<description></description>
+	<lastBuildDate>Sun, 08 Mar 2020 08:45:46 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>
+		By: Bax		</title>
+		<link>/translating-wordpress-or-bbpress-plugins/#comment-122602</link>
+
+		<dc:creator><![CDATA[Bax]]></dc:creator>
+		<pubDate>Mon, 30 Dec 2013 16:27:25 +0000</pubDate>
+		<guid isPermaLink="false">/?page_id=391#comment-122602</guid>
+
+					<description><![CDATA[I use https://poeditor.com/ to work with wordpress themes and po files. I recommend it to you also, it has a simple interface and many helpful features. Oh, and it has a wordpress plugin attached and github integration also.]]></description>
+			<content:encoded><![CDATA[<p>I use <a href="https://poeditor.com/" rel="nofollow ugc">https://poeditor.com/</a> to work with wordpress themes and po files. I recommend it to you also, it has a simple interface and many helpful features. Oh, and it has a wordpress plugin attached and github integration also.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: gaut.am @ 2020-12-21 18:45:38 by W3 Total Cache
+-->

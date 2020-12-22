@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Making a Simple OCR Android App using Tesseract	</title>
+	<atom:link href="/making-an-ocr-android-app-using-tesseract/feed/" rel="self" type="application/rss+xml" />
+	<link>/making-an-ocr-android-app-using-tesseract/</link>
+	<description></description>
+	<lastBuildDate>Sun, 08 Mar 2020 08:45:44 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>
+		By: Kundan Singh		</title>
+		<link>/making-an-ocr-android-app-using-tesseract/#comment-231998</link>
+
+		<dc:creator><![CDATA[Kundan Singh]]></dc:creator>
+		<pubDate>Sun, 22 Dec 2019 20:49:31 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1219#comment-231998</guid>
+
+					<description><![CDATA[Hey nice article but I was searching a way to call this code from c++ on android is that possible]]></description>
+			<content:encoded><![CDATA[<p>Hey nice article but I was searching a way to call this code from c++ on android is that possible</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Manoj		</title>
+		<link>/making-an-ocr-android-app-using-tesseract/#comment-226619</link>
+
+		<dc:creator><![CDATA[Manoj]]></dc:creator>
+		<pubDate>Wed, 01 May 2019 23:14:02 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1219#comment-226619</guid>
+
+					<description><![CDATA[Hi Gautam
+I am developing same app on iOS Please tell me what should be folder structure. I have done 1 for Camera and one for OCR is it correct? As I always get error of -h file missing.]]></description>
+			<content:encoded><![CDATA[<p>Hi Gautam<br />
+I am developing same app on iOS Please tell me what should be folder structure. I have done 1 for Camera and one for OCR is it correct? As I always get error of -h file missing.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: aimen		</title>
+		<link>/making-an-ocr-android-app-using-tesseract/#comment-225308</link>
+
+		<dc:creator><![CDATA[aimen]]></dc:creator>
+		<pubDate>Thu, 07 Mar 2019 18:25:49 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1219#comment-225308</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/making-an-ocr-android-app-using-tesseract/#comment-196583&quot;&gt;toto&lt;/a&gt;.
+
+did you applied it in android studio.if yes then please contact me at aimensyed528@gmail.com]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/making-an-ocr-android-app-using-tesseract/#comment-196583">toto</a>.</p>
+<p>did you applied it in android studio.if yes then please contact me at <a href="mailto:aimensyed528@gmail.com">aimensyed528@gmail.com</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Parul Singh		</title>
+		<link>/making-an-ocr-android-app-using-tesseract/#comment-224994</link>
+
+		<dc:creator><![CDATA[Parul Singh]]></dc:creator>
+		<pubDate>Thu, 21 Feb 2019 12:17:56 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1219#comment-224994</guid>
+
+					<description><![CDATA[I am using tess two 9.0.0 to scan MRZ of passport. Its working fine but if used continuously the &#039; getHOCRText &#039; method become very slow to read the text. To improve the performance I am passing the binarised image but not getting any result. Can&#039;t figure out the issue. Kindly help.]]></description>
+			<content:encoded><![CDATA[<p>I am using tess two 9.0.0 to scan MRZ of passport. Its working fine but if used continuously the &#8216; getHOCRText &#8216; method become very slow to read the text. To improve the performance I am passing the binarised image but not getting any result. Can&#8217;t figure out the issue. Kindly help.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Sahil		</title>
+		<link>/making-an-ocr-android-app-using-tesseract/#comment-224510</link>
+
+		<dc:creator><![CDATA[Sahil]]></dc:creator>
+		<pubDate>Sat, 02 Feb 2019 10:39:13 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1219#comment-224510</guid>
+
+					<description><![CDATA[I want to detect Marathi/Hindi language and get it translated in English. How to do the same?]]></description>
+			<content:encoded><![CDATA[<p>I want to detect Marathi/Hindi language and get it translated in English. How to do the same?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Evgeny		</title>
+		<link>/making-an-ocr-android-app-using-tesseract/#comment-224199</link>
+
+		<dc:creator><![CDATA[Evgeny]]></dc:creator>
+		<pubDate>Mon, 21 Jan 2019 13:50:49 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1219#comment-224199</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/making-an-ocr-android-app-using-tesseract/#comment-211308&quot;&gt;Ram Nomula&lt;/a&gt;.
+
+Hi,
+
+I&#039;m facing the similar problem with offline Arabic text OCR. Did you succeed with your app?
+
+Please let me know to edrokov@gmail.com.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/making-an-ocr-android-app-using-tesseract/#comment-211308">Ram Nomula</a>.</p>
+<p>Hi,</p>
+<p>I&#8217;m facing the similar problem with offline Arabic text OCR. Did you succeed with your app?</p>
+<p>Please let me know to <a href="mailto:edrokov@gmail.com">edrokov@gmail.com</a>.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Manikandan		</title>
+		<link>/making-an-ocr-android-app-using-tesseract/#comment-222971</link>
+
+		<dc:creator><![CDATA[Manikandan]]></dc:creator>
+		<pubDate>Wed, 05 Dec 2018 10:31:23 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1219#comment-222971</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/making-an-ocr-android-app-using-tesseract/#comment-216825&quot;&gt;Valerie Salvador&lt;/a&gt;.
+
+facing Same Error..any solution for it ?]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/making-an-ocr-android-app-using-tesseract/#comment-216825">Valerie Salvador</a>.</p>
+<p>facing Same Error..any solution for it ?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: John		</title>
+		<link>/making-an-ocr-android-app-using-tesseract/#comment-218271</link>
+
+		<dc:creator><![CDATA[John]]></dc:creator>
+		<pubDate>Tue, 22 May 2018 11:25:58 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1219#comment-218271</guid>
+
+					<description><![CDATA[Hi,
+I saw now it&#039;s working just for English language. How to make it to work for all languages?]]></description>
+			<content:encoded><![CDATA[<p>Hi,<br />
+I saw now it&#8217;s working just for English language. How to make it to work for all languages?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Valerie Salvador		</title>
+		<link>/making-an-ocr-android-app-using-tesseract/#comment-216826</link>
+
+		<dc:creator><![CDATA[Valerie Salvador]]></dc:creator>
+		<pubDate>Sat, 31 Mar 2018 16:13:19 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1219#comment-216826</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/making-an-ocr-android-app-using-tesseract/#comment-214532&quot;&gt;Diksha&lt;/a&gt;.
+
+Just add ndk-path to your environment variables. 
+In my case I edit the &quot;path&quot; variable name in mine and put this:
+&quot;C:\Users\Valerie\AppData\Local\Android\sdk;&quot; . Just make sure to put &quot;;&quot; at the end then restart your pc and try again running ndk-build command.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/making-an-ocr-android-app-using-tesseract/#comment-214532">Diksha</a>.</p>
+<p>Just add ndk-path to your environment variables.<br />
+In my case I edit the &#8220;path&#8221; variable name in mine and put this:<br />
+&#8220;C:\Users\Valerie\AppData\Local\Android\sdk;&#8221; . Just make sure to put &#8220;;&#8221; at the end then restart your pc and try again running ndk-build command.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Valerie Salvador		</title>
+		<link>/making-an-ocr-android-app-using-tesseract/#comment-216825</link>
+
+		<dc:creator><![CDATA[Valerie Salvador]]></dc:creator>
+		<pubDate>Sat, 31 Mar 2018 16:10:13 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1219#comment-216825</guid>
+
+					<description><![CDATA[Hi, I have followed all the steps correctly multiple times but I keep on getting the errors below while running the ant release command.  Can someone please help me regarding this errors? Thank you/
+
+
+&lt;code&gt;-compile:
+    [javac] Compiling 24 source files to D:\tess\tess-two\bin\classes
+    [javac] warning: [options] source value 1.5 is obsolete and will be removed
+in a future release
+    [javac] warning: [options] target value 1.5 is obsolete and will be removed
+in a future release
+    [javac] warning: [options] To suppress warnings about obsolete options, use
+-Xlint:-options.
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Pix.java:20: e
+rror: package android.support.annotation does not exist
+    [javac] import android.support.annotation.ColorInt;
+    [javac]                                  ^
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Pix.java:21: e
+rror: package android.support.annotation does not exist
+    [javac] import android.support.annotation.Size;
+    [javac]                                  ^
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Binarize.java:
+19: error: package android.support.annotation does not exist
+    [javac] import android.support.annotation.FloatRange;
+    [javac]                                  ^
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Box.java:20: e
+rror: package android.support.annotation does not exist
+    [javac] import android.support.annotation.Size;
+    [javac]                                  ^
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Boxa.java:20:
+error: package android.support.annotation does not exist
+    [javac] import android.support.annotation.Size;
+    [javac]                                  ^
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Constants.java
+:19: error: package android.support.annotation does not exist
+    [javac] import android.support.annotation.IntDef;
+    [javac]                                  ^
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Constants.java
+:56: error: cannot find symbol
+    [javac]     @IntDef({L_INSERT, L_COPY, L_CLONE})
+    [javac]      ^
+    [javac]   symbol:   class IntDef
+    [javac]   location: class Constants
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Constants.java
+:79: error: cannot find symbol
+    [javac]     @IntDef({L_SORT_INCREASING, L_SORT_DECREASING})
+    [javac]      ^
+    [javac]   symbol:   class IntDef
+    [javac]   location: class Constants
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Constants.java
+:89: error: cannot find symbol
+    [javac]     @IntDef({L_SORT_BY_X, L_SORT_BY_Y, L_SORT_BY_WIDTH, L_SORT_BY_HE
+IGHT, L_SORT_BY_MIN_DIMENSION,
+    [javac]      ^
+    [javac]   symbol:   class IntDef
+    [javac]   location: class Constants
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Edge.java:19:
+error: package android.support.annotation does not exist
+    [javac] import android.support.annotation.IntDef;
+    [javac]                                  ^
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Edge.java:38:
+error: cannot find symbol
+    [javac]     @IntDef({L_HORIZONTAL_EDGES, L_VERTICAL_EDGES, L_ALL_EDGES})
+    [javac]      ^
+    [javac]   symbol:   class IntDef
+    [javac]   location: class Edge
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\JpegIO.java:21
+: error: package android.support.annotation does not exist
+    [javac] import android.support.annotation.IntRange;
+    [javac]                                  ^
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\MorphApp.java:
+19: error: package android.support.annotation does not exist
+    [javac] import android.support.annotation.IntDef;
+    [javac]                                  ^
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\MorphApp.java:
+38: error: cannot find symbol
+    [javac]     @IntDef({L_TOPHAT_BLACK, L_TOPHAT_WHITE})
+    [javac]      ^
+    [javac]   symbol:   class IntDef
+    [javac]   location: class MorphApp
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Pixa.java:20:
+error: package android.support.annotation does not exist
+    [javac] import android.support.annotation.Size;
+    [javac]                                  ^
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Rotate.java:19
+: error: package android.support.annotation does not exist
+    [javac] import android.support.annotation.IntRange;
+    [javac]                                  ^
+    [javac] D:\tess\tess-two\src\com\googlecode\tesseract\android\TessBaseAPI.ja
+va:22: error: package android.support.annotation does not exist
+    [javac] import android.support.annotation.IntDef;
+    [javac]                                  ^
+    [javac] D:\tess\tess-two\src\com\googlecode\tesseract\android\TessBaseAPI.ja
+va:23: error: package android.support.annotation does not exist
+    [javac] import android.support.annotation.WorkerThread;
+    [javac]                                  ^
+    [javac] D:\tess\tess-two\src\com\googlecode\tesseract\android\TessBaseAPI.ja
+va:60: error: cannot find symbol
+    [javac]         @IntDef({PSM_OSD_ONLY, PSM_AUTO_OSD, PSM_AUTO_ONLY, PSM_AUTO
+, PSM_SINGLE_COLUMN,
+    [javac]          ^
+    [javac]   symbol:   class IntDef
+    [javac]   location: class PageSegMode
+    [javac] D:\tess\tess-two\src\com\googlecode\tesseract\android\TessBaseAPI.ja
+va:124: error: cannot find symbol
+    [javac]     @IntDef({OEM_TESSERACT_ONLY, OEM_CUBE_ONLY, OEM_TESSERACT_CUBE_C
+OMBINED, OEM_DEFAULT})
+    [javac]      ^
+    [javac]   symbol:   class IntDef
+    [javac]   location: class TessBaseAPI
+    [javac] D:\tess\tess-two\src\com\googlecode\tesseract\android\TessBaseAPI.ja
+va:151: error: cannot find symbol
+    [javac]         @IntDef({RIL_BLOCK, RIL_PARA, RIL_TEXTLINE, RIL_WORD, RIL_SY
+MBOL})
+    [javac]          ^
+    [javac]   symbol:   class IntDef
+    [javac]   location: class PageIteratorLevel
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Pix.java:130:
+error: cannot find symbol
+    [javac]     public boolean getDimensions(@Size(min=3) int[] dimensions) {
+    [javac]                                   ^
+    [javac]   symbol:   class Size
+    [javac]   location: class Pix
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Pix.java:302:
+error: cannot find symbol
+    [javac]     public void setPixel(int x, int y, @ColorInt int color) {
+    [javac]                                         ^
+    [javac]   symbol:   class ColorInt
+    [javac]   location: class Pix
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Binarize.java:
+124: error: cannot find symbol
+    [javac]                                             @FloatRange(from=0.0, to
+=1.0) float scoreFraction) {
+    [javac]                                              ^
+    [javac]   symbol:   class FloatRange
+    [javac]   location: class Binarize
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Binarize.java:
+190: error: cannot find symbol
+    [javac]     public static Pix sauvolaBinarizeTiled(Pix pixs, int whsize, @Fl
+oatRange(from=0.0) float factor,
+    [javac]                                                                   ^
+    [javac]   symbol:   class FloatRange
+    [javac]   location: class Binarize
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Box.java:190:
+error: cannot find symbol
+    [javac]     public boolean getGeometry(@Size(min=4) int[] geometry) {
+    [javac]                                 ^
+    [javac]   symbol:   class Size
+    [javac]   location: class Box
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Boxa.java:121:
+ error: cannot find symbol
+    [javac]     public boolean getGeometry(int index, @Size(min=4) int[] geometr
+y) {
+    [javac]                                            ^
+    [javac]   symbol:   class Size
+    [javac]   location: class Boxa
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\JpegIO.java:64
+: error: cannot find symbol
+    [javac]     public static byte[] compressToJpeg(Pix pixs, @IntRange(from=0,
+to=100) int quality,
+    [javac]                                                    ^
+    [javac]   symbol:   class IntRange
+    [javac]   location: class JpegIO
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Pixa.java:359:
+ error: cannot find symbol
+    [javac]     public boolean getBoxGeometry(int index, @Size(min=4) int[] dime
+nsions) {
+    [javac]                                               ^
+    [javac]   symbol:   class Size
+    [javac]   location: class Pixa
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Rotate.java:10
+6: error: cannot find symbol
+    [javac]     public static Pix rotateOrth(Pix pixs, @IntRange(from=0, to=3) i
+nt quads) {
+    [javac]                                             ^
+    [javac]   symbol:   class IntRange
+    [javac]   location: class Rotate
+    [javac] D:\tess\tess-two\src\com\googlecode\tesseract\android\TessBaseAPI.ja
+va:508: error: cannot find symbol
+    [javac]     @WorkerThread
+    [javac]      ^
+...
+    [javac]     @WorkerThread
+    [javac]      ^
+    [javac]   symbol:   class WorkerThread
+    [javac]   location: class TessBaseAPI
+    [javac] D:\tess\tess-two\src\com\googlecode\tesseract\android\TessBaseAPI.ja
+va:753: error: cannot find symbol
+    [javac]     @WorkerThread
+    [javac]      ^
+    [javac]   symbol:   class WorkerThread
+    [javac]   location: class TessBaseAPI
+    [javac] 36 errors
+    [javac] 3 warnings
+
+BUILD FAILED
+C:\Users\Valerie\AppData\Local\Android\sdk\tools\ant\build.xml:716: The followin
+g error occurred while executing this line:
+C:\Users\Valerie\AppData\Local\Android\sdk\tools\ant\build.xml:730: Compile fail
+ed; see the compiler error output for details.
+
+Total time: 18 seconds&lt;/code&gt;]]></description>
+			<content:encoded><![CDATA[<p>Hi, I have followed all the steps correctly multiple times but I keep on getting the errors below while running the ant release command.  Can someone please help me regarding this errors? Thank you/</p>
+<p><code>-compile:<br />
+    [javac] Compiling 24 source files to D:\tess\tess-two\bin\classes<br />
+    [javac] warning: [options] source value 1.5 is obsolete and will be removed<br />
+in a future release<br />
+    [javac] warning: [options] target value 1.5 is obsolete and will be removed<br />
+in a future release<br />
+    [javac] warning: [options] To suppress warnings about obsolete options, use<br />
+-Xlint:-options.<br />
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Pix.java:20: e<br />
+rror: package android.support.annotation does not exist<br />
+    [javac] import android.support.annotation.ColorInt;<br />
+    [javac]                                  ^<br />
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Pix.java:21: e<br />
+rror: package android.support.annotation does not exist<br />
+    [javac] import android.support.annotation.Size;<br />
+    [javac]                                  ^<br />
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Binarize.java:<br />
+19: error: package android.support.annotation does not exist<br />
+    [javac] import android.support.annotation.FloatRange;<br />
+    [javac]                                  ^<br />
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Box.java:20: e<br />
+rror: package android.support.annotation does not exist<br />
+    [javac] import android.support.annotation.Size;<br />
+    [javac]                                  ^<br />
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Boxa.java:20:<br />
+error: package android.support.annotation does not exist<br />
+    [javac] import android.support.annotation.Size;<br />
+    [javac]                                  ^<br />
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Constants.java<br />
+:19: error: package android.support.annotation does not exist<br />
+    [javac] import android.support.annotation.IntDef;<br />
+    [javac]                                  ^<br />
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Constants.java<br />
+:56: error: cannot find symbol<br />
+    [javac]     @IntDef({L_INSERT, L_COPY, L_CLONE})<br />
+    [javac]      ^<br />
+    [javac]   symbol:   class IntDef<br />
+    [javac]   location: class Constants<br />
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Constants.java<br />
+:79: error: cannot find symbol<br />
+    [javac]     @IntDef({L_SORT_INCREASING, L_SORT_DECREASING})<br />
+    [javac]      ^<br />
+    [javac]   symbol:   class IntDef<br />
+    [javac]   location: class Constants<br />
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Constants.java<br />
+:89: error: cannot find symbol<br />
+    [javac]     @IntDef({L_SORT_BY_X, L_SORT_BY_Y, L_SORT_BY_WIDTH, L_SORT_BY_HE<br />
+IGHT, L_SORT_BY_MIN_DIMENSION,<br />
+    [javac]      ^<br />
+    [javac]   symbol:   class IntDef<br />
+    [javac]   location: class Constants<br />
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Edge.java:19:<br />
+error: package android.support.annotation does not exist<br />
+    [javac] import android.support.annotation.IntDef;<br />
+    [javac]                                  ^<br />
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Edge.java:38:<br />
+error: cannot find symbol<br />
+    [javac]     @IntDef({L_HORIZONTAL_EDGES, L_VERTICAL_EDGES, L_ALL_EDGES})<br />
+    [javac]      ^<br />
+    [javac]   symbol:   class IntDef<br />
+    [javac]   location: class Edge<br />
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\JpegIO.java:21<br />
+: error: package android.support.annotation does not exist<br />
+    [javac] import android.support.annotation.IntRange;<br />
+    [javac]                                  ^<br />
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\MorphApp.java:<br />
+19: error: package android.support.annotation does not exist<br />
+    [javac] import android.support.annotation.IntDef;<br />
+    [javac]                                  ^<br />
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\MorphApp.java:<br />
+38: error: cannot find symbol<br />
+    [javac]     @IntDef({L_TOPHAT_BLACK, L_TOPHAT_WHITE})<br />
+    [javac]      ^<br />
+    [javac]   symbol:   class IntDef<br />
+    [javac]   location: class MorphApp<br />
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Pixa.java:20:<br />
+error: package android.support.annotation does not exist<br />
+    [javac] import android.support.annotation.Size;<br />
+    [javac]                                  ^<br />
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Rotate.java:19<br />
+: error: package android.support.annotation does not exist<br />
+    [javac] import android.support.annotation.IntRange;<br />
+    [javac]                                  ^<br />
+    [javac] D:\tess\tess-two\src\com\googlecode\tesseract\android\TessBaseAPI.ja<br />
+va:22: error: package android.support.annotation does not exist<br />
+    [javac] import android.support.annotation.IntDef;<br />
+    [javac]                                  ^<br />
+    [javac] D:\tess\tess-two\src\com\googlecode\tesseract\android\TessBaseAPI.ja<br />
+va:23: error: package android.support.annotation does not exist<br />
+    [javac] import android.support.annotation.WorkerThread;<br />
+    [javac]                                  ^<br />
+    [javac] D:\tess\tess-two\src\com\googlecode\tesseract\android\TessBaseAPI.ja<br />
+va:60: error: cannot find symbol<br />
+    [javac]         @IntDef({PSM_OSD_ONLY, PSM_AUTO_OSD, PSM_AUTO_ONLY, PSM_AUTO<br />
+, PSM_SINGLE_COLUMN,<br />
+    [javac]          ^<br />
+    [javac]   symbol:   class IntDef<br />
+    [javac]   location: class PageSegMode<br />
+    [javac] D:\tess\tess-two\src\com\googlecode\tesseract\android\TessBaseAPI.ja<br />
+va:124: error: cannot find symbol<br />
+    [javac]     @IntDef({OEM_TESSERACT_ONLY, OEM_CUBE_ONLY, OEM_TESSERACT_CUBE_C<br />
+OMBINED, OEM_DEFAULT})<br />
+    [javac]      ^<br />
+    [javac]   symbol:   class IntDef<br />
+    [javac]   location: class TessBaseAPI<br />
+    [javac] D:\tess\tess-two\src\com\googlecode\tesseract\android\TessBaseAPI.ja<br />
+va:151: error: cannot find symbol<br />
+    [javac]         @IntDef({RIL_BLOCK, RIL_PARA, RIL_TEXTLINE, RIL_WORD, RIL_SY<br />
+MBOL})<br />
+    [javac]          ^<br />
+    [javac]   symbol:   class IntDef<br />
+    [javac]   location: class PageIteratorLevel<br />
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Pix.java:130:<br />
+error: cannot find symbol<br />
+    [javac]     public boolean getDimensions(@Size(min=3) int[] dimensions) {<br />
+    [javac]                                   ^<br />
+    [javac]   symbol:   class Size<br />
+    [javac]   location: class Pix<br />
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Pix.java:302:<br />
+error: cannot find symbol<br />
+    [javac]     public void setPixel(int x, int y, @ColorInt int color) {<br />
+    [javac]                                         ^<br />
+    [javac]   symbol:   class ColorInt<br />
+    [javac]   location: class Pix<br />
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Binarize.java:<br />
+124: error: cannot find symbol<br />
+    [javac]                                             @FloatRange(from=0.0, to<br />
+=1.0) float scoreFraction) {<br />
+    [javac]                                              ^<br />
+    [javac]   symbol:   class FloatRange<br />
+    [javac]   location: class Binarize<br />
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Binarize.java:<br />
+190: error: cannot find symbol<br />
+    [javac]     public static Pix sauvolaBinarizeTiled(Pix pixs, int whsize, @Fl<br />
+oatRange(from=0.0) float factor,<br />
+    [javac]                                                                   ^<br />
+    [javac]   symbol:   class FloatRange<br />
+    [javac]   location: class Binarize<br />
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Box.java:190:<br />
+error: cannot find symbol<br />
+    [javac]     public boolean getGeometry(@Size(min=4) int[] geometry) {<br />
+    [javac]                                 ^<br />
+    [javac]   symbol:   class Size<br />
+    [javac]   location: class Box<br />
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Boxa.java:121:<br />
+ error: cannot find symbol<br />
+    [javac]     public boolean getGeometry(int index, @Size(min=4) int[] geometr<br />
+y) {<br />
+    [javac]                                            ^<br />
+    [javac]   symbol:   class Size<br />
+    [javac]   location: class Boxa<br />
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\JpegIO.java:64<br />
+: error: cannot find symbol<br />
+    [javac]     public static byte[] compressToJpeg(Pix pixs, @IntRange(from=0,<br />
+to=100) int quality,<br />
+    [javac]                                                    ^<br />
+    [javac]   symbol:   class IntRange<br />
+    [javac]   location: class JpegIO<br />
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Pixa.java:359:<br />
+ error: cannot find symbol<br />
+    [javac]     public boolean getBoxGeometry(int index, @Size(min=4) int[] dime<br />
+nsions) {<br />
+    [javac]                                               ^<br />
+    [javac]   symbol:   class Size<br />
+    [javac]   location: class Pixa<br />
+    [javac] D:\tess\tess-two\src\com\googlecode\leptonica\android\Rotate.java:10<br />
+6: error: cannot find symbol<br />
+    [javac]     public static Pix rotateOrth(Pix pixs, @IntRange(from=0, to=3) i<br />
+nt quads) {<br />
+    [javac]                                             ^<br />
+    [javac]   symbol:   class IntRange<br />
+    [javac]   location: class Rotate<br />
+    [javac] D:\tess\tess-two\src\com\googlecode\tesseract\android\TessBaseAPI.ja<br />
+va:508: error: cannot find symbol<br />
+    [javac]     @WorkerThread<br />
+    [javac]      ^<br />
+...<br />
+    [javac]     @WorkerThread<br />
+    [javac]      ^<br />
+    [javac]   symbol:   class WorkerThread<br />
+    [javac]   location: class TessBaseAPI<br />
+    [javac] D:\tess\tess-two\src\com\googlecode\tesseract\android\TessBaseAPI.ja<br />
+va:753: error: cannot find symbol<br />
+    [javac]     @WorkerThread<br />
+    [javac]      ^<br />
+    [javac]   symbol:   class WorkerThread<br />
+    [javac]   location: class TessBaseAPI<br />
+    [javac] 36 errors<br />
+    [javac] 3 warnings</p>
+<p>BUILD FAILED<br />
+C:\Users\Valerie\AppData\Local\Android\sdk\tools\ant\build.xml:716: The followin<br />
+g error occurred while executing this line:<br />
+C:\Users\Valerie\AppData\Local\Android\sdk\tools\ant\build.xml:730: Compile fail<br />
+ed; see the compiler error output for details.</p>
+<p>Total time: 18 seconds</code></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: gaut.am @ 2020-12-21 18:45:17 by W3 Total Cache
+-->

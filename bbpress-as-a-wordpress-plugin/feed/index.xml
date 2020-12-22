@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: bbPress as a WordPress Plugin	</title>
+	<atom:link href="/bbpress-as-a-wordpress-plugin/feed/" rel="self" type="application/rss+xml" />
+	<link>/bbpress-as-a-wordpress-plugin/</link>
+	<description></description>
+	<lastBuildDate>Sun, 08 Mar 2020 08:45:45 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>
+		By: Kamal Hasa		</title>
+		<link>/bbpress-as-a-wordpress-plugin/#comment-1809</link>
+
+		<dc:creator><![CDATA[Kamal Hasa]]></dc:creator>
+		<pubDate>Mon, 04 Oct 2010 14:03:08 +0000</pubDate>
+		<guid isPermaLink="false">/2010/07/bbpress-as-a-wordpress-plugin/#comment-1809</guid>
+
+					<description><![CDATA[bbPress has a lot of good features to build an active community for your blog. I guess very less people are aware of it I believe..]]></description>
+			<content:encoded><![CDATA[<p>bbPress has a lot of good features to build an active community for your blog. I guess very less people are aware of it I believe..</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Jocuri Copii		</title>
+		<link>/bbpress-as-a-wordpress-plugin/#comment-1681</link>
+
+		<dc:creator><![CDATA[Jocuri Copii]]></dc:creator>
+		<pubDate>Sat, 07 Aug 2010 03:20:03 +0000</pubDate>
+		<guid isPermaLink="false">/2010/07/bbpress-as-a-wordpress-plugin/#comment-1681</guid>
+
+					<description><![CDATA[Great job Gautam! You have an interesting blog.]]></description>
+			<content:encoded><![CDATA[<p>Great job Gautam! You have an interesting blog.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: gaut.am @ 2020-12-21 18:45:07 by W3 Total Cache
+-->

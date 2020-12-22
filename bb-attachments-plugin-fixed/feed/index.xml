@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: bb Attachments Plugin by _ck_ fixed for bbPress 1.0	</title>
+	<atom:link href="/bb-attachments-plugin-fixed/feed/" rel="self" type="application/rss+xml" />
+	<link>/bb-attachments-plugin-fixed/</link>
+	<description></description>
+	<lastBuildDate>Sun, 08 Mar 2020 08:45:46 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>
+		By: Gautam		</title>
+		<link>/bb-attachments-plugin-fixed/#comment-1586</link>
+
+		<dc:creator><![CDATA[Gautam]]></dc:creator>
+		<pubDate>Mon, 05 Jul 2010 13:07:10 +0000</pubDate>
+		<guid isPermaLink="false">/?p=329#comment-1586</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/bb-attachments-plugin-fixed/#comment-1550&quot;&gt;Abdessamad IDRISSI&lt;/a&gt;.
+
+Oh.. sorry, it got hidden while changing the theme :-)
+Fixed now.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/bb-attachments-plugin-fixed/#comment-1550">Abdessamad IDRISSI</a>.</p>
+<p>Oh.. sorry, it got hidden while changing the theme 🙂<br />
+Fixed now.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Abdessamad IDRISSI		</title>
+		<link>/bb-attachments-plugin-fixed/#comment-1550</link>
+
+		<dc:creator><![CDATA[Abdessamad IDRISSI]]></dc:creator>
+		<pubDate>Mon, 28 Jun 2010 14:30:04 +0000</pubDate>
+		<guid isPermaLink="false">/?p=329#comment-1550</guid>
+
+					<description><![CDATA[thanks gautam,
+
+where is the download link!?]]></description>
+			<content:encoded><![CDATA[<p>thanks gautam,</p>
+<p>where is the download link!?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: KillerSneak		</title>
+		<link>/bb-attachments-plugin-fixed/#comment-1211</link>
+
+		<dc:creator><![CDATA[KillerSneak]]></dc:creator>
+		<pubDate>Tue, 09 Feb 2010 12:13:33 +0000</pubDate>
+		<guid isPermaLink="false">/?p=329#comment-1211</guid>
+
+					<description><![CDATA[Hi, I&#039;m still having the same issues as the original version
+
+http://www.cell-systems.net/forums/topic/enzyme-11-beta/page/3
+
+If you could take a look there if you have the time
+
+â€¢ IDgcard.txt (0.2 KB, 17 downloads) 37 minutes old [x] 
+â€¢ error_install_enzyme1.1beta2.txt (45.1 KB, 9 downloads) 37 minutes old [x] 
+
+I can not save any attachments to my desktop, and some attachments fail to opena t all. This issue was/is also presant in the _CK_ 0.27 version. I hope you can help me out with this as i really need such a plugin for my website and error reporting functionality (a screenshot tells more than a 28371209837 words :) )
+
+Thanks in advance,
+Wandert &quot;KillerSneak&quot; van bruggen]]></description>
+			<content:encoded><![CDATA[<p>Hi, I&#8217;m still having the same issues as the original version</p>
+<p><a href="http://www.cell-systems.net/forums/topic/enzyme-11-beta/page/3" rel="nofollow ugc">http://www.cell-systems.net/forums/topic/enzyme-11-beta/page/3</a></p>
+<p>If you could take a look there if you have the time</p>
+<p>â€¢ IDgcard.txt (0.2 KB, 17 downloads) 37 minutes old [x]<br />
+â€¢ error_install_enzyme1.1beta2.txt (45.1 KB, 9 downloads) 37 minutes old [x] </p>
+<p>I can not save any attachments to my desktop, and some attachments fail to opena t all. This issue was/is also presant in the _CK_ 0.27 version. I hope you can help me out with this as i really need such a plugin for my website and error reporting functionality (a screenshot tells more than a 28371209837 words 🙂 )</p>
+<p>Thanks in advance,<br />
+Wandert &#8220;KillerSneak&#8221; van bruggen</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Anish K.S		</title>
+		<link>/bb-attachments-plugin-fixed/#comment-926</link>
+
+		<dc:creator><![CDATA[Anish K.S]]></dc:creator>
+		<pubDate>Sat, 02 Jan 2010 02:11:29 +0000</pubDate>
+		<guid isPermaLink="false">/?p=329#comment-926</guid>
+
+					<description><![CDATA[BB Press is simple, i have a bb forum.]]></description>
+			<content:encoded><![CDATA[<p>BB Press is simple, i have a bb forum.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: gaut.am @ 2020-12-21 18:45:51 by W3 Total Cache
+-->
