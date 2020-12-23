@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>/blog/</loc>
+		<lastmod>2020-12-22T00:01:51+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/apple-touch-bar-v2-0/</loc>
+		<lastmod>2020-03-08T08:45:42+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2017/01/MBP13RD-TB-2016-SpGry-Orange_PR_00-0008-052-PRINT.png</image:loc>
+			<image:title><![CDATA[Macbook Pro with Touch Bar]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/talk-google-material-design/</loc>
+		<lastmod>2020-03-08T08:45:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/manage-your-android-and-ios-apps-translations-using-glotpress/</loc>
+		<lastmod>2020-03-08T08:45:42+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/07/glotpress_mobile_app_7-1024x462-700x316-1.png</image:loc>
+			<image:title><![CDATA[GlotPress]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/07/glotpress_mobile_app_1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/07/glotpress_mobile_app_4.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/07/glotpress_mobile_app_5.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/07/glotpress_mobile_app_3.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/07/glotpress_mobile_app_7-700x316.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2015/07/glotpress_mobile_app_8-1024x170.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/monetizing-product-pricing-strategies/</loc>
+		<lastmod>2020-03-08T08:45:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/integrating-glotpress-user-tables-with-another-software/</loc>
+		<lastmod>2020-03-08T08:45:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/trip-to-googleplex-number-2/</loc>
+		<lastmod>2020-03-08T08:45:43+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2012/06/IMG_20120614_180025.jpg</image:loc>
+			<image:title><![CDATA[IMG_20120614_180025]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/selecting-right-technology-building-scalable-apps/</loc>
+		<lastmod>2020-03-08T08:45:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/pitch-product/</loc>
+		<lastmod>2020-03-08T08:45:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/acquiring-customers-marketing-startup/</loc>
+		<lastmod>2020-03-08T08:45:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/design-thinking-process/</loc>
+		<lastmod>2020-03-08T08:45:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/discover-i-in-review/</loc>
+		<lastmod>2020-03-08T08:45:43+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2012/12/DSC000121.jpg</image:loc>
+			<image:title><![CDATA[Discover I's Competition in Uniworld Gardens, Gurgaon]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/to-the-third-and-beyond/</loc>
+		<lastmod>2020-03-08T08:45:43+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2013/10/IMG_20131006_112126_11-e1381510155528.jpg</image:loc>
+			<image:title><![CDATA[ForzaVeyhan Pitbooth]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2013/10/team_featured.png</image:loc>
+			<image:caption><![CDATA[ForzaVeyhan Team]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2013/10/Screen-Shot-2013-10-10-at-9.06.56-PM.png</image:loc>
+			<image:caption><![CDATA[ForzaVeyhan Duties]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2013/10/forzveyhan_final_full_logo_transparent1.png</image:loc>
+			<image:caption><![CDATA[ForzaVeyhan Logo]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2013/10/IMG_20130111_152347-e1381509713769.jpg</image:loc>
+			<image:caption><![CDATA[ForzaVeyhan 1.3]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/yhack-2014-yale-university/</loc>
+		<lastmod>2020-03-08T08:45:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/hackmit-2014/</loc>
+		<lastmod>2020-03-08T08:45:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/bitcoin-reading-list/</loc>
+		<lastmod>2020-03-08T08:45:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/technothlon-2011-question-papers/</loc>
+		<lastmod>2020-03-08T08:45:44+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/trip-to-googleplex/</loc>
+		<lastmod>2020-03-08T08:45:44+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2011/06/DSC00080.jpg</image:loc>
+			<image:title><![CDATA[DSC00080]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/google-code-in-winners-announced/</loc>
+		<lastmod>2020-03-08T08:45:44+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/announcing-discover-i/</loc>
+		<lastmod>2020-03-08T08:45:44+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2011/10/logo.png</image:loc>
+			<image:title><![CDATA[Discover I Foundation]]></image:title>
+			<image:caption><![CDATA[Discover I Foundation Logo]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/sirihome/</loc>
+		<lastmod>2020-03-08T08:45:44+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/making-an-ocr-android-app-using-tesseract/</loc>
+		<lastmod>2020-03-08T08:45:44+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2011/11/capture_3.jpg</image:loc>
+			<image:title><![CDATA[Simple Android OCR App using Tesseract]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2011/11/capture_3.jpg</image:loc>
+			<image:title><![CDATA[Simple Android OCR App using Tesseract]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/discover-i-in-news/</loc>
+		<lastmod>2020-03-08T08:45:44+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2012/03/DSC056551-e1378620050843.jpg</image:loc>
+			<image:title><![CDATA[Discover I Foundation]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2012/03/ngo.jpg</image:loc>
+			<image:title><![CDATA[Discover I Foundation News in Times of India Gurgaon Edition 15 March 2012 Page 9]]></image:title>
+			<image:caption><![CDATA[Discover I Foundation News in Times of India Gurgaon Edition 15 March 2012 Page 9]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/hello-the-world-of-android/</loc>
+		<lastmod>2020-03-08T08:45:44+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2012/03/DSC00005.jpg</image:loc>
+			<image:title><![CDATA[Samsung Galaxy Nexus]]></image:title>
+			<image:caption><![CDATA[Samsung Galaxy Nexus]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/a-keyboard-with-no-marks/</loc>
+		<lastmod>2020-03-08T08:45:44+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2012/04/mbp_wo_keymarks.png</image:loc>
+			<image:title><![CDATA[MacBook Pro Without Keyboard Marks]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/after-the-deadline-1-point-6-released/</loc>
+		<lastmod>2020-03-08T08:45:45+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2010/03/screenshot-2.png</image:loc>
+			<image:title><![CDATA[The Settings Page (with the new settings)]]></image:title>
+			<image:caption><![CDATA[The Settings Page (with the new settings)]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2010/03/screenshot-3.png</image:loc>
+			<image:title><![CDATA[The settings on the user's profile edit page]]></image:title>
+			<image:caption><![CDATA[The settings on the user's profile edit page]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/plugin-browser-for-bbpress/</loc>
+		<lastmod>2020-03-08T08:45:45+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/bbpress-back-on-track/</loc>
+		<lastmod>2020-03-08T08:45:45+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2010/05/bbpress.jpg</image:loc>
+			<image:title><![CDATA[bbPress Forums (Old Look)]]></image:title>
+			<image:caption><![CDATA[bbPress Forums (Old Look)]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2010/05/forum-front-page.png</image:loc>
+			<image:title><![CDATA[bbPress Forums (New Look)]]></image:title>
+			<image:caption><![CDATA[bbPress Forums (New Look)]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2010/05/forum-topic.png</image:loc>
+			<image:title><![CDATA[bbPress Forum Topic (New Look)]]></image:title>
+			<image:caption><![CDATA[bbPress Forum Topic (New Look)]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/after-the-deadline-v1-5-for-bbpress-released/</loc>
+		<lastmod>2020-03-08T08:45:45+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2010/02/screenshot-1.png</image:loc>
+			<image:title><![CDATA[After the Deadline Plugin in Action]]></image:title>
+			<image:caption><![CDATA[After the Deadline Plugin in Action]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2010/02/screenshot-1.png</image:loc>
+			<image:title><![CDATA[After the Deadline Plugin in Action]]></image:title>
+			<image:caption><![CDATA[After the Deadline Plugin in Action]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2010/02/screenshot-2.png</image:loc>
+			<image:title><![CDATA[After the Deadline's Settings Page]]></image:title>
+			<image:caption><![CDATA[After the Deadline's Settings Page]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/after-the-deadline-v1-point-7-released/</loc>
+		<lastmod>2020-03-08T08:45:45+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2010/06/atd-bb.png</image:loc>
+			<image:title><![CDATA[After the Deadline for bbPress]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/bbpress-as-a-wordpress-plugin/</loc>
+		<lastmod>2020-03-08T08:45:45+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/capturing-the-lightning/</loc>
+		<lastmod>2020-03-08T08:45:45+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2010/09/Lightning1.jpg</image:loc>
+			<image:title><![CDATA[Lightning]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2010/09/Lightning1.jpg</image:loc>
+			<image:title><![CDATA[Lightning]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2010/09/Lightning2.jpg</image:loc>
+			<image:title><![CDATA[Lightning]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2010/09/Lightning3.jpg</image:loc>
+			<image:title><![CDATA[Lightning]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/releasing-bb-mystique-for-bbpress/</loc>
+		<lastmod>2020-03-08T08:45:45+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2010/10/bb-mystique-full.png</image:loc>
+			<image:title><![CDATA[bb Mystique v1.0 Screenshot]]></image:title>
+			<image:caption><![CDATA[bb Mystique v1.0 Screenshot]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2010/10/bb-mystique-full.png</image:loc>
+			<image:title><![CDATA[bb Mystique v1.0 Screenshot]]></image:title>
+			<image:caption><![CDATA[bb Mystique v1.0 Screenshot]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/easy-mentions-0-1-1-plugin-for-bbpress/</loc>
+		<lastmod>2020-03-08T08:45:45+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2010/01/screenshot-11.png</image:loc>
+			<image:title><![CDATA[Easy Mentions Plugin in Action!]]></image:title>
+			<image:caption><![CDATA[Easy Mentions Plugin in Action!]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2010/01/screenshot-21.png</image:loc>
+			<image:title><![CDATA[Settings Page of Easy Mentions Plugin]]></image:title>
+			<image:caption><![CDATA[Settings Page of Easy Mentions Plugin]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/2011-a-new-kind-of-forum-software-is-born/</loc>
+		<lastmod>2020-03-08T08:45:45+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2011/01/tt.png</image:loc>
+			<image:title><![CDATA[TwentyTen Child Theme]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2011/01/settings.png</image:loc>
+			<image:title><![CDATA[Settings]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2011/01/forum-type-status-visibility.png</image:loc>
+			<image:title><![CDATA[Forum Type, Status and Visibility]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2011/01/topic-actions.png</image:loc>
+			<image:title><![CDATA[Topic Actions]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2011/01/reply-actions.png</image:loc>
+			<image:title><![CDATA[Reply Actions]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2011/01/split-topic.png</image:loc>
+			<image:title><![CDATA[Split Topics]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2011/01/merge-topics.png</image:loc>
+			<image:title><![CDATA[Merge Topics]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2011/01/sticky.png</image:loc>
+			<image:title><![CDATA[Sticky Topic]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2011/01/enter-revision-reason.png</image:loc>
+			<image:title><![CDATA[Enter Modification Reason]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2011/01/revision-log.png</image:loc>
+			<image:title><![CDATA[Revision Log]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2011/01/loginless.png</image:loc>
+			<image:title><![CDATA[Loginless Posting Form]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2011/01/fav-subs.png</image:loc>
+			<image:title><![CDATA[Favorites and Subscriptions]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2011/01/view-no-replies.png</image:loc>
+			<image:title><![CDATA[View - No Replies]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2011/01/statistics.png</image:loc>
+			<image:title><![CDATA[Statistics]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2011/01/dashboard-widget.png</image:loc>
+			<image:title><![CDATA[Dashboard Widget]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2011/01/profile.png</image:loc>
+			<image:title><![CDATA[Profile Page]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2011/01/profile-edit.png</image:loc>
+			<image:title><![CDATA[Profile Edit Page]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2011/01/widgets.png</image:loc>
+			<image:title><![CDATA[Widgets]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2011/01/tags.png</image:loc>
+			<image:title><![CDATA[Tag Management]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/after-the-deadline-v1-4-for-bbpress-released/</loc>
+		<lastmod>2020-03-08T08:45:45+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/upcoming-features-of-social-it/</loc>
+		<lastmod>2020-03-08T08:45:46+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2009/08/socialit1.png</image:loc>
+			<image:title><![CDATA[Social It By Gaut.am]]></image:title>
+			<image:caption><![CDATA[Social It By Gaut.am]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/bb-cumulus-beta-for-bbpress-released/</loc>
+		<lastmod>2020-03-08T08:45:46+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2009/12/screenshot-1.png</image:loc>
+			<image:title><![CDATA[A preview of the bb Cumulus Tag Cloud]]></image:title>
+			<image:caption><![CDATA[A preview of the bb Cumulus Tag Cloud]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2009/12/screenshot-1.png</image:loc>
+			<image:title><![CDATA[A preview of the bb Cumulus Tag Cloud]]></image:title>
+			<image:caption><![CDATA[A preview of the bb Cumulus Tag Cloud]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2009/12/screenshot-2.png</image:loc>
+			<image:title><![CDATA[A preview of the Admin Settings Page]]></image:title>
+			<image:caption><![CDATA[A preview of the Admin Settings Page]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/social-it-plugin-for-bbpress/</loc>
+		<lastmod>2020-03-08T08:45:46+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/2-new-upcoming-plugins-for-bbpress/</loc>
+		<lastmod>2020-03-08T08:45:46+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2009/08/ripie.gif</image:loc>
+			<image:title><![CDATA[Rip Internet Explorer 6]]></image:title>
+			<image:caption><![CDATA[Rip Internet Explorer 6]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2009/08/extwitterlinks.png</image:loc>
+			<image:title><![CDATA[Easy Twitter Links]]></image:title>
+			<image:caption><![CDATA[Easy Twitter Links]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/upgrade-else-die-plugin-for-bbpress/</loc>
+		<lastmod>2020-03-08T08:45:46+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2009/08/ripie.gif</image:loc>
+			<image:title><![CDATA[Rip Internet Explorer 6]]></image:title>
+			<image:caption><![CDATA[Rip Internet Explorer 6]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2009/08/uedss.png</image:loc>
+			<image:title><![CDATA[Upgrade Else Die for bbPress - Preview when Forum Viewed in Internet Explorer 6]]></image:title>
+			<image:caption><![CDATA[Upgrade Else Die for bbPress - Preview when Forum Viewed in Internet Explorer 6]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/easy-twitter-links-plugin-for-bbpress/</loc>
+		<lastmod>2020-03-08T08:45:46+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2009/08/tweeter.png</image:loc>
+			<image:title><![CDATA[Twitter]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-includes/images/smilies/icon_razz.gif</image:loc>
+			<image:caption><![CDATA[:P]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2009/08/extwitterlinks.png</image:loc>
+			<image:title><![CDATA[Easy Twitter Links]]></image:title>
+			<image:caption><![CDATA[Easy Twitter Links]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/social-it-v1-2-for-bbpress-released/</loc>
+		<lastmod>2020-03-08T08:45:46+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2009/09/screenshot-2.png</image:loc>
+			<image:title><![CDATA[Screenshot of Admin Panel of Social It v1.2 for bbPress]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2009/08/socialit1.png</image:loc>
+			<image:title><![CDATA[Social It By Gaut.am]]></image:title>
+			<image:caption><![CDATA[Social It By Gaut.am]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2009/09/screenshot-2.png</image:loc>
+			<image:title><![CDATA[Screenshot of Admin Panel of Social It v1.2 for bbPress]]></image:title>
+			<image:caption><![CDATA[Screenshot of Admin Panel of Social It v1.2 for bbPress]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/ajaxed-chat-plugin-for-bbpress/</loc>
+		<lastmod>2020-03-08T08:45:46+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2009/09/screenshot-1.png</image:loc>
+			<image:title><![CDATA[Preview of the Final Outcome of Ajaxed Chat Plugin for bbPress]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2009/09/screenshot-1.png</image:loc>
+			<image:title><![CDATA[Preview of the Final Outcome of Ajaxed Chat Plugin for bbPress]]></image:title>
+			<image:caption><![CDATA[Preview of the Final Outcome]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2009/09/screenshot-21.png</image:loc>
+			<image:title><![CDATA[Preview of the Admin Settings Page of Ajaxed Chat Plugin for bbPress]]></image:title>
+			<image:caption><![CDATA[Preview of the Admin Settings Page]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/social-it-v1-3-for-bbpress-released/</loc>
+		<lastmod>2020-03-08T08:45:46+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2009/10/screenshot-3.png</image:loc>
+			<image:title><![CDATA[Hide/Show Social It Menu on Topic by Topic basis]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-includes/images/smilies/icon_razz.gif</image:loc>
+			<image:caption><![CDATA[:-P]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2009/10/screenshot-3.png</image:loc>
+			<image:title><![CDATA[Hide/Show Social It Menu on Topic by Topic basis]]></image:title>
+			<image:caption><![CDATA[Hide/Show Social It Menu on Topic by Topic basis]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/social-it-v1-4-released/</loc>
+		<lastmod>2020-03-08T08:45:46+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2009/10/screenshot-2.png</image:loc>
+			<image:title><![CDATA[Preview of the final outcome of Social It Plugin with excess networks displayed upon hover]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-includes/images/smilies/icon_razz.gif</image:loc>
+			<image:caption><![CDATA[:-P]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2009/10/screenshot-2.png</image:loc>
+			<image:title><![CDATA[Preview of the final outcome of Social It Plugin with excess networks displayed upon hover]]></image:title>
+			<image:caption><![CDATA[Preview of the final outcome of Social It Plugin with excess networks displayed upon hover]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/after-the-deadline-spell-checker-plugin-for-bbpress/</loc>
+		<lastmod>2020-03-08T08:45:46+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2009/10/screenshot-11.png</image:loc>
+			<image:title><![CDATA[After the Deadline Plugin for bbPress]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2009/10/screenshot-11.png</image:loc>
+			<image:title><![CDATA[After the Deadline Plugin for bbPress]]></image:title>
+			<image:caption><![CDATA[After the Deadline Plugin for bbPress]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/atd-plugin-now-live-on-wordpress-com-forums/</loc>
+		<lastmod>2020-03-08T08:45:46+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2009/11/atd-on-wpcom.png</image:loc>
+			<image:title><![CDATA[After the Deadline Plugin for bbPress Live on WordPress.com Forums!]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2009/11/atd-on-wpcom.png</image:loc>
+			<image:title><![CDATA[After the Deadline Plugin for bbPress Live on WordPress.com Forums!]]></image:title>
+			<image:caption><![CDATA[After the Deadline Plugin for bbPress Live on WordPress.com Forums!]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/social-it-v1-5-released/</loc>
+		<lastmod>2020-03-08T08:45:46+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2009/12/screenshot-21.png</image:loc>
+			<image:title><![CDATA[Another preview of the final outcome with excess networks displayed upon hover]]></image:title>
+			<image:caption><![CDATA[Another preview of the final outcome with excess networks displayed upon hover]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2009/12/screenshot-21.png</image:loc>
+			<image:title><![CDATA[Another preview of the final outcome with excess networks displayed upon hover]]></image:title>
+			<image:caption><![CDATA[Another preview of the final outcome with excess networks displayed upon hover]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2009/12/screenshot-4.png</image:loc>
+			<image:title><![CDATA[Screenshot of the settings page in the admin panel]]></image:title>
+			<image:caption><![CDATA[Screenshot of the settings page in the admin panel]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/tags-not-getting-deleted-in-bbpress/</loc>
+		<lastmod>2020-03-08T08:45:46+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2009/12/tag-delete.png</image:loc>
+			<image:title><![CDATA[Tags not Getting Deleted in bbPress 1.0 - Solution]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/bbpress-will-be-a-wordpress-plugin/</loc>
+		<lastmod>2020-03-08T08:45:46+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/bb-attachments-plugin-fixed/</loc>
+		<lastmod>2020-03-08T08:45:46+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2010/01/bbat1.png</image:loc>
+			<image:title><![CDATA[bb Attachments - Upload]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2010/01/bbat2.png</image:loc>
+			<image:title><![CDATA[bb Attachments - Files]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/atd-bookmarklet-spell-checking-in-a-click/</loc>
+		<lastmod>2020-03-08T08:45:46+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2010/01/atd-bookmark.png</image:loc>
+			<image:title><![CDATA[AtD Bookmark in action on my Blog]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2010/01/atd-bookmark.png</image:loc>
+			<image:title><![CDATA[AtD Bookmark in action on my Blog]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2010/01/atd-twitter.png</image:loc>
+			<image:title><![CDATA[AtD in action on Twitter]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/translating-wordpress-or-bbpress-plugins/</loc>
+		<lastmod>2020-03-08T08:45:46+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2010/01/translated-hi.png</image:loc>
+			<image:title><![CDATA[Translate the Strings]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2010/01/open_pot.png</image:loc>
+			<image:title><![CDATA[New Catalog from POT file...]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2010/01/select-pot.png</image:loc>
+			<image:title><![CDATA[Select the POT file]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2010/01/project-info.png</image:loc>
+			<image:title><![CDATA[Project information]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2010/01/path-info.png</image:loc>
+			<image:title><![CDATA[Path Info]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2010/01/translated-hi.png</image:loc>
+			<image:title><![CDATA[Translate the Strings]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2010/01/save-po.png</image:loc>
+			<image:title><![CDATA[Save the PO file]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/scrim-email-saver-0-point-1-for-bbpress/</loc>
+		<lastmod>2020-05-23T20:54:14+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2010/03/screenshot-1.png</image:loc>
+			<image:title><![CDATA[Scrim Email Saver Plugin in Action!]]></image:title>
+			<image:caption><![CDATA[Scrim Email Saver Plugin in Action!]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2010/03/screenshot-1.png</image:loc>
+			<image:title><![CDATA[Scrim Email Saver Plugin in Action!]]></image:title>
+			<image:caption><![CDATA[Scrim Email Saver Plugin in Action!]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2010/03/screenshot-21.png</image:loc>
+			<image:title><![CDATA[A Preview of the scr.im Page]]></image:title>
+			<image:caption><![CDATA[A Preview of the scr.im Page]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/scr-im-email-saver-plugin-for-wordpress-v0-1-released/</loc>
+		<lastmod>2020-05-23T20:54:14+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2010/05/screenshot-1.png</image:loc>
+			<image:title><![CDATA[Scrim Email Saver Plugin for WordPress in Action]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2010/03/screenshot-21.png</image:loc>
+			<image:title><![CDATA[A Preview of the scr.im Page]]></image:title>
+			<image:caption><![CDATA[A Preview of the scr.im Page]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/google-code-in-in-the-top-5-w00t/</loc>
+		<lastmod>2020-09-12T18:22:20+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/google-code-in-take-two/</loc>
+		<lastmod>2020-09-12T18:24:09+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2012/02/GCI_2011_logo_URL_blueborder-nowww.jpg</image:loc>
+			<image:title><![CDATA[Google Code-in 2011]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/sixteen/</loc>
+		<lastmod>2020-09-12T18:24:32+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/gci-mentions/</loc>
+		<lastmod>2020-12-21T23:54:06+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2011/01/HT.jpg</image:loc>
+			<image:title><![CDATA[Hindustan News Clipping]]></image:title>
+			<image:caption><![CDATA[Hindustan News Clipping]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/19-last-teen/</loc>
+		<lastmod>2020-12-22T00:01:51+00:00</lastmod>
+	</url>
+</urlset>
+<!-- XML Sitemap generated by Yoast SEO -->
